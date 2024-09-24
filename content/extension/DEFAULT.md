@@ -1,6 +1,6 @@
 ## What Devi AI does
 You can set up a trial account and see if Devi works for you.
-Devi helps you monitor Private and Public Facebook groups, Twitter, Reddit,LinkedIn, Nextdoor and WhatsApp groups for keywords.
+Devi helps you monitor Private and Public Facebook groups, Twitter, Reddit, LinkedIn, Nextdoor and WhatsApp groups for keywords.
 For Facebook, you only need to be a group member, and that's it. Whether you own the group or not. Whether public or private group. You don't only monitor, but also outreach.
 You can also create and schedule posts on your social media accounts using Devi
 We also have a feature that lets you analyze and summarize the latest news on the keywords you are monitoring so you can post to your social accounts and build authority. 
@@ -155,3 +155,10 @@ Wait until the debug is complete then screenshot and share
 ## Three (3) Leads Found
 Yes, all the leads will be logged and stay. Give it a few rounds of scanning, please.
 The tool processes a lot of data. Sometimes find posts that are removed or limited by admins so only a number shows
+
+## No Leads Found or Leads Screen Empty
+- Please ensure that your keywords selection is on "All" and not on a particular keyword
+  ![keywords on all](https://github.com/user-attachments/assets/97fe2c49-b33d-43eb-b9bd-958783374b68)
+
+- Check to confirm that your platforms are connected and in the case of Facebook, your groups are showing and selected
+  ![Facebook groups selected](https://github.com/user-attachments/assets/2eaf22dd-a940-46aa-a74a-c1e96bd1887f)
