@@ -7,7 +7,7 @@ We also have a feature that lets you analyze and summarize the latest news on th
 Our AI visual content generator is surely something you will like to explore as well. It automatically creates designs using your business information and logo and allows you to schedule visual content for your social media with ease.
 
 ## Devi Pricing
-Please click here https://ddevi.com/pricing to visit Devi pricing & features page
+Please click here https://ddevi.com/pricing to visit Devi's pricing & features page
 
 ## AI Leads Filter
 What the AI Leads Filter does is to thoroughly read through your leads and categorise them more specifically. This way, you go directly to a category that makes the most meaning to you. Plus, you can create your own filter of choice
@@ -35,6 +35,7 @@ Select the groups you want to add and those to remove
 ## Devi Affiliate Program
 Please click here https://ddevi.com/blog/become-a-devi-ai-affiliate-partner to read our blog on how to become a Devi Affiliate partner.
 You can also click here https://devi.getrewardful.com/signup and sign up right away
+
 ### Devi Affiliate Terms
 - Create an affiliate account and obtain your affiliate link
 - Accumulate a total of $100 in affiliate commission before payment
@@ -145,7 +146,7 @@ We are only offering white labels to a certain number of providers on a first co
 
 ### White Label Account Setup Guide
 Hi there, 
-Please watch this video to understand how you can setup your Agency plan https://youtu.be/AmcZ9JJ-En0
+Please watch this video to understand how you can set up your Agency plan https://youtu.be/AmcZ9JJ-En0
 
 ## Debug Scanning Issues
 You can go to;
