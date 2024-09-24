@@ -7,7 +7,7 @@ on:
   repository_dispatch:
 
 jobs:
-  deployAndIndex:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
