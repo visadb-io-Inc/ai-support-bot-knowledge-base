@@ -1,8 +1,8 @@
 import fs from "fs";
 import { parseMarkdown } from "./utils.js";
 
-const WORKER_URL = "https://ai-support-bot.visadb.workers.dev";
-const WORKER_API_KEY = "12owieurytheu2io93e8r7y6e372u8owuehdgh";
+const WORKER_URL = process.env.WORKER_URL || "http://localhost:8787";
+const WORKER_API_KEY = process.env.WORKER_API_KEY || "xxx";
 
 function getContents() {
   let contents = [];

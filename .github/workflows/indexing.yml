@@ -22,3 +22,6 @@ jobs:
 
       - name: Run indexing
         run: node index.js
+        env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          WORKER_API_KEY: ${{ secrets.WORKER_API_KEY }}
