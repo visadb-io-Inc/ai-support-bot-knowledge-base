@@ -18,7 +18,7 @@ jobs:
           node-version: "20"
 
       - name: Install indexing dependencies
-        run: cd indexing && npm install
+        run: npm install
 
       - name: Run indexing
-        run: cd indexing && node index.js
+        run: node index.js
