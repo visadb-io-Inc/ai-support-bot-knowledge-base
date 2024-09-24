@@ -1,0 +1,24 @@
+name: Content Indexing Continuous Integration
+
+on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+
+jobs:
+  deployAndIndex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20"
+
+      - name: Install indexing dependencies
+        run: cd indexing && npm install
+
+      - name: Run indexing
+        run: cd indexing && node index.js
