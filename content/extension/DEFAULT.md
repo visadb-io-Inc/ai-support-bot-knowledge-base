@@ -22,6 +22,9 @@ You can Please click here https://www.youtube.com/@ai_marketing_secret to access
 ## Set Devi keywords Youtube
 Please click here https://youtu.be/bFX9FpssXkY to watch our video  on how to optimize and add the best keywords
 
+## Select Devi best Facebook groups Youtube
+Here, you can click here https://youtu.be/M_DUrogu1WU to watch our video on how to choose the best Facebook groups.
+
 ## Select or Edit Facebook Groups
 To add or change your FB groups,
 Go to settings
