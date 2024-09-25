@@ -13,6 +13,12 @@ Bookeeping automates 95% of financial tasks with AI
 - Click on Filter and choose any of the options; Reconcilation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
 ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
 
+### Export Sheet
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Click on "Export"
+  ![export sheet](https://github.com/user-attachments/assets/3e7758cd-d41c-45c2-82ce-0be31203c63d)
+
 ## Generate Invoice
 
 ## Generate Spreadsheet
