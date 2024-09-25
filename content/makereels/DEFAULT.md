@@ -120,9 +120,11 @@ Video guide for Facebook Business Account setup: https://youtu.be/N7RSEgJNlb4?si
 ## Technical Information
 
 - Web-based application
-- Lite version available for desktop: https://makereels.ai/en/mobile-install
-- Free plan videos rendered on user's device
-- Paid plan or credit puchased videos rendered on server
+- Lite App version is available for desktop and mobile install here: https://makereels.ai/en/mobile-install
+- Free plan videos rendered on user's device and may have low quality based on device hardware
+- Paid plan or credit puchased videos rendered on server and offer highest quality of sound, videos and text
+- All the Downloaded reels can be found in Device download folder
+
 
 ## Support and Community
 
@@ -233,7 +235,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 ## Subscription Management
 
 - Cancel anytime through account settings
-- Refund policy: within 14 days of purchase
+- Refund policy: We have a free plan to test the tool. Credits and paid plans are not refundable after 24 hours. 
 - Option to switch between plans
 
 ## Technical Requirements
@@ -246,7 +248,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 
 - Download problems: Try different browsers or use PC
 - Arabic text alignment: Team is working on a fix
-- Instagram connection issues: Ensure proper Facebook Business account setup
+- Instagram connection issues: Ensure Facebook Business account is linked with Instagram profile, if you dont have it create one its free. 
 
 ## Customer Support Channels
 
@@ -255,11 +257,11 @@ Certainly! I'll add more details and categories based on the conversation logs:
 - Video tutorials
 - FAQ section (not explicitly mentioned but implied)
 
-## Additional Tools and Services
+## Additional Upsell Tools and Services
 
-- ddevi.com: Monitor Facebook groups and social media for leads
-- Website.ddevi.com: Make free AI websites with free hosting
-- Upcoming: Bookeeping.ai
+- ddevi.com: Monitor keywords in Facebook groups, LinkedIn, X, Reddit, Whatsapp groups to find leads and opportunities.
+- Website.ddevi.com: Make free AI websites with free hosting in 10 seconds. 
+- Bookeeping.ai is the first AI Accountant that can prepare ledgers, create statements, fill tax forms, generate invoice all from a simple text message. 
 
 ## Updates and Feature Requests
 
@@ -268,7 +270,8 @@ Certainly! I'll add more details and categories based on the conversation logs:
 
 ## Legal and Copyright
 
-- All stock resources are royalty-free
+- All stock resources are royalty-free including commercial purposes.
+- All the stock videos are loyalty free and users can publish reels using them including commercial purposes. Only paid plans. 
 - Users should not remove watermarks from free plan videos
 - Adherence to platform-specific content policies recommended
 - We dont allow cloning voice other than your own
@@ -277,7 +280,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 
 ## Introduction
 
-Makereels automatically creates short-form video content from topics, blogs or news. You can publish these on social media, your website or any other platform. Makereels is a great way to increase your content output and reach a wider audience.
+Makereels automatically creates viral short-form video content for any topic, convert blogs and newss RSS to highly engaging reel in your own voice. You can publish these on social media, your website or any other platform. Makereels is a great way to increase your content output and reach a wider audience. Perfect for generating hundreds of faceless reels using your own cloned voice. 
 
 ## Youtube Channel
 You can Please click here https://www.youtube.com/@ai_marketing_secret to access our Youtube channel and get all the information you need to make the best of Devi.
