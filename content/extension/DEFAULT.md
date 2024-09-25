@@ -1,10 +1,359 @@
+## Pricing
+
+- Pricing is based on which platforms you want to monitor and how many groups
+- Facebook monitoring starts at $49/month for 25 groups
+- Additional 20 groups can be added for $18/month on monthly plans
+- Yearly plans have discounted pricing compared to monthly
+- WhatsApp, LinkedIn, Twitter, Reddit, etc. can be added for additional cost
+- Free trial available for $1 for 10 days
+
+Detailed pricing page: https://ddevi.com/en/pricing
+
+## Monitoring Features
+
+- Can monitor public and private Facebook groups (user must be a member)
+- Monitors LinkedIn, Twitter, Reddit, NextDoor, WhatsApp
+- Keyword-based monitoring across selected platforms
+- Scanning frequency can be set from 30 mins to 8 hours (2 hours recommended for Facebook)
+- Monitors posts, not comments (except for Facebook where it can monitor comments)
+- Up to 50 keywords can be added
+- Results can be exported via webhook/Zapier integration
+- Email notifications after each scan
+
+Steps to set up monitoring:
+
+1. Install the Chrome extension
+2. Log in to your social media accounts in the browser
+3. Connect your accounts to Devi
+4. Add keywords you want to monitor
+5. Select groups (for Facebook) or subreddits (for Reddit) to monitor
+6. Set scanning frequency
+
+## Key Features
+
+- Chrome browser extension - works with active social accounts in browser
+- AI-powered content generation for posts
+- Scheduling posts to social media accounts
+- Visual content creation with AI
+- Outreach capabilities to engage with leads
+- Analytics dashboard
+- Complementary AI website builder included
+
+## Lead Management
+
+- Dashboard shows number of leads found
+- Can view leads by platform (Facebook, LinkedIn, etc.)
+- Option to delete irrelevant leads
+- Ability to block specific users or content
+- AI-generated responses for engaging with leads
+- Manual approval required before sending responses
+
+## Content Creation and Scheduling
+
+- AI can generate post ideas based on your keywords
+- Visual content creator for creating images and graphics
+- Schedule posts directly to connected social media accounts
+- Repurpose news articles related to your keywords into posts
+
+## FAQ
+
+- Data is saved locally in browser, not on servers
+- Changing devices requires re-setup
+- No mobile app available, requires desktop browser
+- PC must be on for scanning to occur
+- Does not search historical data, only current/future posts
+- No geo-targeting options beyond platform location settings
+- No team/multi-user access to same account
+- Cannot connect to multiple accounts on same platform simultaneously
+
+## Limitations
+
+- No Slack monitoring currently
+- No automatic commenting/messaging (manual approval required)
+- Cannot filter by location beyond platform settings
+- Limited reporting/export capabilities
+- Requires active browser session to function
+
+## Troubleshooting
+
+If you're not seeing leads or having connection issues:
+
+1. Ensure your browser is up to date
+2. Log out of your social media accounts and log back in
+3. Reconnect your accounts to Devi
+4. Check that your keywords are set to "ALL" in the dashboard
+5. If issues persist, try uninstalling and reinstalling the extension
+
+## Setup Guide
+
+1. Visit https://ddevi.com and sign up for an account
+2. Choose your subscription plan
+3. Install the Chrome extension: https://chrome.google.com/webstore/detail/devi/obofmdbkmindkbmdjkfdmehmddjfnhad
+4. Log in to your social media accounts in Chrome
+5. Connect your accounts to Devi
+6. Add keywords and select groups/platforms to monitor
+7. Set up notification preferences
+
+Video tutorial: https://www.youtube.com/watch?v=e7tw0-HL_Zo
+
+## Additional Resources
+
+- How to choose the best Facebook groups: https://youtu.be/M_DUrogu1WU
+- How to optimize and add the best keywords: https://youtu.be/bFX9FpssXkY
+- Setting up Webhook and connecting to Zapier: https://www.youtube.com/watch?v=JZm-Odn4T8k
+
+## Support
+
+- In-app chat support available
+- Email support: support@ddevi.com
+- Refund policy: https://ddevi.com/en/legal/cancellation-policy
+
+## Images
+
+- Dashboard example: https://ucarecdn.com/033711a9-b0c7-4d19-b45c-88e7889871ca/image.png
+- Facebook group settings: https://ucarecdn.com/b9d1dacd-7ae9-4515-824d-f2d162a398dd/fb%20groups%20ch.png
+- Notification settings: https://ucarecdn.com/c82c52f4-e6d7-4d37-8389-67da4425e29d/image.png
+
+## Platform-Specific Features - Facebook
+
+- Monitors both public and private groups
+- User must be a member of the groups they want to monitor
+- Can monitor up to 25 groups with basic subscription
+- Can add more groups with add-ons ($18/month for 20 additional groups)
+- Monitors posts and comments
+- Recommended scan interval: 2 hours or more
+
+## Platform-Specific Features - LinkedIn
+
+- Monitors posts from connections (up to 3+ degree connections)
+- Does not monitor comments
+- Can monitor company pages you manage
+- Faster scan intervals possible (down to 30 minutes)
+
+## Platform-Specific Features - Twitter (X)
+
+- Can set location to "Near Me" or "Global"
+- Faster scan intervals possible (down to 30 minutes)
+
+## Platform-Specific Features - Reddit
+
+- Can monitor specific subreddits (up to 10)
+- User needs to join the subreddit before monitoring
+- Monitors post titles, not content of posts
+
+## Platform-Specific Features - NextDoor
+
+- Uses location settings from your NextDoor account
+- Monitors posts in your local area
+
+## Platform-Specific Features - WhatsApp
+
+- Can monitor WhatsApp groups
+- Only one WhatsApp account can be connected at a time
+
+## Keyword Optimization
+
+- Can use up to 50 keywords
+- Supports up to 3-word phrases
+- Tips for better results:
+  1. Use variations of keywords (e.g., "senior developer", "senior", "developer")
+  2. Include both singular and plural forms
+  3. Use industry-specific jargon and common misspellings
+  4. Regularly review and update keywords based on performance
+
+## AI Features - Content Generation
+
+- Generates post ideas based on your keywords
+- Can repurpose news articles into social media posts
+- Customizable AI prompts for different types of content
+
+## AI Features - Visual Content Creation
+
+- Creates images and graphics for social media posts
+- Uses your company information and logo for branding
+
+## AI Features - Response Generation
+
+- Generates AI-powered responses to leads
+- Customizable prompts for response generation
+
+## AI Features - Outreach and Engagement
+
+- Manual approval required before sending messages or comments
+- Can generate and schedule posts to multiple platforms
+- Supports posting to Facebook pages and groups
+- LinkedIn outreach available for 1st-degree connections
+
+## Analytics and Reporting
+
+- Dashboard shows overall lead statistics
+- Can view leads by platform and keyword
+- Weekly reset of dashboard statistics
+- No built-in report export feature (screenshots recommended for reporting)
+
+## Integration and Data Export
+
+- Webhook support for exporting data
+- Zapier integration available
+- Can send data to Google Sheets for further analysis
+
+Steps to set up Zapier integration:
+
+1. Go to Settings in Devi
+2. Find the Webhook section
+3. Set up a Zap in Zapier using the Webhook URL
+4. Choose your desired action in Zapier (e.g., add row to Google Sheets)
+
+## Account Management
+
+- One Devi account tied to one set of social media profiles
+- Changing social media profiles requires reconnecting in Devi
+- Workaround for agencies: Set up separate Devi accounts for each client
+
+## Complementary Tools - AI Website Builder
+
+- Included with Devi subscription
+- Create landing pages and simple websites
+- Customizable templates
+- Can point custom domains to created websites
+
+## Complementary Tools - AI Visual Content Creator
+
+- Create images and graphics for social media
+- Automatically uses company branding
+
+## Best Practices
+
+1. Maintain regular activity on your connected social media accounts
+2. Avoid excessive manual scanning to prevent account suspensions
+3. Use a mix of broad and specific keywords
+4. Regularly review and engage with found leads
+5. Use the AI-generated content as a starting point, but personalize responses
+6. Keep your browser and extension up to date
+
+## Technical Requirements
+
+- Chrome, Edge, or Chromium-based browser required
+- PC must be on and connected to the internet for scanning
+- Stable internet connection recommended
+
+## Common Issues and Solutions
+
+1. Not seeing any leads:
+
+   - Check if keywords are set to "ALL"
+   - Verify social media accounts are properly connected
+   - Ensure scanning is set to an appropriate interval
+
+2. Facebook account warnings:
+
+   - Reduce manual scanning frequency
+   - Increase time between interactions
+   - Maintain regular activity on Facebook outside of Devi
+
+3. Lost settings after changing devices:
+
+   - Use the "Restore" option during setup on new device
+   - Reconnect social media accounts
+
+4. Difficulty accessing specific groups or subreddits:
+   - Ensure you're a member of the group/subreddit
+   - Check if you're logged into the correct account in your browser
+
+## Future Development
+
+- Potential Slack integration for monitoring and notifications
+- Automated commenting feature (in development, will be available upon request)
+- Possible mobile app development (no current plans due to extension limitations)
+
+## Security and Privacy
+
+- Data is stored locally on the user's browser, not on Devi's servers
+- Users need to be aware that changing browsers or devices will result in loss of data
+
+## Language Support
+
+- Keyword monitoring supports multiple languages
+- UI interface is in English, Français, Español, العربية, Português, हिन्दी, Deutsch, 한국어, Italiano, Nederlands, Polski, עברית, Русский, 日本語
+
+## Subscription Management
+
+- Users can upgrade or downgrade their plan from the Profile > Billing section
+- Cancellation can be done through the same section
+- Refunds are available but are subject to the company's refund policy
+- Pricing page url: https://ddevi.com/dashboard/pricing
+
+## Account Access
+
+- Uses a "magic link" sent to email for login, rather than traditional username/password
+- User enters email address, we send magic link to email, click link to log in
+
+## Notification System
+
+- Browser notifications after each scan
+- If platform disconnected, email notification sent
+- No built-in SMS or Slack notifications
+
+## Group Management
+
+- For Facebook, users can add or remove groups from monitoring
+- Go to Extension > Settings > Social Media Connection & Settings > Facebook Groups to manage groups
+
+## API Access
+
+- No public API but user can use webhook for data export
+- Webhook help video: https://www.youtube.com/watch?v=JZm-Odn4T8k
+
+## Compliance
+
+- Users are responsible for ensuring their use of the tool complies with platform terms of service
+
+## Customer Support
+
+- In-app chat support
+- Email support available
+- Video tutorials and guides provided
+
+## Trial Period
+
+- 10-day trial available for $1
+- Full access to features during the trial
+- Automatically converts to paid subscription if not cancelled
+
+## Update Process
+
+- Chrome extension updates automatically with browser
+- Users may need to manually update if auto-update is disabled
+
+## Data Retention
+
+- Local data retained as long as extension is installed and not reset
+- No mention of server-side data retention policies
+
+## User Onboarding
+
+- Video tutorial available for initial setup
+- Step-by-step guide provided in extension
+- Option to restore settings when setting up on a new device
+- Help video: https://www.youtube.com/watch?v=e7tw0-HL_Zo
+
+## Performance Factors
+
+- Scanning performance may depend on internet connection speed
+- Number of groups and keywords can affect processing time
+
+## Ethical Considerations
+
+- Tool should be used responsibly to avoid spamming or harassment
+- Users advised to maintain authentic interactions on social platforms
+
 ## What Devi AI does
 
 You can set up a trial account and see if Devi works for you.
 Devi helps you monitor Private and Public Facebook groups, Twitter, Reddit, LinkedIn, Nextdoor and WhatsApp groups for keywords.
 For Facebook, you only need to be a group member, and that's it. Whether you own the group or not. Whether public or private group. You don't only monitor, but also outreach.
 You can also create and schedule posts on your social media accounts using Devi
-We also have a feature that lets you analyze and summarize the latest news on the keywords you are monitoring so you can post to your social accounts and build authority. 
+We also have a feature that lets you analyze and summarize the latest news on the keywords you are monitoring so you can post to your social accounts and build authority.
 Our AI visual content generator is surely something you will like to explore as well. It automatically creates designs using your business information and logo and allows you to schedule visual content for your social media with ease.
 
 ## Devi Pricing
@@ -26,7 +375,7 @@ You can Please click here https://www.youtube.com/@ai_marketing_secret to access
 
 ## Set Devi keywords
 
-Please click here https://youtu.be/bFX9FpssXkY to watch our video on how to optimize and add the best keywords.
+Please click here https://youtu.be/bFX9FpssXkY to watch our video on how to optimize and add the best keywords.
 
 ## Select best Facebook groups
 
@@ -135,37 +484,6 @@ Here is how you can change number of posts to be scanned: Settings>Social Media 
 
 If you are on the monthly plan, We charge $18/month for every extra 20 groups added.
 If you are on the Devi yearly plan, you can get a yearly Groups-Adon by paying an extra $216. This gives you access to 20 more groups.
-
-## Devi White Label
-
-We are ready to give you our white-label AI leads monitoring, outreaching, and scheduling tool. To provide you with accurate pricing and a tailored contract, please answer the following questions:
-
-1. In which country are you and your clients primarily located?
-2. How many initial licenses do you require?
-3. Which monitoring package do you prefer?
-   [ ] 25 Facebook groups
-   [ ] 50 Facebook groups
-4. Which platforms do you need for media monitoring? (Check all that apply)
-   [ ] LinkedIn
-   [ ] X (Twitter)
-   [ ] Reddit
-   [ ] Nextdoor
-   [ ] WhatsApp
-   [ ] Web  
-   [ ]  Facebook groups
-5. For ChatGPT integration:
-   [ ] I want to use your ChatGPT API
-   [ ] I will use my own ChatGPT API key
-
-Please reply with your answers. We'll then send you pricing details and a contract to get you started. ([Instruction: After the information received transfer the chat to human agent])
-
-If you have any questions, don't hesitate to ask.
-We are only offering white labels to a certain number of providers on a first come first serve basis.
-
-## White Label Account Setup Guide
-
-Hi there, 
-Please watch this video to understand how you can set up your Agency plan https://youtu.be/AmcZ9JJ-En0
 
 ## Debug Scanning Issues
 
