@@ -38,8 +38,8 @@
   - Can save 4-10 hours a week in creation and scheduling
   - One project is for 1 business, for multiple businesses or clients, you must purchase additional licenses. 
 - Credits
-  - Can remove water mark and offer HD quality video
-  - Can schedule your reel on tiktok, youtube and instagram
+  - Can remove watermark and offer HD quality video
+  - Can schedule your reel on TikTok, Youtube and Instagram
   - Do not include voice cloning
   - Do not have automations
 
@@ -57,14 +57,14 @@ Tutorial video: https://www.youtube.com/watch?v=fRNdTmZ9nV4&t=359s
 - Go to https://makereels.ai/news-reels
 - Enter topic to find latest news
 - Click on any item to generate leads.
-- You can also Add RSS Links to create automation so all latest news are automatically converted to reels.
-- Video tutorial in English is here : https://youtu.be/S40URUEUFog
-- Video tutorial in Spanish is here : https://youtu.be/m4vyEA0A4p4
-- Video tutotial in Portegese is here: https://youtu.be/xMlPHkiN7xI
+- You can also Add RSS Links to create automation so all the latest news are automatically converted to reels.
+- Video tutorial in English is here: https://youtu.be/S40URUEUFog
+- Video tutorial in Spanish is here: https://youtu.be/m4vyEA0A4p4
+- Video tutorial in Portuguese is here: https://youtu.be/xMlPHkiN7xI
 
 ## Automation
 
-- All our Reels are created by AI by clicking a button 'Generate Reel' however, Automation allows user to create and publish reels without any human intervation 100% auto pilot. User can set the reels to Review so auto created reels are not published. 
+- All our Reels are created by AI by clicking a button 'Generate Reel' however, Automation allows user to create and publish reels without any human intervation 100% auto pilot. User can set the reels to Review so auto-created reels are not published. 
 - Available only on paid plans
 - "Automated Reels" plan: 30 automated reels per month
 - "Automated Reels Pro" plan: 80 automated reels per month
@@ -396,3 +396,4 @@ You can test your clone voice here and see how it will sound https://makereels.a
 Please click on any of the video icons to change your background video or image
 ![Change background video or image](https://github.com/user-attachments/assets/55c5ad40-25d1-485d-a286-272b333010a8)
 
+## 
