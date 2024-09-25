@@ -32,15 +32,6 @@ Social Media Connection & Settings
 Facebook Groups & Settings
 Select the groups you want to add and those to remove
 
-## Devi Affiliate Program
-Please click here https://ddevi.com/blog/become-a-devi-ai-affiliate-partner to read our blog on how to become a Devi Affiliate partner.
-You can also click here https://devi.getrewardful.com/signup and sign up right away
-
-### Devi Affiliate Terms
-- Create an affiliate account and obtain your affiliate link
-- Accumulate a total of $100 in affiliate commission before payment
-- Payment only through PayPal
-
 ## Devi Billing Page
 Please click here https://ddevi.com/dashboard/billing to access your billing page and see what subscription you have active
 
