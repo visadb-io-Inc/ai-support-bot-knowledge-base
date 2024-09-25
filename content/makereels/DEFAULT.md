@@ -1,3 +1,11 @@
+## Benefits
+- Can save 4-10 hours a week in creation and scheduling.
+- Do not need to hire a separate person for content creation
+- Clone your voice to create a digital you for personalize fast content creation
+- Short form video is the highest engaging type of content moving forward
+- News Reels can build authority and trust
+
+
 ## Pricing
 
 - Prices are in US dollars
@@ -7,11 +15,11 @@
   - "Automated Reels Pro" plan: $49/month
 - Credit system available for one-time uses without subscription
 - Annual plans offer a discount compared to monthly plans
-- Refunds accepted within 14 days of delivery
+- Refunds accepted within 24 hours of delivery
 - Geo based discounted pricing like countries (e.g., India, parts of Africa) have subsidized pricing
 - Pricing page auto pricing based on location: https://makereels.ai/en/pricing
 
-## Free vs Paid Plans
+## Free vs Paid Plans vs Credits
 
 - Free plan:
   - Unlimited AI reel creation with watermarks
@@ -23,8 +31,17 @@
   - Remove watermarks
   - Upload custom images/videos
   - Advanced voice options including voice cloning
+  - 5 automations or 20 automation for pro. 
   - Auto creation and publishing to social media
   - HD video rendering
+  - You can add 1 collaborator to work on your project
+  - Can save 4-10 hours a week in creation and scheduling
+  - One project is for 1 business, for multiple businesses or clients, you must purchase additional licenses. 
+- Credits
+  - Can remove water mark and offer HD quality video
+  - Can schedule your reel on tiktok, youtube and instagram
+  - Do not include voice cloning
+  - Do not have automations
 
 ## How to Create Reels
 
