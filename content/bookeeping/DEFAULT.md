@@ -1,17 +1,87 @@
 ## Introduction
 
 Bookeeping automates 95% of financial tasks with AI
+
+## Dashboard
+### Transaction
+- On your dashboard
+- Click "Add Transaction"
+- Select from Import Transaction, Add Receipt, or Import Bank Statement"
+  ![Add transaction](https://github.com/user-attachments/assets/eaaec3bd-46f3-4698-bc99-bd64f9a61019)
+
+### AI Task Assistant
+- On your dashboard
+- Choose from the AI task assistant options provided
+  ![task assistant dashboard](https://github.com/user-attachments/assets/f9f813ca-12d4-4836-b180-99e12ab1c859)
+
+### Account Summary
+- On your dashboard
+- You see "Revenue, Expenses and Net Income"
+- Also scroll down to view the account breakdown
+  ![Account summary](https://github.com/user-attachments/assets/994ab581-e1f9-46eb-ba0c-1636dfa76782)
+  ![Account Statement summary](https://github.com/user-attachments/assets/f0a79d62-c225-4d88-a0d3-291be0ca49e4)
+
+### Clear Demo data
+- Go to dashboard
+- Navigate "clear demo data"
+  ![Clear Demo Data](https://github.com/user-attachments/assets/3c31703c-235f-4b36-9dab-f6c6d60a8ae7)
+
+### Give Feedback
+-Navigate and click on Feedback
+![feedback](https://github.com/user-attachments/assets/1decd06d-1072-4ee0-b4bd-ed72029b0402)
+
 ## Accounting
 ### Start Accounting Tasks
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
-  ![start accounting tasks](https://github.com/user-attachments/assets/3ffcfdec-31cb-43cf-9485-ff101a2c2f0d)
+- Connect your Bank or Import CSV, or import Demo Data
+  ![start accounting tasks](https://github.com/user-attachments/assets/38afb860-549a-4525-9fcc-538b8ac4d793)
 
-### Use Filter in General
+### Turn On Expert Mode
+This gives you more customization options to handle your sheets better
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
+- Click to toggle turn on "Expert Mode"
+  ![Turn on expert mode](https://github.com/user-attachments/assets/09798e66-e6b5-484d-9e99-3155b17a57b3)
+
+### General
+#### Use Filter 
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Select General
 - Click on Filter and choose any of the options; Reconcilation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
 ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
+
+#### Columns Filter
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Click on Filter and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
+  ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
+
+### Profit & Loss
+#### Use Filter
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Select Profit & Loss
+- Click on Filter and choose from the options; "Reconciliations, Counterparties, or Bank Accounts"
+- You can also use the header filters
+![filter profit and loss](https://github.com/user-attachments/assets/8c224d35-d021-42f1-8286-52c6e5345e31)
+![more filters profit and loss](https://github.com/user-attachments/assets/ee3aa9d9-449f-4339-a8b3-509a9ed0f8f7)
+
+### Balance Sheet
+#### Use Filter
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Select Balance Sheet
+- Click on Filter and choose from the options; "Reconciliations, Counterparties, or Bank Accounts"
+  ![Balance sheet filter](https://github.com/user-attachments/assets/f1048673-27fd-4b55-a499-374dbea10a1c)
+
+### Create Sheets
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate to Accounting
+- Select Profit & Loss
+- Navigate and Click on "Create Sheets"
+  ![create sheet profit   Loss](https://github.com/user-attachments/assets/42b8f77c-c8e5-4ba8-9f4a-404e1bb24d7e)
 
 ### Export Sheet
 - Login to your Dashboard on https://bookeeping.ai/
@@ -19,9 +89,63 @@ Bookeeping automates 95% of financial tasks with AI
 - Click on "Export"
   ![export sheet](https://github.com/user-attachments/assets/3e7758cd-d41c-45c2-82ce-0be31203c63d)
 
-## Generate Invoice
 
-## Generate Spreadsheet
+## Invoice
+### Create Invoice
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate and select Invoices
+- Navigate and Click on "Create invoice"
+- You can also chat with the AI Assistant
+- Input your invoice description
+ ![Create Invoice](https://github.com/user-attachments/assets/7563c2d5-48c7-4a48-9027-b368dd04509a)
+![Invoice description](https://github.com/user-attachments/assets/6666edc7-56fd-4b80-aa75-0aa09055deac)
+
+### Create Blank Invoice
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate and select Invoices
+- Navigate and Click on "Create invoice"
+- You can also chat with the AI Assistant
+- Click on "Blank Invoice"
+  ![Blank invoice](https://github.com/user-attachments/assets/a572f57f-f532-47cd-98fb-a7e3208f8f8d)
+
+### Customize and Send Invoice
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate and select Invoices
+- Navigate and Click on "Create invoice"
+- You can also chat with the AI Assistant
+- Click and edit any field of your choosing
+- After completing the edit, click on send
+![customize and send invoice](https://github.com/user-attachments/assets/f671757a-4682-4724-950a-9b386929c08d)
+
+### Export Invoice
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate and select Invoices
+- Navigate and Click on "Create invoice"
+- You can also chat with the AI Assistant
+- Click and edit any field of your choosing
+- After completing the edit, click "Export PDF" to have your invoice downloaded
+![Export invoice](https://github.com/user-attachments/assets/ca6522f3-c793-443a-9bae-3f7d95647b68)
+
+## Spreadsheets
+### Create and Open Sheet
+- Login to your Dashboard on https://bookeeping.ai/
+- Navigate and select Spreadsheet
+- Navigate and Click on "Create Sheet" to make from scratch, create blank sheet or Import.
+- You can also open an existing sheet
+- You can also chat with the AI Assistant
+![Create or open sheet](https://github.com/user-attachments/assets/8ae6c546-3965-4fe8-9a9b-fe914cede5d4)
+
+
+
+
+## Chat with AI Assistant
+- On any screen other than dashboard, Click on the chat assistant
+- You can choose any of the options to perform any activity of your choice
+  ![chat with Assistant 1](https://github.com/user-attachments/assets/fb183af3-6c9a-4bd8-b1f3-9453f35bf3e4)
+![chat with Assistant 2](https://github.com/user-attachments/assets/25aafa66-1204-428c-b22d-9634fb3abfc6)
+
+## Spreadsheets
+### Generate Spreadsheet
 -To generate a blank sheet:
 -To generate a dummy sheet:
 -Upload your own sheet
