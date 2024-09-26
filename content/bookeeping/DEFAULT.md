@@ -170,7 +170,7 @@ This gives you more customization options to handle your sheets better
 - Click on More
 - Click on Bank Accounts
 - Click on "Add Account" or edit/delete existing one
-- You can also Add connection
+- You can also Add a Connection
 ![Bank accounts](https://github.com/user-attachments/assets/2d848881-ebe9-429e-aef5-2c10c1c5e221)
 
 ## Add Connection
