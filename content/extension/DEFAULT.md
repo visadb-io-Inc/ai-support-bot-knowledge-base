@@ -88,7 +88,7 @@ If you're not seeing leads or having connection issues:
 
 1. Visit https://ddevi.com and sign up for an account
 2. Choose your subscription plan
-3. Install the Chrome extension: https://chrome.google.com/webstore/detail/devi/obofmdbkmindkbmdjkfdmehmddjfnhad
+3. Install the Chrome extension: https://chromewebstore.google.com/detail/devi/obofmdbkmindkbmdjkfdmehmddjfnhad
 4. Log in to your social media accounts in Chrome
 5. Connect your accounts to Devi
 6. Add keywords and select groups/platforms to monitor
