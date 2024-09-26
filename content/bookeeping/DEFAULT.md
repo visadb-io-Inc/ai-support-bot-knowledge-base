@@ -185,8 +185,16 @@ This gives you more customization options to handle your sheets better
   ![chat with Assistant 1](https://github.com/user-attachments/assets/fb183af3-6c9a-4bd8-b1f3-9453f35bf3e4)
 ![chat with Assistant 2](https://github.com/user-attachments/assets/25aafa66-1204-428c-b22d-9634fb3abfc6)
 
-## Spreadsheets
-### Generate Spreadsheet
--To generate a blank sheet:
--To generate a dummy sheet:
--Upload your own sheet
+## Settings
+- On your dashboard, click on settings
+Here, you can manage your account and update settings such as;
+- Company settings
+- Profile settings
+- Collaborators
+- Categories
+- Account Connections
+Other
+- Billing
+- Logout
+- You can also Contact Support
+![Settings](https://github.com/user-attachments/assets/b09281e5-fc6e-467a-9151-2495d7f1c103)
