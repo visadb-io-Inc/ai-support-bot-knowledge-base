@@ -392,6 +392,11 @@ Here is a video guide on how you can open a Facebook Business Account https://yo
 ## Test Voice Cloning for free
 You can test your clone voice here and see how it will sound https://makereels.ai/en/voice-cloning
 
+## Add Reels Content
+- You can click on any scene to edit or add text
+- Also scroll down to the last scene and you can add a new scene
+![add reels content](https://github.com/user-attachments/assets/5aaae97a-2b74-4580-afb8-6ec196ed6979)
+
 ## Change Background Video
 Please click on any of the video icons to change your background video or image
 ![Change background video or image](https://github.com/user-attachments/assets/55c5ad40-25d1-485d-a286-272b333010a8)
