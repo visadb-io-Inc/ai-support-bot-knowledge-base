@@ -134,9 +134,50 @@ This gives you more customization options to handle your sheets better
 - You can also open an existing sheet
 - You can also chat with the AI Assistant
 ![Create or open sheet](https://github.com/user-attachments/assets/8ae6c546-3965-4fe8-9a9b-fe914cede5d4)
+![make sheets](https://github.com/user-attachments/assets/42ae5b8b-186a-4bd6-80ae-6da6f4c821b2)
 
+## Receipts
+- Click on Receipts
+- Connect Email account
+- Create receipts and send
+![Create Receipts](https://github.com/user-attachments/assets/0169a8b0-7feb-4504-a5df-937aaae32245)
+![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
 
+## Docs
+- Click on More
+- Select Docs
+- Click on "Create Document" or Chat with AI Assistant then choose to create doc
+- Describe doc to be autocreated or choose blank document to create empty document
+  ![Create Docs](https://github.com/user-attachments/assets/ea1be001-74f5-467c-bf17-d502c267b396)
+![make document](https://github.com/user-attachments/assets/7c8624be-b206-464b-8d1b-f3387466d0b3)
 
+## File Storage
+- Click on More
+- Select File Storage
+- Click "Add File" and select file
+- Or open existing file
+  ![file storage](https://github.com/user-attachments/assets/407983d3-8488-4edd-a9e8-1b1eab414658)
+
+## Counterparty
+- Click on More
+- Click on Counterparties
+- Click on "Add Counterparty" or view existing counterparty
+- Fill in details
+  ![couterparty](https://github.com/user-attachments/assets/b9a353b3-68ee-4d90-bfb2-040feca7b095)
+![Fill counterparty](https://github.com/user-attachments/assets/584caa05-629f-40ff-9c22-c674221e4179)
+
+## Add Bank Accounts
+- Click on More
+- Click on Bank Accounts
+- Click on "Add Account" or edit/delete existing one
+- You can also Add connection
+![Bank accounts](https://github.com/user-attachments/assets/2d848881-ebe9-429e-aef5-2c10c1c5e221)
+
+## Add Connection
+- Click on More
+- Click on Bank Accounts
+- Click on Add connection
+  ![add connection](https://github.com/user-attachments/assets/dd9c0687-5d92-4f49-a79a-78643d4fe03c)
 
 ## Chat with AI Assistant
 - On any screen other than dashboard, Click on the chat assistant
