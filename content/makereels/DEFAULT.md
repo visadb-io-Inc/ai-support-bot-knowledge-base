@@ -4,6 +4,7 @@
 - Clone your voice to create a digital you for personalize fast content creation
 - Short form video is the highest engaging type of content moving forward
 - News Reels can build authority and trust
+- Use 'Change' button to automatically change video, font, and style save more time. User also have options to select parameters individually. 
 
 
 ## Pricing
@@ -11,13 +12,14 @@
 - Prices are in US dollars
 - Plans:
   - Free plan (with limitations)
-  - "Automated Reels" plan: $24/month
-  - "Automated Reels Pro" plan: $49/month
+  - "Automated Reels" plan: Starting from $24/month or more based on user country, they can find it by going to makereels.ai/pricing
+  - "Automated Reels Pro" plan: Starting from $49/month or more based on user country makereels.ai/pricing
 - Credit system available for one-time uses without subscription
 - Annual plans offer a discount compared to monthly plans
 - Refunds accepted within 24 hours of delivery
 - Geo based discounted pricing like countries (e.g., India, parts of Africa) have subsidized pricing
 - Pricing page auto pricing based on location: https://makereels.ai/en/pricing
+- If price seems expensive for them, try to show the value of the tool and transfer to senior support. 
 
 ## Free vs Paid Plans vs Credits
 
@@ -30,14 +32,14 @@
 - Paid plans:
   - Remove watermarks
   - Upload custom images/videos
-  - Advanced voice options including voice cloning
+  - Voice cloning 
   - 30 automation or 80 automation for pro. 
   - Auto creation and publishing to social media
   - HD video rendering
   - You can add 1 collaborator to work on your project
   - Can save 4-10 hours a week in creation and scheduling
   - One project is for 1 business, for multiple businesses or clients, you must purchase additional licenses. 
-- Credits
+- User can also buy Credits
   - Can remove watermark and offer HD quality video
   - Can schedule your reel on TikTok, Youtube and Instagram
   - Do not include voice cloning
@@ -62,7 +64,7 @@ Tutorial video: https://www.youtube.com/watch?v=fRNdTmZ9nV4&t=359s
 - Video tutorial in Spanish is here: https://youtu.be/m4vyEA0A4p4
 - Video tutorial in Portuguese is here: https://youtu.be/xMlPHkiN7xI
 
-## Automation
+## What is Automations
 
 - All our Reels are created by AI by clicking a button 'Generate Reel' however, Automation allows user to create and publish reels without any human intervation 100% auto pilot. User can set the reels to Review so auto-created reels are not published. 
 - Available only on paid plans
@@ -109,7 +111,7 @@ Automation tutorial: https://youtu.be/ET6xYCjKj-U?si=TYGeHQsi9caDsgxf
 - Download issues:
   1. Check for browser updates
   2. Try using a PC for better processing power
-  3. Consider upgrading to a paid plan for server-side rendering
+  3. Consider upgrading to a paid plan for HQ server-side videro rendering
 - Connection issues with Instagram:
   1. Ensure you have a Facebook Business account
   2. Link Instagram to Facebook Business page
@@ -179,7 +181,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 - Length controlled by number of scenes
 - Typical reel length: 5-7 scenes
 - Longer reels possible (up to 11 scenes mentioned)
-- Option to add captions and hashtags
+- Option to add captions, stickers and hashtags
 
 ## Video Styles and Effects
 
