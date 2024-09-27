@@ -222,6 +222,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 - 30+ languages supported
 - Some languages may have limited voice options
 - Arabic text alignment issues reported (being worked on)
+- You cannot use one language for voice and a different one for text. It has to be the same language for both.
 
 ## Mobile Experience
 
@@ -297,7 +298,10 @@ Certainly! I'll add more details and categories based on the conversation logs:
 
 ## Introduction
 
-Makereels automatically creates viral short-form video content for any topic, convert blogs and newss RSS to highly engaging reel in your own voice. You can publish these on social media, your website or any other platform. Makereels is a great way to increase your content output and reach a wider audience. Perfect for generating hundreds of faceless reels using your own cloned voice. 
+- Makereels automatically creates viral short-form video content for any topic, convert blogs and newss RSS to highly engaging reel in your own voice.
+- You can publish these on social media, your website or any other platform.
+- Makereels is a great way to increase your content output and reach a wider audience.
+- Perfect for generating hundreds of faceless reels using your own cloned voice. 
 
 ## Youtube Channel
 You can Please click here https://www.youtube.com/@ai_marketing_secret to access our Youtube channel and get all the information you need to make the best of Devi.
@@ -308,7 +312,9 @@ Please click on this button to download Reels
 ![Download reels](https://github.com/user-attachments/assets/a3f00105-d049-4feb-bbfc-121ee2d808d0)
 
 ### Makereels not downloading
-Please check if your browser has an update. If the issue persists, then I will suggest you try on a more recent PC preferably as it will have better processing power. Or if you are on a paid plan, Reels are rendered on a server so you will not have this issue.
+- Please check if your browser has an update.
+- If the issue persists, then I will suggest you try on a more recent PC preferably as it will have better processing power.
+- Or if you are on a paid plan, Reels are rendered on a server so you will not have this issue.
 
 ## Reels Font Size
 Here is how you can change the reel font size
@@ -386,8 +392,18 @@ Please use this link to purchase credits https://makereels.ai/api/stripe/purchas
 Here you can control the volume of the background music Voice>Background Music>Scroll down to Volume
 ![bg volume (1)](https://github.com/user-attachments/assets/c2388888-3a90-41de-b374-d1f0cd156bf1)
 
-## Create Facebook Business Account to connect Instagram to Makereels
-Here is a video guide on how you can open a Facebook Business Account https://youtu.be/N7RSEgJNlb4?si=5ZpURMdxVfurR-Ec
+## How to connect Instagram (IG) to Makereels
+- Create a Facebook Business Account
+- Link your Instagram Account to the Facebook Business Account
+- Here is a video guide on how you can open a Facebook Business Account https://youtu.be/N7RSEgJNlb4?si=5ZpURMdxVfurR-Ec
+- Here are screenshot guides on how to connect Instagram (IG) to Makereels
+![{1}](https://github.com/user-attachments/assets/cde39e03-d3fe-4523-97d2-f710b8675122)
+![{2}](https://github.com/user-attachments/assets/c57f8cb6-4c08-432a-bf97-cf45778bcf0c)
+![{3}](https://github.com/user-attachments/assets/bb170ac5-ce87-48bd-899c-e832581741f6)
+![{4}](https://github.com/user-attachments/assets/f4fdb660-5458-4e4d-8273-e8b4bc64318d)
+![{5}](https://github.com/user-attachments/assets/c12c8706-99ad-4466-8c79-8eb6df59fdba)
+![{6}](https://github.com/user-attachments/assets/bdf2bee7-bb7f-46f3-9624-efc3d9b84a94)
+![{7}](https://github.com/user-attachments/assets/565c3f9b-a38f-4fce-993d-a3c119b1917e)
 
 ## Test Voice Cloning for free
 You can test your clone voice here and see how it will sound https://makereels.ai/en/voice-cloning
