@@ -31,7 +31,7 @@
   - Remove watermarks
   - Upload custom images/videos
   - Advanced voice options including voice cloning
-  - 5 automations or 20 automation for pro. 
+  - 30 automation or 80 automation for pro. 
   - Auto creation and publishing to social media
   - HD video rendering
   - You can add 1 collaborator to work on your project
