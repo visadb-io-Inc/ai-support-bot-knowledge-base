@@ -316,7 +316,7 @@ Please click on this button to download Reels
 - If the issue persists, then I will suggest you try on a more recent PC preferably as it will have better processing power.
 - Or if you are on a paid plan, Reels are rendered on a server so you will not have this issue.
 
-## Reels Font Size
+## How to Change Reels Font Size
 Here is how you can change the reel font size
 Logo & Style> Font size
 ![Font Size ](https://github.com/user-attachments/assets/b1b80e1b-ab36-43c2-98fa-61a0c0ef8d88)
@@ -328,33 +328,35 @@ Hi, we have set up an affiliate program for Makereels. You can signup here http
 ### Create Reels
 Please click here to watch our video on how to create reels with AI https://www.youtube.com/watch?v=fRNdTmZ9nV4&t=359s
 
-### Automate Reels
+### How to Automate Reels
 https://youtu.be/ET6xYCjKj-U?si=TYGeHQsi9caDsgxf Here is how you can automate reels creation with AI
 
-## Makereels Portuguese Language Youtube Video
+## How to use Makereels: Portuguese video guide
 ### Create Reels
 Aqui está um guia sobre como usar os carretéis https://youtu.be/l3__PL-oJuE
 
-### Automate Reels
+### How to Automate Reels: Portuguese video guide
 Aqui está um guia sobre como automatizar reels https://youtu.be/xMlPHkiN7xI
 
-## Makereels Spanish Language Youtube Video
+## How to use Makereels: Spanish video guide
 ### Create Reels
 Aquí hay una guía sobre cómo crear reels https://youtu.be/co8fXzTI6Do
 
-### Automate Reels
+### How to Automate Reels: Spanish video guide
 Aquí hay una guía sobre cómo automatizar reels https://youtu.be/1ETzRBO3w6A
 
-## Reels Project
-Please check what project your reels is set on
+## IF you are asked to upgrade even though you already have paid a subscription
+- First Confirm what Reels Project you are on.
+- On the top left, click to confirm
+- Select the project that has the subscription (See screenshot)
 ![reel project](https://github.com/user-attachments/assets/be3c2989-e340-42a0-85a5-582c1bf3dec9)
 
 ## Voice Cloning
 Here is how you can clone your voice
 ![Clone voice](https://github.com/user-attachments/assets/d2b0e4af-cf7a-47fa-91af-2584d6c6af17)
 
-## Reels Custom/Own Prompt
-Please use the custom prompt category
+## Use Reels Custom Prompt or your own Prompt
+At the category section, choose the custom prompt option (see screenshot)
 ![Use custom prompt](https://github.com/user-attachments/assets/da881e91-a388-42f7-aa20-df0dd24573c2)
 
 ## Cancel Makereels account
