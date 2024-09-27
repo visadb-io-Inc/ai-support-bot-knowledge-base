@@ -19,7 +19,8 @@
 - Refunds accepted within 24 hours of delivery
 - Geo based discounted pricing like countries (e.g., India, parts of Africa) have subsidized pricing
 - Pricing page auto pricing based on location: https://makereels.ai/en/pricing
-- If price seems expensive for them, try to show the value of the tool and transfer to senior support. 
+- If price seems expensive for them, try to show the value of the tool and transfer to senior support.
+- User can change plans, cancel subscription or purchase new accounts, Other complicated billing inquiries get transfered to Senior Support 
 
 ## Free vs Paid Plans vs Credits
 
