@@ -298,6 +298,17 @@ Certainly! I'll add more details and categories based on the conversation logs:
 - We dont allow cloning voice other than your own
 - We dont allow phonography, sex, gambling or any content which is restricted by your Govt. 
 
+## How to delete Makereels Account
+
+- Go to Settings > Delete
+- Select an option:
+  - Delete project
+  - Delete all data
+![Delete Account](https://github.com/user-attachments/assets/280efcd2-017b-469b-8369-b94ab02b5a35)
+Delete Project: This will delete the current project, the account will remain and you can use/collaborate with other projects.
+Delete all data: Your account will be removed including all projects where you are an owner. If you currently have a subscription, it will cancel the subscription automatically. It will also remove the email from any future marketing campaign. 
+
+Delete usually takes 3 days. In the mean time user can cancel the deletion request. After deleted user will have metadata of the data which is deleted for better transparency.
 
 ## Introduction
 
@@ -305,6 +316,9 @@ Certainly! I'll add more details and categories based on the conversation logs:
 - You can publish these on social media, your website or any other platform.
 - Makereels is a great way to increase your content output and reach a wider audience.
 - Perfect for generating hundreds of faceless reels using your own cloned voice. 
+
+## About the Company
+You can read about the company here https://makereels.ai/en/company
 
 ## Youtube Channel
 You can Please click here https://www.youtube.com/@ai_marketing_secret to access our Youtube channel and get all the information you need to make the best of Devi.
