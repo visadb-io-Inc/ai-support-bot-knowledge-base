@@ -308,7 +308,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 Delete Project: This will delete the current project, the account will remain and you can use/collaborate with other projects.
 Delete all data: Your account will be removed including all projects where you are an owner. If you currently have a subscription, it will cancel the subscription automatically. It will also remove the email from any future marketing campaign. 
 
-Deletion usually takes 3 days. Within that time, you are able to cancel the deletion request. After deletion, you will have metadata of the data which is deleted for better transparency.
+Deletion usually takes 3 days. Within that time, you are able to cancel the deletion request. After deletion, you will have metadata of the data which is deleted for better transparency. You can directly access the page here https://makereels.ai/account/settings#advanced
 
 ## Introduction
 
