@@ -485,6 +485,33 @@ Here is how you can change number of posts to be scanned: Settings>Social Media 
 If you are on the monthly plan, We charge $18/month for every extra 20 groups added.
 If you are on the Devi yearly plan, you can get a yearly Groups-Adon by paying an extra $216. This gives you access to 20 more groups.
 
+## Setup automated DM or Comment
+
+Devi wants to maintain as much human-like activity on your account which is why we do not support automatic sending of messages and comments.
+The current flow is;
+- Leads are found
+- You review the leads to be sure it is what you want
+- Use the Autogenerate button to generate comment or DM message
+- You can also manually type your response
+- Hit Send to publish the comment or direct message
+
+## Add a Team member Or a Team member managing Devi account
+
+Because Devi is an extension and all settings are saved on the local browser where the extension is installed, you are unable to share an account or have a colleague login and check from their end
+
+## Devi Monitoring specific country
+
+You currently cannot select a particular country you want to monitor. These are the only possibilities;
+- For Facebook monitoring, you can ensure you are monitoring groups that have more members from your country of interest
+- For LinkedIn monitoring, if most of your connections are from a particular country, then a larger population of your leads will be from that country
+- For Reddit monitoring, you can choose to monitor specific subreddits of your interest instead of a general monitoring
+- For Twitter monitoring otherwise known as X, you can choose to monitor "Global" which does a general search or "near me" which monitors accounts around your country of settlement
+- For Nextdoor monitoring, it uses your normal Nextdoor location settings to tailor leads
+- WhatsApp groups monitoring only monitors groups you have selected to monitor
+
+## Same leads in different devices
+No, you cannot see the same leads when you log on a different device because all setup settings and results are saved locally on the browser the extension is installed and not on a server
+
 ## Debug Scanning Issues
 
 You can go to;
