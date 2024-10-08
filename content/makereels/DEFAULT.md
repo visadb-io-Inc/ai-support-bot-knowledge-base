@@ -427,6 +427,12 @@ Here you can control the volume of the background music Voice>Background Music>S
 ## Test Voice Cloning for free
 You can test your clone voice here and see how it will sound https://makereels.ai/en/voice-cloning
 
+## Add Reels Project
+- On the top left, Click on Project
+- Click on +New Project
+- Follow the prompts to complete your new project addition
+  ![Add project](https://github.com/user-attachments/assets/40374359-afda-4b80-9f4c-e1cffc8ea9b5)
+
 ## Modify or change Reels Content
 - You can click on any scene to edit or add text
 - Click on the video icon and you can be able to change video or image
