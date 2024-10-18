@@ -1,7 +1,7 @@
 
-## AI BOOKKEEPING TOOL
+## About bookeping.ai TOOL
 
-## What is Bookeeping.ai
+### What is Bookeeping.ai
 Chat to Complete 95% Financial Tasks | AI Accountant
 
 https://bookeeping.ai/
@@ -26,9 +26,7 @@ We have a Geo based pricing for the United States is $90/month less for less inc
 ### FREE TOOLS
 - AI Spreadsheet replace Google sheets and Drive, Excel available at https://bookeeping.ai/en/tools/document
 - AI Docs replaces Google docs and MS Word available at https://bookeeping.ai/en/tools/document
-- 
 
-## Dashboard
 ### How to Manually add Transactions
 - On your dashboard
 - Click "Add Transaction"
@@ -70,21 +68,21 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Click to toggle turn on "Expert Mode"
   ![Turn on expert mode](https://github.com/user-attachments/assets/09798e66-e6b5-484d-9e99-3155b17a57b3)
 
-### General
-#### How to filter transactions based on vendor, payer, name and other  
+## General
+### How to filter transactions based on vendor, payer, name and other  
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Select General
 - Click on Filter and choose any of the options; Reconcilation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
 ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
 
-#### How to Change the VIEW of ledger to see less Columns
+### How to Change the VIEW of ledger to see less Columns
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Click on Filter and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
   ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
 
-### Profit & Loss
+### Profit & Loss Tab
 #### Use Filter
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
@@ -94,7 +92,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ![filter profit and loss](https://github.com/user-attachments/assets/8c224d35-d021-42f1-8286-52c6e5345e31)
 ![more filters profit and loss](https://github.com/user-attachments/assets/ee3aa9d9-449f-4339-a8b3-509a9ed0f8f7)
 
-### Balance Sheet
+### BalanceSheet Tab
 #### Use Filter
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
@@ -102,21 +100,21 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Click on Filter and choose from the options; "Reconciliations, Counterparties, or Bank Accounts"
   ![Balance sheet filter](https://github.com/user-attachments/assets/f1048673-27fd-4b55-a499-374dbea10a1c)
 
-### Create Sheets
+#### How to Create spreadsheets using AI 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Select Profit & Loss
 - Navigate and Click on "Create Sheets"
   ![create sheet profit   Loss](https://github.com/user-attachments/assets/42b8f77c-c8e5-4ba8-9f4a-404e1bb24d7e)
 
-### Export Sheet
+#### How to Export Sheet
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Click on "Export"
   ![export sheet](https://github.com/user-attachments/assets/3e7758cd-d41c-45c2-82ce-0be31203c63d)
 
 
-## Invoice
+## AI Invoice
 ### Create Invoice
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate and select Invoices
@@ -224,3 +222,41 @@ Other
 - Logout
 - You can also Contact Support
 ![Settings](https://github.com/user-attachments/assets/b09281e5-fc6e-467a-9151-2495d7f1c103)
+
+## Important Terms and Policies
+
+### Terms of Service
+- You must be at least 18 years old individual or a legal entity to use this service.
+- You are responsible for maintaining the confidentiality of your account and password.
+- You agree not to use the service for any illegal or unauthorized purpose.
+- We only offer services to individual and entities who are resident or citizen of the US approved Trade list.
+- Complete Terms can be found here https://bookeeping.ai/en/legal/terms
+
+### Pricing and Subscription
+- We have geo-based pricing. Currently we offer beta pricing of $50/month for limited time only. 
+- We offer a 3-day free trial for new users. 
+- Card will charge automatically on 4th day and then every month until cancelled. 
+
+
+### Refund and Cancellation Policy
+- You can cancel your subscription at any time by going to Settings > Billing. You can also use this direct URL to access the cancellation page: https://bookeeping.ai/en/account/:account/dashboard/settings/billing
+
+- If you cancel during the free trial, no charges will be made to your payment method.
+- We do not offer refunds for past months of service.
+- For annual subscriptions, future unused months may be refunded on a prorated basis.
+
+### AI Disclaimer
+- Bookeeping.ai uses AI and Large Language Models (LLMs) from OpenAI, Claude and Enterprise user can choose their own model (soon) 
+- These are emerging technologies that may produce unexpected or inaccurate results.
+- While we strive for accuracy, we cannot guarantee 100% accuracy.
+- Users should verify AI-generated results before making important decisions.
+- Devi AI LLC and Bookeeping.ai are not responsible for errors in AI output or any resulting losses.
+
+### Data Privacy and Security
+- We employ robust security measures to protect your data. For full details of our security practices, please visit https://bookeeping.ai/en/security.
+
+- We do not sell your personal information to third parties.
+- For full details, please refer to our Privacy Policy at https://bookeeping.ai/en/legal/privacy-policy.
+
+
+
