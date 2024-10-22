@@ -534,3 +534,50 @@ The tool processes a lot of data. Sometimes find posts that are removed or limit
 
 - Check to confirm that your platforms are connected and in the case of Facebook, your groups are showing and selected
   ![Facebook groups selected](https://github.com/user-attachments/assets/2eaf22dd-a940-46aa-a74a-c1e96bd1887f)
+
+## WhiteLabel Pricing
+
+Thank you for your interest in our cutting-edge White Label AI social media keyword monitoring, outreach, and scheduling tool. 
+We're excited to share our competitive pricing and next steps.
+
+Earning Potential
+- Earn $200/month per client with $10/group/month pricing
+- Earn $100/month per client with $5/group/month pricing
+- Our wholesale price: $1/group/month for monitoring, scheduling and outreaching (your API)
+
+What's Included
+- Monitoring
+- Outreach (using your API)
+- AI content creation
+- Scheduling
+
+Minimum Package
+- 25 groups bundle
+- 10 license minimum.
+
+Additional Platforms
+Sell these separately for $50/month each (our price to you: $5 each):
+- LinkedIn
+- Reddit
+- X (Twitter)
+- NextDoor
+- WhatsApp
+
+Example Pricing
+For a business needing to monitor:
+- 30 Facebook Groups
+- LinkedIn
+- Reddit
+You could sell this bundle for $400/month. Remember, there is no tool that can monitor private Facebook groups in the market.
+
+Flexible Options
+- Scheduling can be sold separately
+- Mix and match platforms to suit your client's needs
+
+Next Steps
+1. Review our pricing structure
+2. Determine your ideal pricing strategy, and create your logo.
+3. Contact us to set up your white label account and send you contract
+4. Start offering this powerful tool to your clients
+
+We're committed to your success.
