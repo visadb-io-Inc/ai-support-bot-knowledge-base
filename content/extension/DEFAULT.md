@@ -535,7 +535,7 @@ The tool processes a lot of data. Sometimes find posts that are removed or limit
 - Check to confirm that your platforms are connected and in the case of Facebook, your groups are showing and selected
   ![Facebook groups selected](https://github.com/user-attachments/assets/2eaf22dd-a940-46aa-a74a-c1e96bd1887f)
 
-## WhiteLabel Pricing
+## White Label Pricing
 
 Thank you for your interest in our cutting-edge White Label AI social media keyword monitoring, outreach, and scheduling tool. 
 We're excited to share our competitive pricing and next steps.
