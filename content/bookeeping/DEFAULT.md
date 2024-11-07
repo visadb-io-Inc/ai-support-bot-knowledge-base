@@ -233,9 +233,9 @@ Other
 - Complete Terms can be found here https://bookeeping.ai/en/legal/terms
 
 ### Pricing and Subscription
-- We have geo-based pricing. Currently we offer beta pricing of $50/month for limited time only. 
+- We have geo-based pricing. Currently, we offer beta pricing of $50/month for limited time only. 
 - We offer a 3-day free trial for new users. 
-- Card will charge automatically on 4th day and then every month until cancelled. 
+- The card will charge automatically on the 4th day and then every month until it is cancelled. 
 
 
 ### Refund and Cancellation Policy
@@ -258,5 +258,24 @@ Other
 - We do not sell your personal information to third parties.
 - For full details, please refer to our Privacy Policy at https://bookeeping.ai/en/legal/privacy-policy.
 
+### How to upload files in Bookkeeping
+Chat with files is ideal for text-based documents, financial tables may not be read well currently. 
+You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
+- Click on More
+- Select Storage
+- Add File
+![Upload files](https://github.com/user-attachments/assets/e21ce5a7-c1d2-45e3-8121-f3a727c4f192)
 
+
+### Bulk update category
+- Apply a category to a transaction
+- The software will automatically detect the same party and ask you to change their category too. 
+![Bulk update](https://github.com/user-attachments/assets/7851ae0c-88cd-4206-9e82-4a62ed273d9c)
+
+
+### Perform automation on Bookkeeping
+- Navigate to Automation and click on it
+- Select from the list of automation features what automation you want to set
+- On the chosen automation, click on Use this Automation (See screenshot)
+  ![Automation](https://github.com/user-attachments/assets/9fd3bf77-7798-4509-8555-a00a5df05fcf)
 
