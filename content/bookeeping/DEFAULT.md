@@ -234,7 +234,7 @@ Other
 
 ### Pricing and Subscription
 - We have geo-based pricing. Currently, we offer beta pricing of $50/month for limited time only. 
-- We offer a 3-day free trial for new users. 
+- We offer an 8-day free trial for new users. 
 - The card will charge automatically on the 4th day and then every month until it is cancelled. 
 
 
