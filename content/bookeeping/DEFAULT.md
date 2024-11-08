@@ -279,3 +279,10 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 - On the chosen automation, click on Use this Automation (See screenshot)
   ![Automation](https://github.com/user-attachments/assets/9fd3bf77-7798-4509-8555-a00a5df05fcf)
 
+### Multiple business books and records
+Yes bookeeping.ai can handle multiple business books and records
+You can add as many businesses you like. However, you need to buy subscriptions for each
+Please watch [this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
+
+### How does bookeeping take information from quickbooks?
+We are currently working on quickbooks integration. For the meantime, you can upload as CSV
