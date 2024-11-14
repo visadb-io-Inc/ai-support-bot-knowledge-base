@@ -281,8 +281,15 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 
 ### Multiple business books and records
 Yes bookeeping.ai can handle multiple business books and records
-You can add as many businesses you like. However, you need to buy subscriptions for each
+You can add as many businesses as you like. However, you need to buy subscriptions for each
 Please watch [this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
-### How does bookeeping take information from quickbooks?
-We are currently working on quickbooks integration. For the meantime, you can upload as CSV
+### How does bookeeping take information from QuickBooks?
+We are currently working on QuickBooks integration. In the meantime, you can upload it as CSV
+
+## How to add more collaborators
+Yes, you can add more collaborators at a small charge of $10/collaborator.
+Please inform us whenever you need to add your collaborators. We will help you implement on your current billing settings
+## How to add more bank accounts
+Yes, you can add more bank accounts at a small charge of $10/bank account.
+Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
