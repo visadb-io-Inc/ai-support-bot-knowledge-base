@@ -293,3 +293,12 @@ Please inform us whenever you need to add your collaborators. We will help you i
 ## How to add more bank accounts
 Yes, you can add more bank accounts at a small charge of $10/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
+## How to upload or import QuickBooks file
+- Click on add transaction
+- Click on import transaction
+- Select Quickbooks
+- Select the file and it will be uploaded
+- Update the category mapping and save changes
+- Choose to skip or add duplicates
+- Then save
+
