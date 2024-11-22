@@ -10,15 +10,15 @@ https://bookeeping.ai/
 Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. You can CHAT to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. 
 
 ### Price
-We have a Geo based pricing for the United States is $90/month less for less income countries. 
+We have geo-based pricing for the United States is $90/month less for less-income countries. 
 
 ### Features
 - **AI Ledger:** Automatic preparation of general ledger, profit, and loss statements, and balance sheet from bank transactions sync from Live bank connection via Plaid or User can upload the CSV as well. 
 - **AI Receipts:** Auto Scan receipts and invoices from inbox email or mobile app picture OCR
 - **AI Tax Info:** Chat with IRS, CRA, and HMRC, so you find information in seconds
-- **AI Invoices:** Generate invoices and sending emails with a chat message
+- **AI Invoices:** Generate invoices and send emails with a chat message
 - **AI Sheets:** Generate spreadsheets from text prompts and then chat with them to update. Includes formula, analysis and formatting.
-- **AI Tax Form Filing:** Automatically Fill in PDF tax forms, able to edit and dowload. We will offer e-filing service as well in the future.
+- **AI Tax Form Filing:** Automatically Fill in PDF tax forms, able to edit and download. We will offer e-filing service as well in the future.
 - **AI Accounting:** Real-time accounting and advice to grow your business
 - **AI Drive:** Chat with uploaded files. Create, save and edit your documents on a single application
 
@@ -46,7 +46,7 @@ We have a Geo based pricing for the United States is $90/month less for less inc
   ![Account Statement summary](https://github.com/user-attachments/assets/f0a79d62-c225-4d88-a0d3-291be0ca49e4)
 
 ### Clear Demo data
-- Go to dashboard
+- Go to the dashboard
 - Navigate "clear demo data"
   ![Clear Demo Data](https://github.com/user-attachments/assets/3c31703c-235f-4b36-9dab-f6c6d60a8ae7)
 
