@@ -301,4 +301,4 @@ Please let us know if you want to add more bank accounts now and how many. We wi
 - Update the category mapping and save changes
 - Choose to skip or add duplicates
 - Then save
-Here is a recorded video guide https://assets.bookeeping.ai/help/quickbooks-import-help-1.mp4
+Here is a [recorded video guide](https://assets.bookeeping.ai/help/quickbooks-import-help-1.mp4)
