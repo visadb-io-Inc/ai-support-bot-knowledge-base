@@ -302,3 +302,10 @@ Please let us know if you want to add more bank accounts now and how many. We wi
 - Choose to skip or add duplicates
 - Then save
 Here is a [recorded video guide](https://assets.bookeeping.ai/help/quickbooks-import-help-1.mp4)
+
+## Add more businesses or clients
+- Click on Settings
+- Click on "Add Business"
+- Follow the prompts until you complete the business addition
+- See screenshot![here](https://github.com/user-attachments/assets/8f4eb654-fd89-4d2e-a144-09a420f71925)
+
