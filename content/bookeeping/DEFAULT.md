@@ -287,13 +287,16 @@ Please watch [this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 ### How does bookeeping take information from QuickBooks?
 We are currently working on QuickBooks integration. In the meantime, you can upload it as CSV
 
-## How to add more collaborators
+## Add more collaborators
 Yes, you can add more collaborators at a small charge of $10/collaborator.
 Please inform us whenever you need to add your collaborators. We will help you implement on your current billing settings
+
 ## How to add more bank accounts
 Yes, you can add more bank accounts at a small charge of $10/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
-## How to upload or import QuickBooks file
+
+## Upload or import QuickBooks file
+Here is how you can upload or import QuickBooks file
 - Click on add transaction
 - Click on import transaction
 - Select Quickbooks
@@ -304,6 +307,7 @@ Please let us know if you want to add more bank accounts now and how many. We wi
 Here is a [recorded video guide](https://assets.bookeeping.ai/help/quickbooks-import-help-1.mp4)
 
 ## Add more businesses or clients
+Here is how you can add businesses or clients
 - Click on Settings
 - Click on "Add Business"
 - Follow the prompts until you complete the business addition
