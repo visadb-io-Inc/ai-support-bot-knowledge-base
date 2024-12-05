@@ -581,3 +581,6 @@ Next Steps
 4. Start offering this powerful tool to your clients
 
 We're committed to your success.
+
+## Segment search keywords by groups
+While you can choose what keywords you want to monitor per platform e.g Facebook, X, Reddit, etc., you are unable to choose keywords based on different Facebook groups
