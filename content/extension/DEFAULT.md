@@ -13,9 +13,9 @@ Detailed pricing page: https://ddevi.com/en/pricing
 
 - Can monitor public and private Facebook groups (user must be a member)
 - Monitors LinkedIn, Twitter, Reddit, NextDoor, WhatsApp
-- Keyword-based monitoring across selected platforms
+- Monitors posts for keywords automatically and uses ChatGPT to detect the intent and motivation of the posts
 - Scanning frequency can be set from 30 mins to 8 hours (2 hours recommended for Facebook)
-- Monitors posts, not comments (except for Facebook where it can monitor comments)
+- Monitors posts and buyer intent, not comments
 - Up to 50 keywords can be added
 - Results can be exported via webhook/Zapier integration
 - Email notifications after each scan
@@ -35,6 +35,8 @@ Steps to set up monitoring:
 - AI-powered content generation for posts
 - Scheduling posts to social media accounts
 - Visual content creation with AI
+- No need to be admin
+- Monitors posts for keywords and uses ChatGPT to detect the intent and motivation of the posts
 - Outreach capabilities to engage with leads
 - Analytics dashboard
 - Complementary AI website builder included
