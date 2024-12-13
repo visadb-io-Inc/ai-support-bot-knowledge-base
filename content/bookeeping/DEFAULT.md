@@ -313,3 +313,16 @@ Here is how you can add businesses or clients
 - Follow the prompts until you complete the business addition
 - See screenshot![here](https://github.com/user-attachments/assets/8f4eb654-fd89-4d2e-a144-09a420f71925)
 
+## Reset Data
+Here is how you can reset data in bookeeping.ai
+- Click on Settings
+- Select Company Settings
+- Click on "Instantly Reset All Data"
+- See screenshot![here](https://github.com/user-attachments/assets/74edb022-c341-40ab-8412-ee17ac46896c)
+  
+## Delete Company and All data
+Here is how you can reset data in bookeeping.ai
+- Click on Settings
+- Select Company Settings
+- Click on "Delete This Company and All Data"
+- See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
