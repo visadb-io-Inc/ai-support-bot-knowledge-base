@@ -31,13 +31,13 @@ Steps to set up monitoring:
 
 ## Key Features
 
-- Chrome browser extension - works with active social accounts in browser
+- Chrome browser extension - connect with existing active social accounts sessions in the browser without login into Devi. 
 - AI-powered content generation for posts
 - Scheduling posts to social media accounts
-- Visual content creation with AI
-- No need to be admin
+- AI Visual content creation with brand logo
+- No need to be admin of the groups or pages to monitor.
 - Monitors posts for keywords and uses ChatGPT to detect the intent and motivation of the posts
-- Outreach capabilities to engage with leads
+- Personalized outreach message drafts geneated with AI to approve and engage with leads
 - Analytics dashboard
 - Complementary AI website builder included
 
@@ -67,11 +67,13 @@ Steps to set up monitoring:
 - No geo-targeting options beyond platform location settings
 - No team/multi-user access to same account
 - Cannot connect to multiple accounts on same platform simultaneously
+- No you do not need to login your social accounts into Devi. It picks the existing session
+- Auto commenting risks your account. Devi creates personalized AI reply drafts, you just need to approve the comment. 
 
 ## Limitations
 
 - No Slack monitoring currently
-- No automatic commenting/messaging (manual approval required)
+- No automatic commenting/messaging, only drafts are generated and manual approval required. 
 - Cannot filter by location beyond platform settings
 - Limited reporting/export capabilities
 - Requires active browser session to function
