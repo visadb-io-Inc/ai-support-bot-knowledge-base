@@ -181,7 +181,7 @@ Certainly! I'll add more details and categories based on the conversation logs:
 
 - Length controlled by number of scenes
 - Typical reel length: 5-7 scenes
-- Longer reels possible (up to 11 scenes mentioned)
+- Longer reels possible (up to 8 scenes mentioned)
 - Option to add captions, stickers and hashtags
 
 ## Video Styles and Effects
