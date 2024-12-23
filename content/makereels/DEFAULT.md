@@ -90,7 +90,7 @@ Automation tutorial: https://youtu.be/ET6xYCjKj-U?si=TYGeHQsi9caDsgxf
 ## Voice and Language Options
 
 - Support for 30+ languages
-- Voice cloning for multiple languages and accets (paid plans)
+- Voice cloning for multiple languages and accents (paid plans)
 - Steps to clone voice:
   1. Go to https://makereels.ai/en/voice-cloning
   2. Record a sample of your voice
