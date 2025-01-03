@@ -21,6 +21,7 @@ We have geo-based pricing for the United States is $90/month less for less-incom
 - **AI Tax Form Filing:** Automatically Fill in PDF tax forms, able to edit and download. We will offer e-filing service as well in the future.
 - **AI Accounting:** Real-time accounting and advice to grow your business
 - **AI Drive:** Chat with uploaded files. Create, save and edit your documents on a single application
+**AI Audit:** Measure the accuracy, completeness, and consistency of your financial records and processes.
 
 
 ### FREE TOOLS
