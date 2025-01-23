@@ -30,6 +30,7 @@
   - Limited voice options
   - No voice cloning
   - Limited creation and no schedule or publish to social media
+  - Download 5 free videos per month
 - Paid plans:
   - Remove watermarks
   - Upload custom images/videos
