@@ -578,6 +578,13 @@ Flexible Options
 - Scheduling can be sold separately
 - Mix and match platforms to suit your client's needs
 
+In summary, our Whitelabel comes with 10 minimum licenses for any platform.
+Facebook = $250 (i.e $25/license) If you want Facebook monitoring ONLY
+Any other = $50 (i.e $5/license)
+So $300 is 10 licenses for Facebook and 10 licenses for LinkedIn or any other.
+It means 10 different accounts for Facebook and 10 different accounts for LinkedIn or any other
+i.e $450 for Facebook, LinkedIn, X, Reddit, & Nextdoor
+
 Next Steps
 1. Review our pricing structure
 2. Determine your ideal pricing strategy, and create your logo.
