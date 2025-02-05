@@ -30,9 +30,9 @@ We have geo-based pricing for the United States is $90/month less for less-incom
 
 ### How to Manually add Transactions
 - On your dashboard
-- Click "Add Transaction"
+- Click "Add Items"
 - Select from Import Transaction, Add Receipt, or Import Bank Statement"
-  ![Add transaction](https://github.com/user-attachments/assets/eaaec3bd-46f3-4698-bc99-bd64f9a61019)
+ ![Add Items](https://github.com/user-attachments/assets/ef7f4157-22e8-49cd-90f8-3d02f392f5e1)
 
 ### AI Task Assistant
 - On your dashboard
@@ -127,6 +127,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 
 ### Create Blank Invoice
 - Login to your Dashboard on https://bookeeping.ai/
+- Click on More
 - Navigate and select Invoices
 - Navigate and Click on "Create invoice"
 - You can also chat with the AI Assistant
@@ -162,6 +163,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ![make sheets](https://github.com/user-attachments/assets/42ae5b8b-186a-4bd6-80ae-6da6f4c821b2)
 
 ## Receipts
+- Click on More
 - Click on Receipts
 - Connect Email account
 - Create receipts and send
@@ -193,7 +195,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 
 ## Add Bank Accounts
 - Click on More
-- Click on Bank Accounts
+- Click on Accounts
 - Click on "Add Account" or edit/delete existing one
 - You can also Add a Connection
 ![Bank accounts](https://github.com/user-attachments/assets/2d848881-ebe9-429e-aef5-2c10c1c5e221)
@@ -269,10 +271,16 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 
 
 ### Bulk update category
-- Apply a category to a transaction
+- Select transactions to be updated
+- Click on Change Category
 - The software will automatically detect the same party and ask you to change their category too. 
-![Bulk update](https://github.com/user-attachments/assets/7851ae0c-88cd-4206-9e82-4a62ed273d9c)
+![Bulk update category](https://github.com/user-attachments/assets/34cc08cb-c9fe-4e8f-8c0f-7eb62f2d5165)
 
+### Bulk Delete Category
+- Select transactions to be delete
+- Click on delete
+- Follow the prompt
+  ![bulk delete](https://github.com/user-attachments/assets/68eb68a4-1191-46c6-ac89-0598ed88a31d)
 
 ### Perform automation on Bookkeeping
 - Navigate to Automation and click on it
@@ -298,18 +306,110 @@ Please let us know if you want to add more bank accounts now and how many. We wi
 
 ## Upload or import QuickBooks file
 Here is how you can upload or import QuickBooks file
-- Click on add transaction
-- Click on import transaction
-- Select Quickbooks
+- Click on add items
+- Click on import Quickbooks
 - Select the file and it will be uploaded
 - Update the category mapping and save changes
 - Choose to skip or add duplicates
 - Then save
-Here is a [recorded video guide](https://assets.bookeeping.ai/help/quickbooks-import-help-1.mp4)
+![import quickbooks](https://github.com/user-attachments/assets/af2a8c9c-b4ca-44a5-81d3-4d9e5991232b)
 
+
+## Upload or import CSV file
+Here is how you can upload or import CSV file
+- Click on add items
+- Click on import CSV Data
+- Select the file and it will be uploaded
+- Update the category mapping and save changes
+- Choose to skip or add duplicates
+- Then save
+![import csv](https://github.com/user-attachments/assets/5b8e846e-86df-46c7-af1e-ea947182f093)
+
+
+## Add Transaction Manually
+Here is how you can manually add transaction
+- Click on add items
+- Click on add transaction
+- Fill the form
+- Update the category mapping and save changes
+- Then save
+![Add transaction](https://github.com/user-attachments/assets/0b695de5-7f59-4aba-b876-483e9e4fdc4b)
+
+
+## Add Transaction from Receipts and Invoice
+Here is how you can add Receipts & invoices
+- Click on add items
+- Click on add Receipts & invoices
+- Connect email or upload manually
+- Update the category mapping and save changes
+- Then save
+![Add receipt](https://github.com/user-attachments/assets/45881b13-6d38-442c-af5e-99660557d24b)
+
+
+## Add Auto-categorization Rule
+Here is how you can add Auto-categorization Rule
+- Click on add items
+- Click on add Auto-categorization rule
+- Create a new rule or update existing rules
+- Then save
+![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
+![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
+
+
+## Connect Stripe
+Here is how you can connect to Stripe
+- Click on add items
+- Click on Connect Stripe
+- Follow the steps and add your Stripe API key
+- Then save
+![Connect Stripe](https://github.com/user-attachments/assets/eaef4ca5-b164-486c-bd85-b620afa688f9)
+
+
+## How to access your Tax information
+Here is how you can calculate your taxes
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- Fill your business tax information
+- Then save
+  ![Taxes](https://github.com/user-attachments/assets/d32df0ba-d1dc-4ecd-9d22-5ae7272cab06)
+  ![Tax information](https://github.com/user-attachments/assets/0305f75b-3217-4d68-9b85-5aa1d930f446)
+
+
+## How to do your Tax estimation
+Here is how you can calculate your taxes
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- navigate to Tax estimation
+  ![Tax Estimation](https://github.com/user-attachments/assets/bae26e77-4254-4d53-9fdd-138bae83744f)
+
+
+## How to check Tax Deadline
+Here is how you can check your Tax Deadline
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- navigate and click on Tax Deadline
+  ![check tax deadline](https://github.com/user-attachments/assets/7835f4fe-2751-4b43-ac0a-68e310ea987f)
+
+
+## How to get Tax Tips based on your Business
+Here is how you can get tax tips based on your business
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- navigate and click on Tax Tips
+  ![tax tips](https://github.com/user-attachments/assets/e457a935-f3fc-4d81-b554-a524545621c7)
+
+  
+## How to chat with IRS
+Here is how you can Chate with IRS
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- navigate and click on Chate with IRS
+  ![chat with IRS](https://github.com/user-attachments/assets/6c0502c2-55dd-4232-b9d9-06d4adfc2f46)
+
+  
 ## Add more businesses or clients
 Here is how you can add businesses or clients
-- Click on Settings
+- Click on your business icon
 - Click on "Add Business"
 - Follow the prompts until you complete the business addition
 - See screenshot![here](https://github.com/user-attachments/assets/8f4eb654-fd89-4d2e-a144-09a420f71925)
