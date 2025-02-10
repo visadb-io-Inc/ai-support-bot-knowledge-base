@@ -130,6 +130,7 @@ Video tutorial: https://www.youtube.com/watch?v=e7tw0-HL_Zo
 ## Platform-Specific Features - LinkedIn
 
 - Monitors posts from connections (up to 3+ degree connections)
+- Monitors posts from company pages, and individual posts from personal profiles, including those of Top Voices. 
 - Does not monitor comments
 - Can monitor company pages you manage
 - Faster scan intervals possible (down to 30 minutes)
