@@ -2,9 +2,9 @@
 
 - Pricing is based on which platforms you want to monitor and how many groups
 - Facebook monitoring starts at $49/month for 25 groups
-- Additional 15 groups can be added for $30/month on monthly plans
+- Additional 15 groups can be added for $19-$29/month on monthly plans and depending on your location
 - Yearly plans have discounted pricing compared to monthly
-- WhatsApp, LinkedIn, Twitter, Reddit, etc. can be added for additional cost
+- WhatsApp, LinkedIn, Twitter, Reddit, etc. can be added for an additional cost
 - Free trial available for $1 for 10 days
 
 Detailed pricing page: https://ddevi.com/en/pricing
