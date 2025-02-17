@@ -122,17 +122,16 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Navigate and Click on "Create invoice"
 - You can also chat with the AI Assistant
 - Input your invoice description
- ![Create Invoice](https://github.com/user-attachments/assets/7563c2d5-48c7-4a48-9027-b368dd04509a)
+![Create invoice](https://github.com/user-attachments/assets/d8e30d4a-3360-472b-a3d0-0f238a1821f6)
 ![Invoice description](https://github.com/user-attachments/assets/6666edc7-56fd-4b80-aa75-0aa09055deac)
 
 ### Create Blank Invoice
 - Login to your Dashboard on https://bookeeping.ai/
-- Click on More
 - Navigate and select Invoices
 - Navigate and Click on "Create invoice"
 - You can also chat with the AI Assistant
 - Click on "Blank Invoice"
-  ![Blank invoice](https://github.com/user-attachments/assets/a572f57f-f532-47cd-98fb-a7e3208f8f8d)
+  ![Blank invoice](https://github.com/user-attachments/assets/84e9944f-f067-4cb5-b9ca-d4ee0366d945)
 
 ### Customize and Send Invoice
 - Login to your Dashboard on https://bookeeping.ai/
@@ -155,59 +154,68 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ## Spreadsheets
 ### Create and Open Sheet
 - Login to your Dashboard on https://bookeeping.ai/
-- Navigate and select Spreadsheet
-- Navigate and Click on "Create Sheet" to make from scratch, create blank sheet or Import.
+- Navigate and select Documents
+- Click on Sheets
+- Navigate and Click on "Create Sheet" to make from scratch, create a blank sheet or Import.
 - You can also open an existing sheet
 - You can also chat with the AI Assistant
-![Create or open sheet](https://github.com/user-attachments/assets/8ae6c546-3965-4fe8-9a9b-fe914cede5d4)
+![Create or Open sheets](https://github.com/user-attachments/assets/6c8c7de9-0e2c-4ba9-aac1-ac0974ab4f92)
 ![make sheets](https://github.com/user-attachments/assets/42ae5b8b-186a-4bd6-80ae-6da6f4c821b2)
 
 ## Receipts
-- Click on More
-- Click on Receipts
+- Click on Documents
+- Click on Scan Receipts
 - Connect Email account
 - Create receipts and send
-![Create Receipts](https://github.com/user-attachments/assets/0169a8b0-7feb-4504-a5df-937aaae32245)
+![Create Receipts](https://github.com/user-attachments/assets/3d7f4edd-08b3-405c-bbd2-83dc3f302c9b)
 ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
 
 ## Docs
-- Click on More
+- Click on Documents
 - Select Docs
 - Click on "Create Document" or Chat with AI Assistant then choose to create doc
 - Describe doc to be autocreated or choose blank document to create empty document
-  ![Create Docs](https://github.com/user-attachments/assets/ea1be001-74f5-467c-bf17-d502c267b396)
+ ![Create Docs](https://github.com/user-attachments/assets/4508f515-165f-4e25-8c61-641abb8ffff5)
 ![make document](https://github.com/user-attachments/assets/7c8624be-b206-464b-8d1b-f3387466d0b3)
 
 ## File Storage
-- Click on More
-- Select File Storage
+- Click on Documents
+- Select File Drive
 - Click "Add File" and select file
 - Or open existing file
-  ![file storage](https://github.com/user-attachments/assets/407983d3-8488-4edd-a9e8-1b1eab414658)
+  ![Drive](https://github.com/user-attachments/assets/8e73335d-fb48-4756-87d8-0756b8da6231)
 
 ## Counterparty
-- Click on More
+- Click on Setup
 - Click on Counterparties
 - Click on "Add Counterparty" or view existing counterparty
 - Fill in details
-  ![couterparty](https://github.com/user-attachments/assets/b9a353b3-68ee-4d90-bfb2-040feca7b095)
+ ![Counterparty](https://github.com/user-attachments/assets/f975fe3f-fdff-418e-ada3-f7cf8fc070e5)
 ![Fill counterparty](https://github.com/user-attachments/assets/584caa05-629f-40ff-9c22-c674221e4179)
 
 ## Add Bank Accounts
-- Click on More
+- Click on Setuo
 - Click on Accounts
 - Click on "Add Account" or edit/delete existing one
 - You can also Add a Connection
-![Bank accounts](https://github.com/user-attachments/assets/2d848881-ebe9-429e-aef5-2c10c1c5e221)
+![Bank Accounts](https://github.com/user-attachments/assets/28e7246c-912d-4195-97f5-d0661c304722)
 
 ## Add Connection
-- Click on More
+- Click on Setup
 - Click on Bank Accounts
 - Click on Add connection
-  ![add connection](https://github.com/user-attachments/assets/dd9c0687-5d92-4f49-a79a-78643d4fe03c)
+  ![Bank connection](https://github.com/user-attachments/assets/714857f9-d54a-4bdb-a9ef-0d6272cb29a3)
+
+## Connect Stripe
+Here is how you can connect to Stripe
+- Click on add items
+- Click on Connect Stripe
+- Follow the steps and add your Stripe API key
+- Then save
+![Connect Stripe](https://github.com/user-attachments/assets/eaef4ca5-b164-486c-bd85-b620afa688f9)
 
 ## Chat with AI Assistant
-- On any screen other than dashboard, Click on the chat assistant
+- On any screen including dashboard, Click on the chat assistant
 - You can choose any of the options to perform any activity of your choice
   ![chat with Assistant 1](https://github.com/user-attachments/assets/fb183af3-6c9a-4bd8-b1f3-9453f35bf3e4)
 ![chat with Assistant 2](https://github.com/user-attachments/assets/25aafa66-1204-428c-b22d-9634fb3abfc6)
@@ -225,6 +233,19 @@ Other
 - Logout
 - You can also Contact Support
 ![Settings](https://github.com/user-attachments/assets/b09281e5-fc6e-467a-9151-2495d7f1c103)
+
+## Hide Column Items
+- On your dashboard, navigate and click on accounting
+- Identify the column and click on the arrow up & down icon
+- Select Hide and the column will disappear
+![Hide column items](https://github.com/user-attachments/assets/e4fe2ed9-1f02-4c5d-9bfc-6ee85c21cb47)
+
+## Show Column Items
+- On your dashboard, navigate and click on accounting
+- Click on filters
+- Scroll down to edit view
+- Select what column you want to show 
+![Show Column items](https://github.com/user-attachments/assets/cab0124a-e9e2-45e8-b8d6-93b7e03c0f5e)
 
 ## Important Terms and Policies
 
@@ -283,10 +304,11 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
   ![bulk delete](https://github.com/user-attachments/assets/68eb68a4-1191-46c6-ac89-0598ed88a31d)
 
 ### Perform automation on Bookkeeping
-- Navigate to Automation and click on it
+- Navigate to Setup
+- Locate and Click on Automation
 - Select from the list of automation features what automation you want to set
 - On the chosen automation, click on Use this Automation (See screenshot)
-  ![Automation](https://github.com/user-attachments/assets/9fd3bf77-7798-4509-8555-a00a5df05fcf)
+ ![Automation](https://github.com/user-attachments/assets/13f80b67-d01d-467d-8fdf-617e40ecee11)
 
 ### Multiple business books and records
 Yes bookeeping.ai can handle multiple business books and records
@@ -295,6 +317,9 @@ Please watch [this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
 ### How does bookeeping take information from QuickBooks?
 We are currently working on QuickBooks integration. In the meantime, you can upload it as CSV
+
+### How to import Data past 24 months
+Yes, you can import past years as CSV file and it will sync with your current data when loaded onto bookeeping.ai
 
 ## Add more collaborators
 Yes, you can add more collaborators at a small charge of $10/collaborator.
@@ -313,7 +338,6 @@ Here is how you can upload or import QuickBooks file
 - Choose to skip or add duplicates
 - Then save
 ![import quickbooks](https://github.com/user-attachments/assets/af2a8c9c-b4ca-44a5-81d3-4d9e5991232b)
-
 
 ## Upload or import CSV file
 Here is how you can upload or import CSV file
@@ -354,15 +378,6 @@ Here is how you can add Auto-categorization Rule
 - Then save
 ![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
 ![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
-
-
-## Connect Stripe
-Here is how you can connect to Stripe
-- Click on add items
-- Click on Connect Stripe
-- Follow the steps and add your Stripe API key
-- Then save
-![Connect Stripe](https://github.com/user-attachments/assets/eaef4ca5-b164-486c-bd85-b620afa688f9)
 
 
 ## How to access your Tax information
