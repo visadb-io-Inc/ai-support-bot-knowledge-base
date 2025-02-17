@@ -487,7 +487,7 @@ Here is how you can change number of posts to be scanned: Settings>Social Media 
 
 ## Get Devi Extra Facebook Groups
 
-If you are on the monthly plan, We charge $18/month for every extra 20 groups added.
+If you are on the monthly plan, We charge $19-$29/month on monthly plans and depending on your location for every extra 15 groups added.
 If you are on the Devi yearly plan, you can get a yearly Groups-Adon by paying an extra $216. This gives you access to 20 more groups.
 
 ## Setup automated DM or Comment
