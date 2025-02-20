@@ -2,7 +2,7 @@
 
 - Pricing is based on which platforms you want to monitor and how many groups
 - Facebook monitoring starts at $49/month for 25 groups
-- Additional 15 groups can be added for $19-$29/month on monthly plans and depending on your location
+- Additional 15 groups can be added for $29/month on monthly plans
 - Yearly plans have discounted pricing compared to monthly
 - WhatsApp, LinkedIn, Twitter, Reddit, etc. can be added for an additional cost
 - Free trial available for $1 for 10 days
