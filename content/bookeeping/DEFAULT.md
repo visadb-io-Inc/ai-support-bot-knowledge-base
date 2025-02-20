@@ -74,7 +74,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Select General
-- Click on Filter and choose any of the options; Reconcilation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
+- Click on Filter and choose any of the options; Reconciliation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
 ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
 
 ### How to Change the VIEW of ledger to see less Columns
@@ -313,7 +313,7 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 ### Multiple business books and records
 Yes bookeeping.ai can handle multiple business books and records
 You can add as many businesses as you like. However, you need to buy subscriptions for each
-Please watch [this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
+![Please watch](this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
 ### How does bookeeping take information from QuickBooks?
 We are currently working on QuickBooks integration. In the meantime, you can upload it as CSV
@@ -421,7 +421,6 @@ Here is how you can Chate with IRS
 - navigate and click on Chate with IRS
   ![chat with IRS](https://github.com/user-attachments/assets/6c0502c2-55dd-4232-b9d9-06d4adfc2f46)
 
-  
 ## Add more businesses or clients
 Here is how you can add businesses or clients
 - Click on your business icon
@@ -442,3 +441,6 @@ Here is how you can reset data in bookeeping.ai
 - Select Company Settings
 - Click on "Delete This Company and All Data"
 - See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
+## Video Guide on How to Use the Tool
+You can navigate to the landing page and click to play the video
+Or [click here to watch this video guide](https://assets.bookeeping.ai/help/3.mp4)
