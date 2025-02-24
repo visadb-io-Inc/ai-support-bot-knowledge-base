@@ -22,6 +22,7 @@ We have geo-based pricing for the United States is $90/month less for less-incom
 - **AI Accounting:** Real-time accounting and advice to grow your business
 - **AI Drive:** Chat with uploaded files. Create, save and edit your documents on a single application
 - **AI Audit:** Measure the accuracy, completeness, and consistency of your financial records and processes.
+- **AI Reconciliation:** Seamlessly reconcile bank and credit card transactions with AI.
 
 
 ### FREE TOOLS
@@ -194,10 +195,11 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ![Fill counterparty](https://github.com/user-attachments/assets/584caa05-629f-40ff-9c22-c674221e4179)
 
 ## Add Bank Accounts
-- Click on Setuo
+- Click on Setup
 - Click on Accounts
 - Click on "Add Account" or edit/delete existing one
 - You can also Add a Connection
+- Please note that the bank connection is only available for users from the USA and Canada. Other countries can upload transactions CSV pending when we add more banks
 ![Bank Accounts](https://github.com/user-attachments/assets/28e7246c-912d-4195-97f5-d0661c304722)
 
 ## Add Connection
@@ -298,7 +300,7 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 ![Bulk update category](https://github.com/user-attachments/assets/34cc08cb-c9fe-4e8f-8c0f-7eb62f2d5165)
 
 ### Bulk Delete Category
-- Select transactions to be delete
+- Select transactions to be deleted
 - Click on delete
 - Follow the prompt
   ![bulk delete](https://github.com/user-attachments/assets/68eb68a4-1191-46c6-ac89-0598ed88a31d)
