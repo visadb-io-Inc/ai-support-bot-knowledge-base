@@ -15,7 +15,8 @@ Detailed pricing page: https://ddevi.com/en/pricing
 - Monitors LinkedIn, Twitter, Reddit, NextDoor, WhatsApp
 - Monitors posts for keywords automatically and uses ChatGPT to detect the intent and motivation of the posts
 - Scanning frequency can be set from 30 mins to 8 hours (2 hours recommended for Facebook)
-- Monitors posts and buyer intent, not comments
+- Monitors posts and buyer intent
+- Devi does not monitor comments
 - Up to 50 keywords can be added
 - Results can be exported via webhook/Zapier integration
 - Email notifications after each scan
