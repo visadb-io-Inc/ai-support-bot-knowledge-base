@@ -351,6 +351,20 @@ Here is how you can upload or import CSV file
 - Then save
 ![import csv](https://github.com/user-attachments/assets/5b8e846e-86df-46c7-af1e-ea947182f093)
 
+## How to add Class
+There are two ways to add a class
+### First way
+- Please click on Setup, scroll down to the last option Classes
+- Add the business name and a note
+- Then save
+  ![Create classes](https://github.com/user-attachments/assets/116c7510-bc3b-4b37-b2b9-7e36e7d094a4)
+
+### Second way
+- Navigate to the accounting page,
+- click the edit pen icon on any transaction you want to add a class to
+- Modify the class as you want and save
+  ![Create class](https://github.com/user-attachments/assets/5d1409da-3730-4621-95bb-476affce820c)
+![Edit class](https://github.com/user-attachments/assets/591534e6-d01c-41e6-908b-9180bd0fe07d)
 
 ## Add Transaction Manually
 Here is how you can manually add transaction
