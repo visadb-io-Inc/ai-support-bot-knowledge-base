@@ -296,7 +296,7 @@ Steps to set up Zapier integration:
 
 ## Notification System
 
-- Browser notifications after each scan
+- Browser notifications after each scan (can be set to 2hrs, daily or weekly)
 - If platform disconnected, email notification sent
 - No built-in SMS or Slack notifications
 
