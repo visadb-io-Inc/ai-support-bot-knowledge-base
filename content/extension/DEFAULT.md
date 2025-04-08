@@ -478,21 +478,21 @@ Por favor, assista a este vídeo para melhor configurar o Devi https://youtu.be/
 
 ## Clear Leads on Devi
 
-Please go to Settings>Business Info & Account Management> Debug & Data Control > then select below, "Individual Data Cleaner" and choose what platform to clean plus the duration you would like to clean/delete
+Please go to Settings>Business Info & Account Management> Debug & Data Control > then select below "Individual Data Cleaner" and choose what platform to clean plus the duration you would like to clean/delete
 
 ## Number of Posts Scanned
 
-Here is how you can change number of posts to be scanned: Settings>Social Media Connections & Settings>Facebook Groups & Settings
+Here is how you can change the number of posts to be scanned: Settings>Social Media Connections & Settings>Facebook Groups & Settings
 ![View Screenshot](https://github.com/user-attachments/assets/e5d1a2fb-b8d1-48f4-8ab1-b4b8c1f3aad5)
 
 ## Get Devi Extra Facebook Groups
 
-If you are on the monthly plan, We charge $19-$29/month on monthly plans and depending on your location for every extra 15 groups added.
+If you are on the monthly plan, we charge $29/month on monthly plans for every extra 15 groups added.
 If you are on the Devi yearly plan, you can get a yearly Groups-Adon by paying an extra $216. This gives you access to 20 more groups.
 
 ## Setup automated DM or Comment
 
-Devi wants to maintain as much human-like activity on your account which is why we do not support automatic sending of messages and comments.
+Devi wants to maintain as much human-like activity on your account, which is why we do not support the automatic sending of messages and comments.
 The current flow is;
 - Leads are found
 - You review the leads to be sure it is what you want
