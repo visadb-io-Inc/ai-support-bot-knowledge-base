@@ -124,7 +124,6 @@ Video tutorial: https://www.youtube.com/watch?v=e7tw0-HL_Zo
 - Monitors both public and private groups
 - User must be a member of the groups they want to monitor
 - Can monitor up to 25 groups with basic subscription
-- Can add more groups with add-ons ($18/month for 20 additional groups)
 - Monitors posts and comments
 - Recommended scan interval: 2 hours or more
 
