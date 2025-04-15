@@ -10,7 +10,7 @@ https://bookeeping.ai/
 Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. You can CHAT to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. 
 
 ### Price
-We have geo-based pricing for the United States is $90/month less for less-income countries. 
+We have geo-based pricing for the United States is $79/month less for less-income countries. 
 
 ### Features
 - **AI Ledger:** Automatic preparation of general ledger, profit, and loss statements, and balance sheet from bank transactions sync from Live bank connection via Plaid or User can upload the CSV as well. 
@@ -24,7 +24,33 @@ We have geo-based pricing for the United States is $90/month less for less-incom
 - **AI Audit:** Measure the accuracy, completeness, and consistency of your financial records and processes.
 - **AI Reconciliation:** Seamlessly reconcile bank and credit card transactions with AI.
 
+## SUBSCRIPTION PLANS
+### Start Plan
+- All AI Accounting features (Listed below)
+- Unlimited Transactions
+- 2 Bank Connections
+- Catchup: 2024 Bookkeeping
+- 2 Team Members
+- AI Support
 
+### Pro Plan
+- All AI Accounting features (Listed below)
+- Unlimited Transactions
+- 4 Bank Connections
+- Catchup: Last 3 years Bookkeeping
+- 1-year Report Access
+- 5 Team Members
+ - AI + Human Support
+
+### Scale Plan
+- All AI Accounting features (Listed below)
+- Unlimited Transactions
+- 6 Bank Connections
+- Catchup: Last 5 years of Bookkeeping
+- Unlimited Report Access
+- 10 Team Members
+- AI + Human Support (Priority)
+  
 ### FREE TOOLS
 - AI Spreadsheet replace Google sheets and Drive, Excel available at https://bookeeping.ai/en/tools/document
 - AI Docs replaces Google docs and MS Word available at https://bookeeping.ai/en/tools/document
