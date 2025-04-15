@@ -280,14 +280,14 @@ Other
 ### Terms of Service
 - You must be at least 18 years old individual or a legal entity to use this service.
 - You are responsible for maintaining the confidentiality of your account and password.
-- You agree not to use the service for any illegal or unauthorized purpose.
-- We only offer services to individual and entities who are resident or citizen of the US approved Trade list.
+- You agree not to use the service for any illegal or unauthorised purpose.
+- We only offer services to individual and entities who are resident or citizen of the US-approved Trade list.
 - Complete Terms can be found here https://bookeeping.ai/en/legal/terms
 
 ### Pricing and Subscription
-- We have geo-based pricing. Currently, we offer beta pricing of $50/month for limited time only. 
-- We offer an 8-day free trial for new users. 
-- The card will charge automatically on the 4th day and then every month until it is cancelled. 
+- We have geo-based pricing. Currently, we offer beta pricing of $50/month for a limited time only. 
+- We offer a 30-day free trial for new users. 
+- The card will charge automatically after the trial and then every month until it is cancelled. 
 
 
 ### Refund and Cancellation Policy
@@ -298,7 +298,7 @@ Other
 - For annual subscriptions, future unused months may be refunded on a prorated basis.
 
 ### AI Disclaimer
-- Bookeeping.ai uses AI and Large Language Models (LLMs) from OpenAI, Claude and Enterprise user can choose their own model (soon) 
+- Bookeeping.ai uses AI and Large Language Models (LLMs) from OpenAI, Claude, and Enterprise user can choose their own model (soon) 
 - These are emerging technologies that may produce unexpected or inaccurate results.
 - While we strive for accuracy, we cannot guarantee 100% accuracy.
 - Users should verify AI-generated results before making important decisions.
