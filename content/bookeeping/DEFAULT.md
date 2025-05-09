@@ -1,4 +1,3 @@
-
 ## About bookeping.ai TOOL
 
 ### What is Bookeeping.ai
@@ -252,7 +251,7 @@ Here is how you can connect to Stripe
 ![Connect Stripe](https://github.com/user-attachments/assets/eaef4ca5-b164-486c-bd85-b620afa688f9)
 
 ## Chat with AI Assistant
-- On any screen including dashboard, Click on the chat assistant
+- On any screen, including the dashboard, click on the chat assistant
 - You can choose any of the options to perform any activity of your choice
   ![chat with Assistant 1](https://github.com/user-attachments/assets/fb183af3-6c9a-4bd8-b1f3-9453f35bf3e4)
 ![chat with Assistant 2](https://github.com/user-attachments/assets/25aafa66-1204-428c-b22d-9634fb3abfc6)
