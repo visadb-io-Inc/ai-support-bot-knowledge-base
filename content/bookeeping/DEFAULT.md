@@ -198,19 +198,28 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
 
 ## Docs
-- Click on Documents
-- Select Docs
+- Click on Docs & e-sign
+- Select AI Docs & e-sign
 - Click on "Create Document" or Chat with AI Assistant then choose to create doc
 - Describe doc to be autocreated or choose blank document to create empty document
+- Click on Create New Signature to add signature
  ![Create Docs](https://github.com/user-attachments/assets/4508f515-165f-4e25-8c61-641abb8ffff5)
 ![make document](https://github.com/user-attachments/assets/7c8624be-b206-464b-8d1b-f3387466d0b3)
+![Add Signature](https://github.com/user-attachments/assets/6c26a70e-7852-4a2e-8cd8-798b360b12d0)
 
 ## File Storage
-- Click on Documents
+- Click on Docs & e-sign
 - Select File Drive
 - Click "Add File" and select file
 - Or open existing file
   ![Drive](https://github.com/user-attachments/assets/8e73335d-fb48-4756-87d8-0756b8da6231)
+
+## AI Email
+- Click on Docs & e-sign
+- Select Email
+- Click Compose Email
+- Add Receiver, Subject and message
+- Send
 
 ## Counterparty
 - Click on Setup
