@@ -1,43 +1,40 @@
 ## About bookeping.ai TOOL
 
 ### What is Bookeeping.ai
-Chat to Complete 95% Financial Tasks | AI Accountant
 
-https://bookeeping.ai/
-
-### Description (long)
-Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. You can CHAT to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. 
+Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. 
 
 ### Price
-We have geo-based pricing for the United States is $79/month less for less-income countries. 
+We have geo-based pricing for the United States lowest plan starts from $29/month and lower for other countries. 
 
-### Features
-- **AI Ledger:** Automatic preparation of general ledger, profit, and loss statements, and balance sheet from bank transactions sync from Live bank connection via Plaid or User can upload the CSV as well. 
-- **AI Receipts:** Auto Scan receipts and invoices from inbox email or mobile app picture OCR
+### Features comes with all the plans
+- **AI General Ledger:** Automatic preparation of general ledger, profit, and loss statements, and balance sheet from bank transactions sync from Live bank connection via Plaid or User can upload the CSV as well. 
+- **AI Receipts:** Auto Scan receipts and invoices from inbox email and match with transactions.
 - **AI Tax Info:** Chat with IRS, CRA, and HMRC, so you find information in seconds
-- **AI Invoices:** Generate invoices and send emails with a chat message
+- **AI Invoices:** Generate invoices and send emails with a simple prompt
 - **AI Sheets:** Generate spreadsheets from text prompts and then chat with them to update. Includes formula, analysis and formatting.
-- **AI Tax Form Filing:** Automatically Fill in PDF tax forms, able to edit and download. We will offer e-filing service as well in the future.
 - **AI Accounting:** Real-time accounting and advice to grow your business
 - **AI Drive:** Chat with uploaded files. Create, save and edit your documents on a single application
 - **AI Audit:** Measure the accuracy, completeness, and consistency of your financial records and processes.
 - **AI Reconciliation:** Seamlessly reconcile bank and credit card transactions with AI.
+- **eSign**: Replace DocuSign. We offer simple eSign. Use AI to create docs and then send to get e-Sign
 
 ## SUBSCRIPTION PLANS
-### Start Plan
+### Start Plan $29/mo (for US, lower for other countries)
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
 - 2 Bank Connections
 - Catchup: 2024 Bookkeeping
+- 1 year report access.
 - 2 Team Members
 - AI Support
 
-### Pro Plan
+### Pro Plan $49/mo (for US, lower for other countries)
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
 - 4 Bank Connections
 - Catchup: Last 3 years Bookkeeping
-- 1-year Report Access
+- 3-year Report Access
 - 5 Team Members
  - AI + Human Support
 
@@ -45,6 +42,7 @@ We have geo-based pricing for the United States is $79/month less for less-incom
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
 - 6 Bank Connections
+- Unlimited chat with Claude & ChatGPT Models
 - Catchup: Last 5 years of Bookkeeping
 - Unlimited Report Access
 - 10 Team Members
@@ -54,6 +52,17 @@ We have geo-based pricing for the United States is $79/month less for less-incom
 - AI Spreadsheet replace Google sheets and Drive, Excel available at https://bookeeping.ai/en/tools/document
 - AI Docs replaces Google docs and MS Word available at https://bookeeping.ai/en/tools/document
 
+### Bank Connections Information
+- We use Plaid to secure connect and sync transactions from your bank accounts. Plaid certified SOC2
+- Plaid uses encrypted and secure connection, we do not see your bank credentials and can only read transactions data.
+- Plaid gives us past 24 months of Data. However, some banks may share less months data.
+- Live Bank connection is required to achieve full automation. User can upload CSV data but it will be manual work with risk of erros. 
+- Some banks send transactions in real-time, others take 24-48 hours.
+- You can add credit card, checking account, PayPal etc via Plaid
+- Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
+- Users can buy additional bank connections for $10
+  
+ 
 ### How to Manually add Transactions
 - On your dashboard
 - Click "Add Items"
@@ -88,7 +97,7 @@ We have geo-based pricing for the United States is $79/month less for less-incom
 - Connect your Bank or Import CSV, or import Demo Data
   ![start accounting tasks](https://github.com/user-attachments/assets/38afb860-549a-4525-9fcc-538b8ac4d793)
 
-### Turn On Expert Mode
+### Turn On Double Entry Mode
 This feature is ideal for accountants and CPAs who want to see work with double-entry accounting system. 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
@@ -365,15 +374,8 @@ Please inform us whenever you need to add your collaborators. We will help you i
 Yes, you can add more bank accounts at a small charge of $10/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
 
-## Upload or import QuickBooks file
-Here is how you can upload or import QuickBooks file
-- Click on add items
-- Click on import Quickbooks
-- Select the file and it will be uploaded
-- Update the category mapping and save changes
-- Choose to skip or add duplicates
-- Then save
-![import quickbooks](https://github.com/user-attachments/assets/af2a8c9c-b4ca-44a5-81d3-4d9e5991232b)
+## How to import QuickBooks data?
+Please use our 1-click QuickBooks Data migration tool. It is a browser extension available here. Simple install this and follow the instructions. Here is how you can upload or import QuickBooks fil
 
 ## Upload or import CSV file
 Here is how you can upload or import CSV file
