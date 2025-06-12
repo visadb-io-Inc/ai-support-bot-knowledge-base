@@ -62,19 +62,19 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### Facebook
 
 - Monitors public and private groups (must be member, no need to be an admin)
-- Up to 25 groups with basic subscription
+- Up to 25 groups with basic subscription. Additional groups $30 for each 15 group pack.
 - Scan interval available 30 minutes to 8 hours. Recommended 2+ hours
-- Group Management: Settings > Social Media Connection & Settings > Facebook Groups
 
 ### LinkedIn
 
-- Monitors posts from connections (up to 3+ degree connections)
+- Monitors posts from within and outside network (up to 3+ degree connections)
 - Company pages and personal profiles (including Top Voices)
 - Does not monitor comments
+- AI generated responses from within Devi
 - Faster scan intervals possible (30+ minutes).
 - Scrap more posts by changing the settings. Ideal to use default settings.
 - Monitor specific occupations making post about your keywords
-- Filter leads by job title
+- Filter leads by job title e.g. CEO, CTO, CMOs etc
 
 ### Twitter/X
 
@@ -85,7 +85,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Reddit
 
-- Monitor global posts or choose specific subreddits (up to 10)
+- Monitor global posts or choose specific subreddits (up to 10). Additional subreddits for extra cost
 - Must join subreddit before monitoring
 - Monitors post titles only, click to view the content available on devi
 - AI generated responses from within Devi
