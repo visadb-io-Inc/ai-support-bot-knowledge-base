@@ -4,7 +4,7 @@
 
 Devi AI is a Chrome extension that helps businesses monitor social media platforms for keywords automatically. Ideal to find leads and opportunities. The tool monitors private and public Facebook groups, Twitter/X, Reddit, LinkedIn, NextDoor, Telegram, BlueSky, Threads and WhatsApp groups for specified keywords, then uses AI to read every post and detect buyer intent. Devi AI also generates personalized responses/comments and content.
 
-### Key Features
+### Devi AI Software Key Features
 
 - **Social Media Monitoring**: Track keywords across multiple platforms fully automated
 - **AI Lead Detection**: ChatGPT analyzes each post for intent and purpose
@@ -64,6 +64,12 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Monitors public and private groups (must be member, no need to be an admin)
 - Up to 25 groups with basic subscription. Additional groups $30 for each 15 group pack.
 - Scan interval available 30 minutes to 8 hours. Recommended 2+ hours
+- AI Lead Detection: ChatGPT analyzes each post for intent and purpose
+- AI Responses: AI will write a personalize comment/response. No Auto commenting. Human click is required to send. 
+- AI Content Creation: AI generates posts, visual content, and News Headlines
+- Post Scheduling: Schedule content across connected social media accounts
+- All Language supported: All languages are supported in keyword tracking, Ai Responses and content generatio
+
 
 ### LinkedIn
 
@@ -75,48 +81,71 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Scrap more posts by changing the settings. Ideal to use default settings.
 - Monitor specific occupations making post about your keywords
 - Filter leads by job title e.g. CEO, CTO, CMOs etc
+- For LinkedIn only pricing visit https://ddevi.com/pricing page and select LinkedIn.
+- WebHook Data export is supported.
+
 
 ### Twitter/X
 
 - Location options: Scan posts "Near Me" or "Global"
 - Faster scan intervals possible (30+ minutes)
 - Detect posts by influencers for your keywords
-- AI generated responses from within Devi
+- AI generated responses from within Devi. No auto DMs to protect your account. 
+- For X/Twitter only pricing visit https://ddevi.com/pricing page and select Twitter/X
+- Webhook data export is supported
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
+
 
 ### Reddit
 
 - Monitor global posts or choose specific subreddits (up to 10). Additional subreddits for extra cost
 - Must join subreddit before monitoring
 - Monitors post titles only, click to view the content available on devi
-- AI generated responses from within Devi
+- AI generated responses from within Devi. No auto dms to protect your account. 
+- For Reddit only pricing visit https://ddevi.com/pricing page and select Reddit.
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ### NextDoor
 
 - Uses your NextDoor account location settings
 - Monitors local area posts
+- For Nextdoor only pricing visit https://ddevi.com/pricing page and select NextDoor.
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ### WhatsApp
 
 - Monitor WhatsApp groups
 - Must be a member
 - One account connection at a time
+- For whatsApp only pricing visit https://ddevi.com/pricing page and select WhatsApp.
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ### Telegram
 
-- Monitor groups & Channels
+- Monitor groups & Channels for keywords.
 - Must be a member
 - One account connection at a time
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ### BlueSky
 
-- Monitor Feeds and Posts
+- Monitor Feeds and Posts for keywords
 - Must be a member
 - One account connection at a time
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ### Threads
 
-- Monitor Posts
+- Monitor Posts for keywords.
 - One account connection at a time
+- Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 ## Monitoring Configuration
 
