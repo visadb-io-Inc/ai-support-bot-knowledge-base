@@ -5,7 +5,7 @@
 Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. 
 
 ### Price
-We have geo-based pricing for the United States lowest plan starts from $29/month and lower for other countries. 
+We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. We also have special discounts if you have multiple businesses or if you are an accounting firm. 
 
 ### Features comes with all the plans
 - **AI General Ledger:** Automatic preparation of general ledger, profit, and loss statements, and balance sheet from bank transactions sync from Live bank connection via Plaid or User can upload the CSV as well. 
@@ -28,6 +28,7 @@ We have geo-based pricing for the United States lowest plan starts from $29/mont
 - 1 year report access.
 - 2 Team Members
 - AI Support
+- ChatGPT included
 
 ### Pro Plan $49/mo (for US, lower for other countries)
 - All AI Accounting features (Listed below)
@@ -37,6 +38,7 @@ We have geo-based pricing for the United States lowest plan starts from $29/mont
 - 3-year Report Access
 - 5 Team Members
  - AI + Human Support
+ - ChatGPT & Claude Included
 
 ### Scale Plan
 - All AI Accounting features (Listed below)
@@ -47,6 +49,7 @@ We have geo-based pricing for the United States lowest plan starts from $29/mont
 - Unlimited Report Access
 - 10 Team Members
 - AI + Human Support (Priority)
+- ChatGPT & Claude Unlimited 
   
 ### FREE TOOLS
 - AI Spreadsheet replace Google sheets and Drive, Excel available at https://bookeeping.ai/en/tools/document
@@ -60,7 +63,7 @@ We have geo-based pricing for the United States lowest plan starts from $29/mont
 - Some banks send transactions in real-time, others take 24-48 hours.
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
-- Users can buy additional bank connections for $10
+- Users can buy additional bank connections for $10/month
   
  
 ### How to Manually add Transactions
@@ -361,10 +364,10 @@ You can add as many businesses as you like. However, you need to buy subscriptio
 ![Please watch](this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
 ### How does bookeeping take information from QuickBooks?
-We are currently working on QuickBooks integration. In the meantime, you can upload it as CSV
+You can download our . In the meantime, you can upload it as CSV
 
 ### How to import Data past 24 months
-Yes, you can import past years as CSV file and it will sync with your current data when loaded onto bookeeping.ai
+Yes, you can use bank connection for 24 months data and upload CSV file for past 24 months. 
 
 ## Add more collaborators
 Yes, you can add more collaborators at a small charge of $10/collaborator.
@@ -496,3 +499,7 @@ Here is how you can reset data in bookeeping.ai
 ## Video Guide on How to Use the Tool
 You can navigate to the landing page and click to play the video
 Or [click here to watch this video guide](https://assets.bookeeping.ai/help/3.mp4)
+
+## How to download Apps for Receipt upload and Managing finance on the go
+- Download [for IOS](https://apps.apple.com/us/app/bookeeping-ai/id6742908174)
+- Download [for Android](https://play.google.com/store/apps/details?id=com.bookeeping.ai)
