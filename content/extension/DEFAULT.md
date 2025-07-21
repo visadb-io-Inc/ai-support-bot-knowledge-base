@@ -178,7 +178,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### AI Content Generation
 
 - Viral ane Engaging content genration based on business, location and keywords
-- - Fetches latest news articles and Repurpose into social posts
+- Fetches latest news articles and Repurpose into social posts
 - Customizable AI prompts for content generation
 - **Visual Content**: Creates branded AI images using company info and logo
 
@@ -202,6 +202,11 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Email notifications (2hrs, daily, or weekly options)
 - Platform disconnection alerts via email
 - No SMS or Slack notifications available by default but Zapier Webhook can be used to achieve this.
+
+### Mobile Apps to get Alerts and Notifications. 
+- This is just an Lead Alert app, does not show the full post/lead content due to compliance. User need to click to see the full post on the platform. Ideal for people who do not work on computers. 
+- Download [for IOS](https://apps.apple.com/us/app/devi-ai/id6748566297)
+- Download [for Android](https://play.google.com/store/apps/details?id=com.bookeeping.ai](https://play.google.com/store/apps/details?id=com.ddevi.com)
 
 ## Data Management & Privacy
 
@@ -268,7 +273,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Chrome, Edge, or Chromium-based browser
 - PC must remain on and connected for scanning
 - Stable internet connection
-- No mobile app (extension works only in desktop browsers)
+- Mobile apps only for Alerts (Devi AI extension works only in desktop browsers)
 - Cannot connect multiple accounts per platform simultaneously, you need to create seprate chrome profiles and additional subscription to monitor more accounts.
 
 ## Account Management
@@ -283,7 +288,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ## Limitations
 
-- Browser Extensions do not work on mobile devices, so this is not a Devi limitation.
+- Browser Extensions do not work on mobile devices, so this is not a Devi limitation. User can install on cp
 - No automatic commenting/messaging. Only automatic comment drafts, human review and click required to comment.
 - No geo-targeting posts for Facebook. Join the location based groups instead. Twitter does nearby and other platforms have their own location settings.
 - No team/multi-user access to same account unless you share the passwords (not recommended)
@@ -330,9 +335,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 6. Keep browser and extension updated
 7. Use responsibly to avoid spam/harassment
 
-Product Guide & How To's
-
-##
+## Product Guide & How To's
 
 - You can see the number of leads Devi AI has found, as well as pending outreach from your Dashboard.
   See the status of your leads found and outreach from your Dashboard, [for more reference see](https://ucarecdn.com/e0685ea3-a6ab-42ea-a90b-283094cd0871/01Dashboard.png).
