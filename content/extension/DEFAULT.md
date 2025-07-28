@@ -20,10 +20,10 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Geo Based pricing depending on a country, best to check the pricing page from your location.
 - Facebook monitoring: $49/month for 25 groups (For US & UK, cheaper for others)
-- Additional 15 groups: $29/month (monthly plans)
+- Additional 10 groups pack: $10/month. They can add it in the Billing area. 
 - Yearly plans Discounts: Get 2 months free on yearly plans.
 - One subscription is for One business only. If you are an agency get our wholesale pricing offer.
-- Additional platforms (LinkedIn, Twitter, Reddit, etc.): Extra cost shown on pricing page.
+- Additional platforms (LinkedIn, Twitter, Reddit, etc.): Extra cost shown on pricing page. User can add or remove in the Billing Page
 - We offer special discounts, talk to our team.
 - **Free Trial**: We offer $1 for 10 days trial with full access to features and AI capabalities.
 
@@ -62,7 +62,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### Facebook
 
 - Monitors public and private groups (must be member, no need to be an admin)
-- Up to 25 groups with basic subscription. Additional groups $30 for each 15 group pack.
+- Up to 25 groups with basic subscription. Additional groups $20 for each 10 groups pack.
 - Scan interval available 30 minutes to 8 hours. Recommended 2+ hours
 - AI Lead Detection: ChatGPT analyzes each post for intent and purpose
 - AI Responses: AI will write a personalize comment/response. No Auto commenting. Human click is required to send. 
