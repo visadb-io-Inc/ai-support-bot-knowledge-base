@@ -202,11 +202,12 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Email notifications (2hrs, daily, or weekly options)
 - Platform disconnection alerts via email
 - No SMS or Slack notifications available by default but Zapier Webhook can be used to achieve this.
+- Get notifivation on the go via mobile app availble in ios and android [download here] (https://ddevi.com/app)
 
 ### Mobile Apps to get Alerts and Notifications. 
 - This is just an Lead Alert app, does not show the full post/lead content due to compliance. User need to click to see the full post on the platform. Ideal for people who do not work on computers. 
 - Download [for IOS](https://apps.apple.com/us/app/devi-ai/id6748566297)
-- Download [for Android](https://play.google.com/store/apps/details?id=com.bookeeping.ai](https://play.google.com/store/apps/details?id=com.ddevi.com)
+- Download [for Android](https://play.google.com/store/apps/details?id=com.ddevi.com)
 
 ## Data Management & Privacy
 
