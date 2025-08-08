@@ -378,12 +378,16 @@ Yes, you can add more bank accounts at a small charge of $10/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
 
 ## How to import QuickBooks data?
-Please use our 1-click QuickBooks Data migration tool. It is a browser extension available here. Simple install this and follow the instructions. Here is how you can upload or import QuickBooks fil
+Please use our 1-click QuickBooks Data migration tool. It is a browser extension available here. Simple install this and follow the onscreen instructions. 
 
-## Upload or import CSV file
-Here is how you can upload or import CSV file
-- Click on add items
-- Click on import CSV Data
+- Click on Add items in dashboard then Click on Quickbooks | Or [click here](https://bookeeping.ai/en/account/:account/upload/transaction)
+- Follow on-screen instruction after that
+- Watch this video https://assets.bookeeping.ai/help/quickbooks-import-help-2.mp4
+
+
+## Import bank transaction using CSV, MT940 or CAMT.093 methods
+
+- Click on Add items in dashboard then Click on Import Bank Statement | Or [click here](https://bookeeping.ai/en/account/:account/upload/transaction)
 - Select the file and it will be uploaded
 - Update the category mapping and save changes
 - Choose to skip or add duplicates
