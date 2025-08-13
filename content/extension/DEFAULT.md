@@ -31,7 +31,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - To cancel or change subscription go here https://ddevi.com/dashboard/billing
 - We offer refunds for the recent charge and the current month only. No past months.
-- To add or remove additional platforms. Please go to https://ddevi.com/dashboard/billing
+- To add or remove additional platforms or additional groups Please go to https://ddevi.com/dashboard/billing
 
 ### Team Plans
 
