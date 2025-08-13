@@ -30,7 +30,8 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 **Billing Management**:
 
 - To cancel or change subscription go here https://ddevi.com/dashboard/billing
-- We offer refunds for the recent charge and the current month only.
+- We offer refunds for the recent charge and the current month only. No past months.
+- To add or remove additional platforms. Please go to https://ddevi.com/dashboard/billing
 
 ### Team Plans
 
@@ -160,6 +161,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
   - Add industry jargon and common misspellings
   - Regular review and updates
   - Keyword Optimization Video: https://youtu.be/bFX9FpssXkY
+  - By default we do exact match of the keyword(s) or phrase, however, user can turn this on and use contains so if a word match their keyword it will also show. 
 
 ### Scanning Settings
 
@@ -224,11 +226,18 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Data Export
 
-- No direct API but Zapier API can be used to export and process data as you like.
+- Option 1: You can export\impor all your data (social media posts) by going to this link chrome-extension://obofmdbkmindkbmdjkfdmehmddjfnhad/index.html?path=settings/data
+- Option 2: No direct API but Zapier API can be used to export and process data as you like systemetically. 
 - Webhook support for real-time export
 - Zapier integration available
+- We do not allow to resell the data or use our tool to resell leads. 
 - **Setup Video**: https://www.youtube.com/watch?v=JZm-Odn4T8k
 
+### Data & Account delete
+- Uninstall the Devi Browser Extension. It will remove all your data and social media connections for ever. We dont store any social media data on our server. 
+- Once you cancel your subscription we will also remove your billing account and details.
+
+  
 ## Troubleshooting
 
 ### Common Issues
