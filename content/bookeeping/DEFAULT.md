@@ -4,7 +4,8 @@ Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks 
 
 ## Pricing
 
-We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. We also have special discounts if you have multiple businesses. For accounting firms, we give one account for free with significant discounts for additional accounts.
+- We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. We also have special discounts if you have multiple businesses. For accounting firms, we give one account for free with significant discounts for additional accounts. User can visit the pricing page to see the bookeeping.com/pricing for their region.
+- If someone needs a demo share this link https://calendar.app.google/yCd1WPo4gxCKddvKA
 
 ### Plan info: Start Plan $29/mo (for US, lower for other countries)
 
@@ -79,7 +80,7 @@ To connect your bank account, visit [here](https://bookeeping.ai/en/account/:acc
 
 ## Add Transactions manually from bank statements
 
-- Format supported: CSV, PDF, XLSX, XLS, MT940, CAMT.093
+- Format supported: CSV, PDF, XLSX, XLS, MT940, CAMT
 - On your dashboard > Click "Add Items" > Click "Import Bank Statement"
 
 Or, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction) to upload your bank statements.
