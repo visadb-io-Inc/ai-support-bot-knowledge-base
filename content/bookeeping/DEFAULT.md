@@ -1,11 +1,16 @@
 ## What is Bookeeping.ai
 
-Bookeeping.ai is the first AI Accountant that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week.
+Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week.
 
 ## Pricing
 
-- We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. We also have special discounts if you have multiple businesses. For accounting firms, we give one account for free with significant discounts for additional accounts. User can visit the pricing page to see the bookeeping.com/pricing for their region.
-- If someone needs a demo share this link https://calendar.app.google/yCd1WPo4gxCKddvKA
+- We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. User can visit the pricing page to see the bookeeping.com/pricing for their region. We also have special discounts if you have multiple businesses
+- For a product demo please book a call on this link https://calendar.app.google/yCd1WPo4gxCKddvKA
+
+### Free accounts for qualified Bookkeepers and Accounting Firms. 
+- We offer one free account for qualified firms as well as commissions when they bring or add 5+ clients.
+- Qualify for free accounts: Firm must have 10 or more clients to qualify. They need to drop their email and website and our team will reach out with with details to access free account. 
+- For a product demo please book a call on this link https://calendar.app.google/yCd1WPo4gxCKddvKA
 
 ### Plan info: Start Plan $29/mo (for US, lower for other countries)
 
@@ -67,16 +72,17 @@ These tools are for feature trials without subscription.
 
 ## Bank Connections Information
 
-- We use Plaid to secure connect and sync transactions from your bank accounts. Plaid certified SOC2
+- We use SOC2 Certified Plaid to secure connect and sync transactions from your bank accounts.
 - Plaid uses encrypted and secure connection, we do not see your bank credentials and can only read transactions data.
 - Plaid gives us past 24 months of Data. However, some banks may share less months data.
-- Live Bank connection is required to achieve full automation. User can upload CSV data but it will be manual work with risk of erros.
+- Live Bank connection is recommended to achieve full automation. User can upload CSV data but it will be manual work with risk of erros.
 - Some banks send transactions in real-time, others take 24-48 hours.
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
 - Users can buy additional bank connections for $10/month
 
 To connect your bank account, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction)
+
 
 ## Add Transactions manually from bank statements
 
@@ -87,26 +93,14 @@ Or, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction) t
 
 ![Help](https://github.com/user-attachments/assets/ef7f4157-22e8-49cd-90f8-3d02f392f5e1)
 
-## AI Task Assistant
-
-- On your dashboard
-- Choose from the AI task assistant options provided
-
+## AI Assistant Paula
+- Chat with Paula to create invoice, ledger entry, reports or ask anything about your business and its transactions. 
 ![task assistant dashboard](https://github.com/user-attachments/assets/f9f813ca-12d4-4836-b180-99e12ab1c859)
-
-## Account Summary
-
-- On your dashboard
-- You see "Revenue, Expenses and Net Income"
-- Also scroll down to view the account breakdown
-
-![Account summary](https://github.com/user-attachments/assets/994ab581-e1f9-46eb-ba0c-1636dfa76782)
-![Account Statement summary](https://github.com/user-attachments/assets/f0a79d62-c225-4d88-a0d3-291be0ca49e4)
 
 ## Clear Demo data
 
 - Go to the dashboard
-- Navigate "clear demo data"
+- Navigate "clear demo data" on left Panel in the bottom. 
 
 ![Clear Demo Data](https://github.com/user-attachments/assets/3c31703c-235f-4b36-9dab-f6c6d60a8ae7)
 
@@ -115,40 +109,40 @@ Or, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction) t
 -Navigate and click on Feedback
 ![feedback](https://github.com/user-attachments/assets/1decd06d-1072-4ee0-b4bd-ed72029b0402)
 
-## Accounting
 
-## Start Accounting Tasks
+### Add transactions to Bookeeping.ai
 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
 - Connect your Bank or Import CSV, or import Demo Data
-  ![start accounting tasks](https://github.com/user-attachments/assets/38afb860-549a-4525-9fcc-538b8ac4d793)
+- Screenshot: ![start accounting tasks](https://github.com/user-attachments/assets/38afb860-549a-4525-9fcc-538b8ac4d793)
 
-## Turn On Double Entry Mode
+### Turn On Double Entry Mode
 
 This feature is ideal for accountants and CPAs who want to see work with double-entry accounting system.
 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
-- Click to toggle turn on "Expert Mode"
+- Click to toggle turn on "Expert Mode" on the left pane bottom. 
   ![Turn on expert mode](https://github.com/user-attachments/assets/09798e66-e6b5-484d-9e99-3155b17a57b3)
 
-## General
 
-## How to filter transactions based on vendor, payer, name and other
+### How to filter transactions based on vendor, payer, name and other
 
 - Login to your Dashboard on https://bookeeping.ai/
-- Navigate to Accounting
-- Select General
+- Navigate to Accounting, make sure you are General Ledger Tab
 - Click on Filter and choose any of the options; Reconciliation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
   ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
 
-## How to Change the VIEW of ledger to see less Columns
+### How to handle Refund transactions 
+- Edit transaction by click on the pen icon when you hover a trasactions, once the edit modal opens, click Advanced at the bottom and in the end you will see Mark as Refund. You can handle both Refund issues or Refund Received here. 
+
+### How to Change the VIEW of ledger to see less Columns
 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
-- Click on Filter and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
-  ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
+- Click on the Icon on the far right and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
+- Screenshot: ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
 
 ## Profit & Loss Tab
 
@@ -161,6 +155,9 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - You can also use the header filters
   ![filter profit and loss](https://github.com/user-attachments/assets/8c224d35-d021-42f1-8286-52c6e5345e31)
   ![more filters profit and loss](https://github.com/user-attachments/assets/ee3aa9d9-449f-4339-a8b3-509a9ed0f8f7)
+
+### Export P&L
+- You can export any duration P&L by Click on Filter, Date and selec the year or quater. Then Click on Export button on the top right. You can export as PDF and Excel formats. 
 
 ## BalanceSheet Tab
 
@@ -183,8 +180,8 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ### How to Export Sheet
 
 - Login to your Dashboard on https://bookeeping.ai/
-- Navigate to Accounting
-- Click on "Export"
+- Navigate to Accounting, filter the transactions on ledger you want to export or click on P&L or balanceSheet
+- Click on "Export" on the top right. 
   ![export sheet](https://github.com/user-attachments/assets/3e7758cd-d41c-45c2-82ce-0be31203c63d)
 
 ## AI Invoice
@@ -243,12 +240,13 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 
 ## Receipts
 
-- Click on Documents
-- Click on Scan Receipts
-- Connect Email account
-- Create receipts and send
-  ![Create Receipts](https://github.com/user-attachments/assets/3d7f4edd-08b3-405c-bbd2-83dc3f302c9b)
-  ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
+- You have 3 ways to use AI to find, scan and attach receipts. 
+- You can manually attach receipts images and pdf in bulk by going to 'Invoices' and then click Upload Invocies button
+- You can also Connect your existing email account to find all the receipts, extract and match. Only pdf receipts. 
+- or you can forward the receipts to the personalised AI email address Bookeeping.ai gives you.
+- In all methods, AI will extract the subtotal, tax, shipping fees and adjust your entries automatically. 
+- Scan receipt Screenshot: ![Create Receipts](https://github.com/user-attachments/assets/3d7f4edd-08b3-405c-bbd2-83dc3f302c9b)
+- Connec email screenshot: ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
 
 ## Docs
 
@@ -264,8 +262,8 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ## File Storage
 
 - Click on Docs & e-sign
-- Select File Drive
-- Click "Add File" and select file
+- Select AI Drive
+- Click "Add File" and turn on Vectorize file mode so later you can chat with the content of the files using Paula Ai. 
 - Or open existing file
   ![Drive](https://github.com/user-attachments/assets/8e73335d-fb48-4756-87d8-0756b8da6231)
 
@@ -275,7 +273,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Select Email
 - Click Compose Email
 - Add Receiver, Subject and message
-- Send
+- Send. You can also Paula AI chat window to create an invoice for you. 
 
 ## Counterparty
 
@@ -353,22 +351,11 @@ Here is how you can connect to Stripe
 
 ## Terms of Service
 
-- You must be at least 18 years old individual or a legal entity to use this service.
-- You are responsible for maintaining the confidentiality of your account and password.
-- You agree not to use the service for any illegal or unauthorised purpose.
-- We only offer services to individual and entities who are resident or citizen of the US-approved Trade list.
 - Complete Terms can be found here https://bookeeping.ai/en/legal/terms
-
-## Pricing and Subscription
-
-- We have geo-based pricing. Currently, we offer beta pricing of $50/month for a limited time only.
-- We offer a 30-day free trial for new users.
-- The card will charge automatically after the trial and then every month until it is cancelled.
 
 ## Refund and Cancellation Policy
 
 - You can cancel your subscription at any time by going to Settings > Billing. You can also use this direct URL to access the cancellation page: https://bookeeping.ai/en/account/:account/dashboard/settings/billing
-
 - If you cancel during the free trial, no charges will be made to your payment method.
 - We do not offer refunds for past months of service.
 - For annual subscriptions, future unused months may be refunded on a prorated basis.
@@ -381,12 +368,13 @@ Here is how you can connect to Stripe
 - Users should verify AI-generated results before making important decisions.
 - Devi AI LLC and Bookeeping.ai are not responsible for errors in AI output or any resulting losses.
 
-## Data Privacy and Security
+## Data Residency, Privacy and Security
 
-- We employ robust security measures to protect your data. For full details of our security practices, please visit https://bookeeping.ai/en/security.
+- Residency: Users may select a preferred data residency during signup. We have USA, EU (Belgium), and Canada storage options. Enterprise users can request more countries data storage.
+Security: We use SOC2 certified service providers MongoDB, Google, CloudFlare and Plaid for data storage and transaction processing respectively. We also have implemented 5 advanced and commercially reasonable security measures, including AES encryption, role-based access controls, and 2FA. Details at bookeeping.ai/security.
+- Privacy: Users have the right to access, correct, or delete their personal and financial data in compliance with GDPR, CCPA, or other applicable data protection laws. Our Privacy Policy explains how we collect and use data, available at bookeeping.ai/privacy-policy. 
+- Security: We employ robust security measures to protect your data. For full details of our security practices, please visit https://bookeeping.ai/en/security.
 
-- We do not sell your personal information to third parties.
-- For full details, please refer to our Privacy Policy at https://bookeeping.ai/en/legal/privacy-policy.
 
 ## How to upload files in Bookkeeping
 
@@ -396,35 +384,34 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 - Click on More
 - Select Storage
 - Add File
-  ![Upload files](https://github.com/user-attachments/assets/e21ce5a7-c1d2-45e3-8121-f3a727c4f192)
+- screenshot: ![Upload files](https://github.com/user-attachments/assets/e21ce5a7-c1d2-45e3-8121-f3a727c4f192)
 
 ## Bulk update category
 
-- Select transactions to be updated
-- Click on Change Category
+- Select transactions to be updated by clicking the checkbox, you will see the new button will appear to mass update the fields
+- Click on Change Category. Carefully select this operation. 
 - The software will automatically detect the same party and ask you to change their category too.
   ![Bulk update category](https://github.com/user-attachments/assets/34cc08cb-c9fe-4e8f-8c0f-7eb62f2d5165)
 
 ## Bulk Delete Category
 
-- Select transactions to be deleted
+- Select transactions to be deleted. you will see the new button will appear to mass update the fields
 - Click on delete
 - Follow the prompt
   ![bulk delete](https://github.com/user-attachments/assets/68eb68a4-1191-46c6-ac89-0598ed88a31d)
 
-## Perform automation on Bookkeeping
+## Weekly Automated AI Reports
 
+- Paula AI will run your prompt with instructions automatically on your selected schedule and deliver you the report via email and chat message.
 - Navigate to Setup
 - Locate and Click on Automation
-- Select from the list of automation features what automation you want to set
+- Select from the list of automation templates and select what automation you want to set
 - On the chosen automation, click on Use this Automation (See screenshot)
   ![Automation](https://github.com/user-attachments/assets/13f80b67-d01d-467d-8fdf-617e40ecee11)
 
 ## Multiple business books and records
-
-Yes bookeeping.ai can handle multiple business books and records
-You can add as many businesses as you like. However, you need to buy subscriptions for each
-![Please watch](this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
+- Yes bookeeping.ai can handle multiple business books and records separately under one email account. You can add as many businesses as you like. However, you need to buy subscriptions for each
+- Video demo on how to add multiple business. ![Please watch](this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
 ## How does bookeeping take information from QuickBooks?
 
@@ -432,16 +419,15 @@ You can download our . In the meantime, you can upload it as CSV
 
 ## How to import Data past 24 months
 
-Yes, you can use bank connection for 24 months data and upload CSV file for past 24 months.
+Yes, you can use bank connection for 24 months data and upload CSV file for older than 24 months. Make sure your CSV do not include the same range as your connected bank accounts to avoid duplicate notifications from AI. 
 
 ## Add more collaborators
 
-Yes, you can add more collaborators at a small charge of $10/collaborator.
-Please inform us whenever you need to add your collaborators. We will help you implement on your current billing settings
+Yes, you can add more collaborators, every account has free collaborators allowed. Please inform us whenever you need to add additional collaborators then account limites. 
 
 ## How to add more bank accounts
 
-Yes, you can add more bank accounts at a small charge of $10/bank account.
+Yes, every plan has free bank connections allowed, you can add additional bank accounts at a small charge of $10/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
 
 ## How to import QuickBooks data?
@@ -463,31 +449,30 @@ Please use our 1-click QuickBooks Data migration tool. It is a browser extension
 
 ## How to add Class
 
-There are two ways to add a class
+Two ways to add classes  
 
-## First way
-
-- Please click on Setup, scroll down to the last option Classes
-- Add the business name and a note
-- Then save
-  ![Create classes](https://github.com/user-attachments/assets/116c7510-bc3b-4b37-b2b9-7e36e7d094a4)
-
-## Second way
-
+ First way: 
 - Navigate to the accounting page,
 - click the edit pen icon on any transaction you want to add a class to
 - Modify the class as you want and save
   ![Create class](https://github.com/user-attachments/assets/5d1409da-3730-4621-95bb-476affce820c)
   ![Edit class](https://github.com/user-attachments/assets/591534e6-d01c-41e6-908b-9180bd0fe07d)
 
+or add classes in your system settings so later can apply. 
+- Please click on Setup, scroll down to the last option Classes
+- Add the business name and a note
+- Then save
+  ![Create classes](https://github.com/user-attachments/assets/116c7510-bc3b-4b37-b2b9-7e36e7d094a4)
+
+
+
 ## Add Transaction Manually
 
-Here is how you can manually add transaction
+Here is how you can manually add transaction or add a general entry
 
 - Click on add items
 - Click on add transaction
-- Fill the form
-- Update the category mapping and save changes
+- Fill in the transaction detail
 - Then save
   ![Add transaction](https://github.com/user-attachments/assets/0b695de5-7f59-4aba-b876-483e9e4fdc4b)
 
