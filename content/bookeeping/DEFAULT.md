@@ -10,7 +10,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 ### Free accounts for qualified Bookkeepers and Accounting Firms. 
 - We offer one free account for qualified firms as well as commissions when they bring or add 5+ clients.
 - Qualify for free accounts: Firm must have 10 or more clients to qualify. They need to drop their email and website and our team will reach out with with details to access free account. 
-- For a product demo please book a call on this link https://calendar.app.google/yCd1WPo4gxCKddvKA
+- For a product demo please book a call on this link https://calendly.com/meeto/bookeeping-ai
 
 ### Plan info: Start Plan $29/mo (for US, lower for other countries)
 
