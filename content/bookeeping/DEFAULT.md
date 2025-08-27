@@ -5,7 +5,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 ## Pricing
 
 - We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. User can visit the pricing page to see the bookeeping.com/pricing for their region. We also have special discounts if you have multiple businesses
-- For a product demo please book a call on this link https://calendar.app.google/yCd1WPo4gxCKddvKA
+- For a product demo please users to book a call on this link https://calendly.com/meeto/bookeeping-ai
 
 ### Free accounts for qualified Bookkeepers and Accounting Firms. 
 - We offer one free account for qualified firms as well as commissions when they bring or add 5+ clients.
