@@ -73,8 +73,8 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
 - Some banks send transactions in real-time, others take 24-48 hours.
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
-- Users can buy additional bank connections for $10/month. We give discounts if you have alot of bank accounts to connet.
-
+- Users can buy additional bank connections for $5/month.
+  
 ### How to Connect Bank Account (US & Canada only)
 
 1. **Go to Import Transactions Page**  
@@ -492,7 +492,7 @@ Yes, you can add more collaborators, every account has free collaborators allowe
 
 ## How to add more bank accounts
 
-Yes, every plan has free bank connections allowed, you can add additional bank accounts at a small charge of $10/bank account.
+Yes, every plan has free bank connections allowed, you can add additional bank accounts at a small charge of $5/bank account.
 Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
 
 
