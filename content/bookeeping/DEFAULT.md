@@ -1,8 +1,13 @@
+
 ## What is Bookeeping.ai
 
-Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week.
+Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
 
-Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
+### 30-minute setup & done Bookkeeping Tutorials
+- [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
+- [Upload Bank Statement](https://assets.bookeeping.ai/help/videos-v2/how-to-upload-bank-statement.mp4)
+- [Categorize Using AI](https://assets.bookeeping.ai/help/videos-v2/how-to-categorize-transactions.mp4)
+- [Review & Finalize Bookkeeping](https://assets.bookeeping.ai/help/videos-v2/review-finalize-bookkeeping.mp4)
 
 ## Pricing
 
@@ -74,6 +79,8 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
 - Users can buy additional bank connections for $5/month.
+- Video Tutorial to setup a bank connection: [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
+
   
 ### How to Connect Bank Account (US & Canada only)
 
@@ -113,7 +120,8 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
    - **Sync All Transactions Data** → If your bank account is *not* connected (avoids duplicates).  
    - **Connect Only** → Only for accepting invoice payments via Stripe.  
 
-- Taxes are calculated by referencing invoices linked to payouts and extracting from individual line items.  
+- Taxes are calculated by referencing invoices linked to payouts and extracting from individual line items.
+- Watch video tutorial to setup Stripe: 
 
 
 
@@ -129,7 +137,9 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
    - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected.  
    - **Sync All Transactions Data** → If your bank account is *not* connected.  
 
-- Taxes are calculated by referencing orders linked to payouts and extracting from individual line items.  
+- Taxes are calculated by referencing orders linked to payouts and extracting from individual line items.
+- Watch video Tutorial to setup Shopify: [How to Sync Shopify Sales Data](https://assets.bookeeping.ai/help/videos-v2/how-to-sync-shopify-sales-data.mp4)
+
 
 ## Import from Airbnb (Pro Plans Only)
 1. **Navigate to Transactions Page**  
@@ -146,7 +156,9 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
    - After completion, you’ll be redirected to see imported transactions.  
 
 5. **Commit Transactions**  
-   - Click **Save transactions** to finalize in the ledger.  
+   - Click **Save transactions** to finalize in the ledger.
+
+- Watch video tutorial: - [How to Reconcile Airbnb Transactions Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-reconcile-airbnb-transactions-automatically.mp4)
 
 
 ## Import from QuickBooks
@@ -154,7 +166,8 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
 2. **Login to QuickBooks Online** → Select your business.  
 3. **Click "Import to Bookeeping.ai"** button.  
 4. **Wait for process completion** and follow on-screen guide.  
-5. **Watch tutorial video** for better guidance.  [link here](https://assets.bookeeping.ai/help/quickbooks-import-help-2.mp4)
+5. **Watch tutorial video** for better guidance. [How to Migrate Data from QuickBooks](https://assets.bookeeping.ai/help/videos-v2/how-to-migrate-data-from-quickbooks.mp4)
+
 
  ### Migration extension automatically imports:  
 - Journal entries  
@@ -180,7 +193,8 @@ Bookeeping.ai is made a US based company Devi AI LLC located in Sheridan, Wyomin
 5. **Commit Transactions**  
    - Click **Save transactions** to finalize.  
 
----
+- Watch video tutorial here: [Upload Bank Statement](https://assets.bookeeping.ai/help/videos-v2/how-to-upload-bank-statement.mp4)
+
 
 ## Handling Duplicates
 Bookeeping.ai automatically detects duplicate transactions during import. You have two options:  
@@ -200,6 +214,8 @@ Bookeeping.ai automatically detects duplicate transactions during import. You ha
 
 - Chat with Paula to create invoice, ledger entry, reports or ask anything about your business and its transactions.
   ![task assistant dashboard](https://github.com/user-attachments/assets/f9f813ca-12d4-4836-b180-99e12ab1c859)
+- Watch Video Tutorial: [Meet Your AI Accountant Paula](https://assets.bookeeping.ai/help/videos-v2/how-to-use-your-ai-accountant-paula.mp4)
+
 
 ## Clear Demo data
 
@@ -230,6 +246,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Click on Filter and choose any of the options; Reconciliation, Balances, Amount, Txn Date, Note, Counterparties, or Bank Accounts
   ![filter general](https://github.com/user-attachments/assets/79ee385f-4ed0-410c-bba1-917afd16dab1)
 
+
 ### How to handle Refund issued or refund received transactions
 
 - It is important to handle refund transactions, otherwise they could be misclassified. 
@@ -241,6 +258,15 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 - Navigate to Accounting
 - Click on the Icon on the far right and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
 - Screenshot: ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
+
+### Video Tutorials to handle transactions
+- [How to Add/Edit a General Entry](https://assets.bookeeping.ai/help/videos-v2/how-to-add-edit-a-general-entry.mp4)
+- [How to Edit and Split an Existing Entry](https://assets.bookeeping.ai/help/videos-v2/how-to-edit-and-split-an-existing-entry.mp4)
+- [How to Handle Refund Transactions](https://assets.bookeeping.ai/help/videos-v2/how-to-handle-refund-transaction.mp4)
+- [How to Add Classes](https://assets.bookeeping.ai/help/videos-v2/how-to-add-classes.mp4)
+- [Understanding Accounting Tab](https://assets.bookeeping.ai/help/videos-v2/understanding-accounting-tab.mp4)
+- [Understanding Dashboard](https://assets.bookeeping.ai/help/videos-v2/understanding-dashboard.mp4)
+
 
 ## Profit & Loss Tab
 Profit and Loss are automatically generated and are real-time from your General Ledger. So it is important to categorized the transactions correctly. If you find any issues you can click the item directly from P&L and it will take you the relevant trnsactions on your ledger. 
@@ -299,6 +325,13 @@ Balancesheet are automatically generated and are real-time from your General Led
 Input your invoice description
 - Create invoice Screenshots: ![Create invoice](https://github.com/user-attachments/assets/d8e30d4a-3360-472b-a3d0-0f238a1821f6)
 - Invoice description screenshot: ![Invoice description](https://github.com/user-attachments/assets/6666edc7-56fd-4b80-aa75-0aa09055deac)
+
+### Video Tutorials related to Invoice & Receipts
+- [How to Create and Send Invoices](https://assets.bookeeping.ai/help/videos-v1/how-to-use-invoicing.mp4)
+- [How to Scan Receipts Using AI](https://assets.bookeeping.ai/help/videos-v2/how-to-scan-receipts-using-ai.mp4)
+- [How to Connect Email to Scan Receipts Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-email-to-scan-receipts.mp4)
+- [How to Capture GST/VAT Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-capture-sales-tax-or-vat-automatically.mp4)
+
 
 ### Export Invoice
 - Navigate and select Invoices
@@ -366,11 +399,11 @@ Input your invoice description
 - Screenshot:  ![Counterparty](https://github.com/user-attachments/assets/f975fe3f-fdff-418e-ada3-f7cf8fc070e5)
 - Screenshot create counterparty: ![Fill counterparty](https://github.com/user-attachments/assets/584caa05-629f-40ff-9c22-c674221e4179)
 
-## Add Bank Accounts
+## Add or Edit Connected Bank Account Connections
 
 - Click on Setup
 - Click on Accounts
-- Click on "Add Account" or edit/delete existing one
+- Click on "Add Account" or edit/delete existing one. You can also click 'disable' to deactivate the account this will keep it connected but do not commit any transactions on ledger. 
 - You can also Add a Connection
 - Please note that the bank connection is only available for users from the USA and Canada. Other countries can upload transactions CSV pending when we add more banks
   ![Bank Accounts](https://github.com/user-attachments/assets/28e7246c-912d-4195-97f5-d0661c304722)
@@ -436,12 +469,12 @@ Input your invoice description
 
 ## Data Residency, Privacy and Security
 
-- Residency: Users may select a preferred data residency during signup. We have USA, EU (Belgium), and Canada storage options. Enterprise users can request more countries data storage.
+- Residency: Users may select a preferred data residency during signup. We have USA (Virginia), EU (Belgium), and Canada (Toronto) storage options. Enterprise users can request more countries data storage.
   Security: We use SOC2 certified service providers MongoDB, Google, CloudFlare and Plaid for data storage and transaction processing respectively. We also have implemented 5 advanced and commercially reasonable security measures, including AES encryption, role-based access controls, and 2FA. Details at bookeeping.ai/security.
 - Privacy: Users have the right to access, correct, or delete their personal and financial data in compliance with GDPR, CCPA, or other applicable data protection laws. Our Privacy Policy explains how we collect and use data, available at bookeeping.ai/privacy-policy.
 - Security: We employ robust security measures to protect your data. For full details of our security practices, please visit https://bookeeping.ai/en/security.
 
-## How to upload files in Bookkeeping
+## How to upload files in Bookkeeping AI Drive 
 
 Chat with files is ideal for text-based documents, financial tables may not be read well currently.
 You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
@@ -476,6 +509,8 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 - Select the schedule and method of report delivery e.g. email and chat message.
 - You can test your automation by running a test. Once ready hit save. 
 - Screenshot: ![Automation](https://github.com/user-attachments/assets/13f80b67-d01d-467d-8fdf-617e40ecee11)
+- Watch the video tutorial: - [AI Business Analysis & Suggestions Report](https://assets.bookeeping.ai/help/videos-v2/how-to-use-ai-business-analysis-suggestions-reports.mp4)
+
 
 ## Multiple business books and records
 
@@ -542,16 +577,18 @@ We offer two methods of Auto Categorizations.
 - Select the countryparty or keyword to find in the note. Then select the category you want Paula to apply to on match. Save the rule.
 - screenshot: ![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
 - Screenshot update: ![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
+- Watch the video tutorial: [Categorize Using AI](https://assets.bookeeping.ai/help/videos-v2/how-to-categorize-transactions.mp4)
 
-## Tax features. 
+## Capture Sales/GST/VAT Tax features. 
 
 Bookeeping.ai is not a tax filing software however, we help our users to capture GST, VAT Or Sales tax and create an estimated report for them. We also help our users to share some important forms and get them filled up form our users clients. 
 - Login to your dashboard on https://bookeeping.ai/
 - Click on Taxes
 - Fill your business tax information
 - Then save. You can review the Sales tax report there. 
-  ![Taxes](https://github.com/user-attachments/assets/d32df0ba-d1dc-4ecd-9d22-5ae7272cab06)
-  ![Tax information](https://github.com/user-attachments/assets/0305f75b-3217-4d68-9b85-5aa1d930f446)
+- Watch the video tutorial: - [How to Capture GST/VAT Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-capture-sales-tax-or-vat-automatically.mp4)
+-  Screenshot ![Taxes](https://github.com/user-attachments/assets/d32df0ba-d1dc-4ecd-9d22-5ae7272cab06)
+-  Screenshot ![Tax information](https://github.com/user-attachments/assets/0305f75b-3217-4d68-9b85-5aa1d930f446)
 
 
 ## How to chat with IRS
