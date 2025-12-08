@@ -69,23 +69,48 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 - **eSign**: Replace DocuSign. We offer simple eSign. Use AI to create docs and then send to get e-Sign
 
 
+## How to Customize the software
+- User can customize the software logo, dashboard items, Ledger View, Left Menu/Navigation items.
+- For Dashboard customization, Go to Dashboard and top right click on 'Customize'. Turn on/off items or drag to change position. Once done save it.
+- For Navigation or Left Menu customization. Go to Settings > Customization. Here you can customize Nav items, Brand Logo, and a few advanced details. make sure you have uploaded the Logo in your Company Profile page under settings to replace the software logo with your own.
+- To customize the Ledger view. On the General tab, top right click on 'Columns'. Select or deselect the items you wanna hide or see. 
+- We are working on White label option so you can host the whole software on your own domain.
+  
+
+
+## How to extract VAT/GST or Sales tax automatically
+- User can connect with their Stripe or Shopify accounts, we will automatically read sales orders and receipts and extract tax items. You can then go Under left Menu item -Taxes > Tax Report. To see all sales tax you collected from sales and payable to Govt.
+- User can also connect their email account where all the receipts/inoices are, our system can scan PDFs, read tax item, and then find the relevant transaction, update it to record the tax. Which then can be seen in Tax Report. 
+- User can also upload receipts and invoices files so we can extract both sales tax paid on expenses and sales tax received from sales.
+- In many countries VAT paid minus VAT received and balance goes to Government. We do help this calculation automatically. If you do not see this, click on 'Customize Report' top right on the same page and turn on this setting on/off.
+- User can also upload Airbnb Data and we can take out all the tax recceived on your bookeepings and show you in the tax report.
+- Watch the video tutorial: - [How to Capture GST/VAT Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-capture-sales-tax-or-vat-automatically.mp4)
+
+## Misc. important Information about the software
+- We are cash based accounting system and offer both double entry/single entry views following GAAP Principle
+- User can set the fiscal year under Settings > Company Settings
+- Paula AI automatically do Books Review every hour to find problems such as duplicates, incorrect double entries, possible refunds, transfers between your own accounts, credit payment transactions so user can mark confirm. She will show a Yellow button and alert on Dashboard and on the General Ledger Page.
+- User can upload their documents to AI Drive or to Paula AI and then Chat with them. They first need to click on Paula Chat With down and at the bottom, you will see a Doc storage icon. Once you click on it, you will be in the 'Chat with Files' mode.
+- We are not a tax software however, we help you to share or send 1099, W-2 or W8BEN forms. Go to Taxes > Contractors & Employees. We show you the total you paid to each party in each year as well as total forms collected or shared.
+- You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings. 
+
 ## Bank Connections Information
 
 - We use SOC2 Certified Plaid to secure connect and sync transactions from your bank accounts.
 - Plaid uses encrypted and secure connection, we do not see your bank credentials and can only read transactions data.
 - Plaid gives us past 24 months of Data. However, some banks may share less months data.
-- Live Bank connection is recommended to achieve full automation. User can upload CSV data but it will be manual work with risk of erros.
+- Live Bank connection is recommended to achieve full automation. User can upload CSV data but it will be manual work with risk of errors. 
 - Some banks send transactions in real-time, others take 24-48 hours.
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
 - Users can buy additional bank connections for $5/month.
 - Video Tutorial to setup a bank connection: [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
 
-  
+
 ### How to Connect Bank Account (US & Canada only)
 
-1. **Go to Import Transactions Page**  
-   - From **Dashboard** → **Add Items** (top right) → **Bank account** → **Connect bank account**.  
+1. **Go to Connections Page**  
+   - From Left Menu **Setup** → **Connections & Integrations**  → **Bank Connections** → **Add Connection**.  
    - Direct link: [Connect Bank Account](https://bookeeping.ai/en/account/:account/upload/transaction)  
 
 2. **Enter Bank Details**  
@@ -94,11 +119,11 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 3. **Select Accounts & Sync**  
    - After connecting, choose which accounts to sync and click **Connect**.  
-   - Allow a few minutes for synchronization to finish.  
-
+   - Allow a few minutes for synchronization to finish.
+    
 4. **Review & Save Transactions**  
    - You’ll be redirected to the imported transactions page.  
-   - You must Click **Save transactions** to record them in the ledger.  
+   - You must Click **Save transactions** at the bottom to record them in the ledger.  
    - Direct link to connect your bank account, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction)
 
 
@@ -118,11 +143,13 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 4. **Choose a Synchronization Strategy**  
    - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected.  
    - **Sync All Transactions Data** → If your bank account is *not* connected (avoids duplicates).  
-   - **Connect Only** → Only for accepting invoice payments via Stripe.  
+   - **Receive Invoice Payment Only** → Only for accepting card payments for your invoices via Stripe.  
 
 - Taxes are calculated by referencing invoices linked to payouts and extracting from individual line items.
-- Watch video tutorial to setup Stripe: 
-
+- Stripe fees transactions you will see as incoming or positive, this is because stripe took the fees from your sales or income, so we need to record that first on your books and in the same transaction we record the Stripe fees. Just click View icon so you can see the double entry. Or got to Profit and Loss and see the total Stripe Fees as an expense.
+- Stripe sync happens twice a day so please be patient if you do not see your data instantly.
+- If your key is not working, please check the permissions for the key. If you click from bookeeping.ai it will have set requried permissions.
+- You can customize how we are categorizing the Stripe data in your Books. Under Setup > Connections > Stripe > 'Update Categorization rules'. 
 
 
 ## Connect Shopify (Pro Plans Only)
@@ -134,10 +161,11 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
    - Confirm connection on the Shopify page.  
 
 3. **Choose a Synchronization Strategy**  
-   - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected.  
+   - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected. (avoids duplicate)
    - **Sync All Transactions Data** → If your bank account is *not* connected.  
 
-- Taxes are calculated by referencing orders linked to payouts and extracting from individual line items.
+- Taxes are calculated by reading all orders linked to payouts and extracting from tax and shipping line items. If you do not see, check tax settings in Shopify.
+-  You can customize how we are categorizing the Shopify data in your Books. Under Setup > Connections > Shopify > 'Update Categorization rules'
 - Watch video Tutorial to setup Shopify: [How to Sync Shopify Sales Data](https://assets.bookeeping.ai/help/videos-v2/how-to-sync-shopify-sales-data.mp4)
 
 
@@ -149,8 +177,8 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
    - Import your exported Airbnb payout files.  
 
 3. **Choose Importing Strategy**  
-   - **Import Only Fees and Taxes** → If your bank account is already connected.  
-   - **Import Everything** → If your bank account is *not* connected.  
+   - **Import Only Fees and Taxes** → If your bank account is already connected (avoids duplicate)
+   - **Import Everything** → If your bank account is *not* connected.
 
 4. **Transaction Import Redirection**  
    - After completion, you’ll be redirected to see imported transactions.  
@@ -158,6 +186,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 5. **Commit Transactions**  
    - Click **Save transactions** to finalize in the ledger.
 
+-  You can customize how we are categorizing the Airbnb data in your Books. Under Setup > Connections > Airbnb > 'Update Categorization rules'.
 - Watch video tutorial: - [How to Reconcile Airbnb Transactions Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-reconcile-airbnb-transactions-automatically.mp4)
 
 
@@ -167,12 +196,8 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 3. **Click "Import to Bookeeping.ai"** button.  
 4. **Wait for process completion** and follow on-screen guide.  
 5. **Watch tutorial video** for better guidance. [How to Migrate Data from QuickBooks](https://assets.bookeeping.ai/help/videos-v2/how-to-migrate-data-from-quickbooks.mp4)
-
-
- ### Migration extension automatically imports:  
-- Journal entries  
-- Customers and Vendors  
-- Rules  
+6. Very important to adjust/move the opening Balance entry specially if you migrated the same account which is also connected with Bookeeping.ai already. 
+7. We will import Journal entries, Customers and Vendors, Categories for the past. Rules are not created as our rules are AI Based. 
 
 
 ## Import from CSV, MT940, CAMT Files
@@ -203,10 +228,11 @@ Bookeeping.ai automatically detects duplicate transactions during import. You ha
 - **Keep Duplicates** → Re-add duplicates (only if you’re certain there are no true duplicates).  
 
 
-## Add Transactions manually from bank statements
+## Add Transactions from bank statements files
 
 - Format supported: CSV, PDF, XLSX, XLS, MT940, CAMT. CSV is recommended. PDF is less reliable for reading line-by-line transactions.
 - On your dashboard > Click "Add Items" > Click "Import Bank Statement" Or [Click here](https://bookeeping.ai/en/account/:account/upload/transaction) to upload your bank statements.
+- Dialogue will preview you file content, you need to Click on the header first and then last entry row of the file so we know where to start reading the transactions and where to end for maximum accuracy. This is because many CSVs do not start from column 1. 
 
 - Screenshot: ![Help](https://github.com/user-attachments/assets/ef7f4157-22e8-49cd-90f8-3d02f392f5e1)
 
@@ -214,6 +240,10 @@ Bookeeping.ai automatically detects duplicate transactions during import. You ha
 
 - Chat with Paula to create invoice, ledger entry, reports or ask anything about your business and its transactions.
   ![task assistant dashboard](https://github.com/user-attachments/assets/f9f813ca-12d4-4836-b180-99e12ab1c859)
+- User can upload their documents to AI Drive or to Paula AI and then Chat with them. They first need to click on Paula Chat With down and at the bottom, you will see a Doc storage icon. Once you click on it, you will be in the 'Chat with Files' mode.
+- Paula can draft and send emails. Just ask her. She will use the email personal given to you by the system e.g. example@my.bookeeping.ai
+- You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings.
+- Paula is AI. You must review the output. We have no control on AI mode and are not responsible. 
 - Watch Video Tutorial: [Meet Your AI Accountant Paula](https://assets.bookeeping.ai/help/videos-v2/how-to-use-your-ai-accountant-paula.mp4)
 
 
@@ -250,13 +280,14 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ### How to handle Refund issued or refund received transactions
 
 - It is important to handle refund transactions, otherwise they could be misclassified. 
-- Click on the three dots on the related transaction, and click on Mark as Refund. You can handle both Refund issues or Refund Received here.
+- Mouseover on any transaction and you will see a pink menu options appear, click on the thrid icon for Refund. You can handle both Refund issues or Refund Received here.
+- Paula also monitor Refund transactions and show you in the 'Review' Transactions page. 
 
 ### How to Change the VIEW of ledger to see less Columns
 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate to Accounting
-- Click on the Icon on the far right and choose any of the options; Transaction date, To/From, Category, Account, Receipt, Payment Method, Note
+- Click on the Button says 'Columns' on the top right and select/deselect any of the items you want to hide or see on your general ledger table: Transaction date, To/From, Category, Account, Receipt, Payment Method, Note, Classes, Source, and others. 
 - Screenshot: ![columns to view](https://github.com/user-attachments/assets/6e52b6a3-87c2-4df7-87de-c88123a9fcec)
 
 ### Video Tutorials to handle transactions
@@ -271,15 +302,6 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 ## Profit & Loss Tab
 Profit and Loss are automatically generated and are real-time from your General Ledger. So it is important to categorized the transactions correctly. If you find any issues you can click the item directly from P&L and it will take you the relevant trnsactions on your ledger. 
 
-### Use Filter
-
-- Login to your Dashboard on https://bookeeping.ai/
-- Navigate to Accounting
-- Select Profit & Loss
-- Click on Filter and choose from the options; "Reconciliations, Counterparties, or Bank Accounts"
-- You can also use the header filters
-  ![filter profit and loss](https://github.com/user-attachments/assets/8c224d35-d021-42f1-8286-52c6e5345e31)
-  ![more filters profit and loss](https://github.com/user-attachments/assets/ee3aa9d9-449f-4339-a8b3-509a9ed0f8f7)
 
 ### Export P&L
 
@@ -342,7 +364,7 @@ Input your invoice description
 
 ## Spreadsheets
 
-## Create and Open Sheet
+### Create and Open Sheet
 
 - Login to your Dashboard on https://bookeeping.ai/
 - Navigate and select Documents
@@ -357,9 +379,9 @@ Input your invoice description
 
 - You have 4 ways to use AI to find, scan and attach receipts.
 - [ONE] You can manually attach receipts images and pdf in bulk by going to 'Invoices' and then click Upload Invocies button. Paula will automaticallly match with transaction and capture amount, tax, shipping and update your ledger entry. 
-- [TWO]You can also Connect your existing email account to find all the receipts, extract and match. Only pdf receipts. Please note You have generate app passwords to connect your email to our system. You real email password would not work. We give you instructions to generate app password from your email service provider below password input field.
+- [TWO]You can also Connect your existing email account to find all the receipts, extract and match. Only pdf receipts. Please note You have to generate app passwords to connect your email to our system. You real email password would not work. We give you instructions link to generate app password from your email service provider below password input field.
 - [THREE] You can forward the receipts to the personalised AI email address Bookeeping.ai gives you which looks like user@my.bookeeping.ai. You can find users on the screen in the scan invoices area.
-- In all methods, AI will extract the subtotal, tax, shipping fees and adjust your entries automatically.
+- In all methods, AI will extract the subtotal, tax, shipping fees and adjust (split) your double entries automatically.
 - [Four] You can use our mobile apps. So you can scan the receipts on the go. 
 - Scan receipt Screenshot: ![Create Receipts](https://github.com/user-attachments/assets/3d7f4edd-08b3-405c-bbd2-83dc3f302c9b)
 - Connect email screenshot: ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
@@ -385,9 +407,7 @@ Input your invoice description
 
 ## AI Email
 - We give you one personalized AI Email address looks like user@my.bookeeping.ai
-- All the emails Paula send, invoice reminders or email you ask to draft and send are sent from this email address. 
-- You can use AI to draft email copy as well. 
-- Send. You can also Paula AI chat window to create an invoice for you.
+- All the emails you ask Paula via Chat commands e.g. invoice reminders or any email you draft and send using Paula AI are sent from this email address. 
 
 ## Counterparty
 
@@ -399,52 +419,64 @@ Input your invoice description
 - Screenshot:  ![Counterparty](https://github.com/user-attachments/assets/f975fe3f-fdff-418e-ada3-f7cf8fc070e5)
 - Screenshot create counterparty: ![Fill counterparty](https://github.com/user-attachments/assets/584caa05-629f-40ff-9c22-c674221e4179)
 
-## Add or Edit Connected Bank Account Connections
 
-- Click on Setup
-- Click on Accounts
-- Click on "Add Account" or edit/delete existing one. You can also click 'disable' to deactivate the account this will keep it connected but do not commit any transactions on ledger. 
-- You can also Add a Connection
-- Please note that the bank connection is only available for users from the USA and Canada. Other countries can upload transactions CSV pending when we add more banks
-  ![Bank Accounts](https://github.com/user-attachments/assets/28e7246c-912d-4195-97f5-d0661c304722)
+## Add Auto-categorization Rule
+
+- We offer four methods of Auto Categorizations based on Vendor/CounterParty, Transaction Note, Amount and Bank Account. You can set any condition to match then select the category to auto-apply. 
+- Vendor match auto categorization where we exact match the vendor name. These rules are auto created when you are categorizing your transactions a modal appears to ask to apply this category in the future if you 'yes' it creates the rule and if you skip, it does not create the rule but do apply the category on that one time. You can also review existing rules or create new by 'Add items' > Auto-Categorization rule or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/transactions/categorization-memory)
+- Note match auto categorization where we find your added keyword in trnsaction text and if match then we apply the choosen categry, ideal for PayPal, Zelle, Venmo type merchants who appear to have same merchant name but payment could be made to different parties and purposes.
+- To create a new auto categorization rule just Click on Create Memory, select the type of rule 'Note based' or 'CounterParty' or 'Account' or 'amount'. Then Select the category to apply 
+- Select the countryparty or keyword to find in the note. Then select the category you want Paula to apply to on match. Save the rule.
+- screenshot: ![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
+- Screenshot update: ![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
+- Watch the video tutorial: [Categorize Using AI](https://assets.bookeeping.ai/help/videos-v2/how-to-categorize-transactions.mp4)
 
 
-## Chat with AI Assistant
+## How to chat with IRS or Tax Authority website
 
-- On any screen, including the dashboard, click on the chat assistant
-- You can choose any of the options to perform any activity of your choice
-  ![chat with Assistant 1](https://github.com/user-attachments/assets/fb183af3-6c9a-4bd8-b1f3-9453f35bf3e4)
-  ![chat with Assistant 2](https://github.com/user-attachments/assets/25aafa66-1204-428c-b22d-9634fb3abfc6)
+- Login to your dashboard on https://bookeeping.ai/
+- Click on Taxes
+- navigate and click on Chate with IRS. You can also click on Paula AI Assistant Chat and at the bottom click on the IRS Chat icon. 
+- We scrape IRS for US users, CRA for Canada users and HMRC for UK users offical website once every 24 hours.
+- You can ask questions about the information available on their website. 
+  ![chat with IRS](https://github.com/user-attachments/assets/6c0502c2-55dd-4232-b9d9-06d4adfc2f46)
 
-## Settings
+
+## Reset Data
+
+Becareful to run this option as it will remove each and every transactions, rule, counterparties and vendors from your account. Here is how you can reset data in bookeeping.ai
+
+- Click on Settings > Select Company Settings >  Click on "Reset All Data" or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
+- See screenshot![here](https://github.com/user-attachments/assets/74edb022-c341-40ab-8412-ee17ac46896c)
+
+## Delete Company and All data
+
+Use this option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. 
+
+- Click on Settings > Select Company Settings > Click on "Delete This Company and All Data" or [Direct Link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
+- See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
+
+## Export Data
+Use this option when you want to export your data.  Export will include Transactions, Accounts, Counterparties, Invoices, Categories, Attachments, Receipt, Emails, Classes, Docs, Sheets. Export will be ready within a day. You can come back here to download the Zip file. 
+
+
+
+## Settings Menu Items
 
 - On your dashboard, click on settings
   Here, you can manage your account and update settings such as;
 - Company settings
 - Profile settings
 - Collaborators
-- Categories
-- Account Connections
-  Other
+- Activity Logs
+- Customizations
 - Billing
 - Logout
 - You can also Contact Support
   ![Settings](https://github.com/user-attachments/assets/b09281e5-fc6e-467a-9151-2495d7f1c103)
 
-## Hide Column Items
 
-- On your dashboard, navigate and click on accounting
-- Identify the column and click on the arrow up & down icon
-- Select Hide and the column will disappear
-  ![Hide column items](https://github.com/user-attachments/assets/e4fe2ed9-1f02-4c5d-9bfc-6ee85c21cb47)
 
-## Show Column Items
-
-- On your dashboard, navigate and click on accounting
-- Click on filters
-- Scroll down to edit view
-- Select what column you want to show
-  ![Show Column items](https://github.com/user-attachments/assets/cab0124a-e9e2-45e8-b8d6-93b7e03c0f5e)
 
 ## Important Terms and Policies
 
@@ -462,10 +494,8 @@ Input your invoice description
 ## AI Disclaimer
 
 - Bookeeping.ai uses AI and Large Language Models (LLMs) from OpenAI, Claude, and Enterprise user can choose their own model (soon)
-- These are emerging technologies that may produce unexpected or inaccurate results.
-- While we strive for accuracy, we cannot guarantee 100% accuracy.
 - Users should verify AI-generated results before making important decisions.
-- Devi AI LLC and Bookeeping.ai are not responsible for errors in AI output or any resulting losses.
+- Devi AI LLC and Bookeeping.ai are not responsible for errors in AI output
 
 ## Data Residency, Privacy and Security
 
@@ -479,7 +509,7 @@ Input your invoice description
 Chat with files is ideal for text-based documents, financial tables may not be read well currently.
 You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 
-- Click on More
+- Click on 'e-Sign & Docs' from the Left Menu
 - Select Storage
 - Add File
 - screenshot: ![Upload files](https://github.com/user-attachments/assets/e21ce5a7-c1d2-45e3-8121-f3a727c4f192)
@@ -487,7 +517,7 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 ## Bulk update category
 
 - Select transactions to be updated by clicking the checkbox, you will see the new button will appear to mass update the fields
-- Click on Change Category. Carefully select this operation.
+- Click on Change Category. Select the tye type of transactions you want to bulk apply to e.g. Income, Expense. If you have both then you must repeat this process. 
 - The software will automatically detect the same party and ask you to change their category too.
   ![Bulk update category](https://github.com/user-attachments/assets/34cc08cb-c9fe-4e8f-8c0f-7eb62f2d5165)
 
@@ -514,37 +544,34 @@ You can upload PDF, DOCX, TEXT, and IMAGE files and then interact with the files
 
 ## Multiple business books and records
 
-- Yes bookeeping.ai can handle multiple business books and records separately under one email account. You can add as many businesses as you like. However, you need to buy subscriptions for each
+- Yes bookeeping.ai can handle multiple business books and records separately under one email account. You can add as many businesses as you like. However, you need to buy subscriptions for each. We offer discounts for more than 5 or more businesses. 
 - Video demo on how to add multiple business. ![Please watch](this video for guidance](https://assets.bookeeping.ai/help/1.mp4)
 
 ## How to import Data past 24 months transactions which are not given by Plaid bank connection
 
-Yes, you can use bank connection for 24 months data and upload CSV file for older than 24 months. Make sure your CSV do not include the same range as your connected bank accounts to avoid duplicate notifications from AI.
+Yes, you can use bank connection for 24 months data and upload CSV file for older than 24 months. Make sure your CSV do not include the same range as your connected bank accounts to avoid duplicate notifications from AI. Then also adjus the already exist opening Balance entry. 
 
 ## Add more collaborators
 
-Yes, you can add more collaborators, every account has free collaborators allowed. Please inform us whenever you need to add additional collaborators then account limites.
+Yes, you can add more collaborators, every account has free collaborators allowed. Please inform us whenever you need to add additional collaborators then account limites. Go to Settings > Collaborators > Add a Collaboration. You would need to add their email and select their role. They must click on the invote in order to join your workspace. They also need to select their role 'Collaborator' when joining. 
 
-## How to add more bank accounts
+## How to add Class or Groups
 
-Yes, every plan has free bank connections allowed, you can add additional bank accounts at a small charge of $5/bank account.
-Please let us know if you want to add more bank accounts now and how many. We will help you implement on your current billing settings
+Classes offer an easy way to organize your business operations. We also create P&L for each class. You can add class to a single transaction or bulk apply to several transactions. Tip: You can click on 'Columns' to customize table and enable Classes Drop down on your main ledger table so you can easily add classes just like you add Categories. 
 
+Groups are a great way to organize and sub divide your Main Profit & Loss Statement by grouping the multiple category of expenses or income This helps to organize for each property, branch, product and so on. You can add group when creating a new custom category or add groups to existing categories by going to 'Setup' > Cateogires & Rules > Then add Groups to your Categories. 
 
-
-## How to add Class
-
-Two ways to add classes
-
-First way:
-
+### Single apply 
 - Navigate to the accounting page,
-- click the edit pen icon on any transaction you want to add a class to
-- Modify the class as you want and save
+- However on any transacionm a pink menu bar will appear, click the edit pen icon
+- Add/Modify the class as you want and save. 
   ![Create class](https://github.com/user-attachments/assets/5d1409da-3730-4621-95bb-476affce820c)
   ![Edit class](https://github.com/user-attachments/assets/591534e6-d01c-41e6-908b-9180bd0fe07d)
 
-or add classes in your system settings so later can apply.
+### Bulk classes 
+- Select several transactions, a bulk menu items will appear at top, select Other Feilds, select 'Apply Class'
+
+### Add classes in your system settings so later can apply.
 
 - Please click on Setup, scroll down to the last option Classes
 - Add the business name and a note
@@ -568,52 +595,6 @@ Here is how you can add Receipts & invoices
 - Update the category mapping and save changes
 - Screenshot here: ![Add receipt](https://github.com/user-attachments/assets/45881b13-6d38-442c-af5e-99660557d24b)
 
-## Add Auto-categorization Rule
-
-We offer two methods of Auto Categorizations. 
-- [One] Vendor match auto categorization where we exact match the vendor name. These rules are auto created when you are categorization your transactions a modal appears to ask to apply this category in the future if you 'yes' it creates the rule and if you skip, it does not create the rule but do apply the category on that one time. You can also review existing rules or create new by 'Add items' > Auto-Categorization rule or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/transactions/categorization-memory)
-- [Two] Note match auto categorization where we find your added keyword in trnsaction text and if match then we apply the choosen categry, ideal for PayPal, Zelle, Venmo type merchants who appear to have same merchant name but payment could be made to different parties and purposes.
-- To create a new auto categorization rule just Click on Create Memory, select the type of rule 'Note based' or 'CounterParty'
-- Select the countryparty or keyword to find in the note. Then select the category you want Paula to apply to on match. Save the rule.
-- screenshot: ![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
-- Screenshot update: ![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
-- Watch the video tutorial: [Categorize Using AI](https://assets.bookeeping.ai/help/videos-v2/how-to-categorize-transactions.mp4)
-
-## Capture Sales/GST/VAT Tax features. 
-
-Bookeeping.ai is not a tax filing software however, we help our users to capture GST, VAT Or Sales tax and create an estimated report for them. We also help our users to share some important forms and get them filled up form our users clients. 
-- Login to your dashboard on https://bookeeping.ai/
-- Click on Taxes
-- Fill your business tax information
-- Then save. You can review the Sales tax report there. 
-- Watch the video tutorial: - [How to Capture GST/VAT Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-capture-sales-tax-or-vat-automatically.mp4)
--  Screenshot ![Taxes](https://github.com/user-attachments/assets/d32df0ba-d1dc-4ecd-9d22-5ae7272cab06)
--  Screenshot ![Tax information](https://github.com/user-attachments/assets/0305f75b-3217-4d68-9b85-5aa1d930f446)
-
-
-## How to chat with IRS
-
-Here is how you can Chate with IRS
-
-- Login to your dashboard on https://bookeeping.ai/
-- Click on Taxes
-- navigate and click on Chate with IRS
-  ![chat with IRS](https://github.com/user-attachments/assets/6c0502c2-55dd-4232-b9d9-06d4adfc2f46)
-
-
-## Reset Data
-
-Becareful to run this option as it will remove each and every transactions, rule, counterparties and vendors from your account. Here is how you can reset data in bookeeping.ai
-
-- Click on Settings > Select Company Settings >  Click on "Reset All Data" or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
-- See screenshot![here](https://github.com/user-attachments/assets/74edb022-c341-40ab-8412-ee17ac46896c)
-
-## Delete Company and All data
-
-Use this option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. 
-
-- Click on Settings > Select Company Settings > Click on "Delete This Company and All Data" or [Direct Link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
-- See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
 
 ## Video Guide on How to Use the Tool
 
