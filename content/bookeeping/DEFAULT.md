@@ -24,36 +24,37 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
+- Unlimited invoices
 - 2 Bank Connections
 - Catchup: 2024 Bookkeeping
 - 1 year report access.
 - 2 Team Members
 - AI Support
-- ChatGPT included
+- ChatGPT & Gemini included
 
 ### Plan info: Pro Plan $49/mo (for US, lower for other countries)
 
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
+- Unlimited Inovices
 - 4 Bank Connections
 - Catchup: Last 3 years Bookkeeping
 - 3-year Report Access
 - Stripe, Shopify, Airbnb Integration. 
 - 5 Team Members
 - AI + Human Support
-- ChatGPT & Claude Included
+- ChatGPT, Gemini & Claude Included
 
 ### Plan info: Scale Plan
 
 - All AI Accounting features (Listed below)
 - Unlimited Transactions
 - 6 Bank Connections
-- Unlimited chat with Claude & ChatGPT Models
 - Catchup: Last 5 years of Bookkeeping
 - Unlimited Report Access
 - 10 Team Members
 - AI + Human Support (Priority)
-- ChatGPT & Claude Unlimited
+- ChatGPT, Gemini & Claude Unlimited
 
 ## Features comes with all the plans
 
@@ -99,7 +100,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 - We use SOC2 Certified Plaid to secure connect and sync transactions from your bank accounts.
 - Plaid uses encrypted and secure connection, we do not see your bank credentials and can only read transactions data.
 - Plaid gives us past 24 months of Data. However, some banks may share less months data.
-- Live Bank connection is recommended to achieve full automation. User can upload CSV data but it will be manual work with risk of errors. 
+- Live Bank connection is recommended to achieve full automation. User can upload CSV data but it will be manual work with careful review. 
 - Some banks send transactions in real-time, others take 24-48 hours.
 - You can add credit card, checking account, PayPal etc via Plaid
 - Please be mindful, if you connect PayPal, you must turn off 2FA in Paypal in order to get it working.
@@ -109,7 +110,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 ### How to Connect Bank Account (US & Canada only)
 
-1. **Go to Connections Page**  
+1. Go to Connections Page 
    - From Left Menu **Setup** → **Connections & Integrations**  → **Bank Connections** → **Add Connection**.  
    - Direct link: [Connect Bank Account](https://bookeeping.ai/en/account/:account/upload/transaction)  
 
@@ -143,10 +144,12 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 4. **Choose a Synchronization Strategy**  
    - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected.  
    - **Sync All Transactions Data** → If your bank account is *not* connected (avoids duplicates).  
-   - **Receive Invoice Payment Only** → Only for accepting card payments for your invoices via Stripe.  
+   - **Receive Invoice Payment Only** → Only for accepting card payments for your invoices via Stripe.
+
+### Stripe connection related information 
 
 - Taxes are calculated by referencing invoices linked to payouts and extracting from individual line items.
-- Stripe fees transactions you will see as incoming or positive, this is because stripe took the fees from your sales or income, so we need to record that first on your books and in the same transaction we record the Stripe fees. Just click View icon so you can see the double entry. Or got to Profit and Loss and see the total Stripe Fees as an expense.
+- If your bank account is connected and you are only syncing fees and taxes from Stripe, then transactions you will see as income or positive, this is because stripe took the fees from your sales or income, so we need to record that first on your books and then deduct them as Stripe fees in the same transaction. Just click View icon so you can see the double entry where it shows the Stripe Fees. Or got to Profit and Loss and see the total Stripe Fees as an expense.
 - Stripe sync happens twice a day so please be patient if you do not see your data instantly.
 - If your key is not working, please check the permissions for the key. If you click from bookeeping.ai it will have set requried permissions.
 - You can customize how we are categorizing the Stripe data in your Books. Under Setup > Connections > Stripe > 'Update Categorization rules'. 
@@ -164,6 +167,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
    - **Sync Fees, Taxes, Shipping, Refunds Only** → If your bank account is already connected. (avoids duplicate)
    - **Sync All Transactions Data** → If your bank account is *not* connected.  
 
+### Shopify related information
 - Taxes are calculated by reading all orders linked to payouts and extracting from tax and shipping line items. If you do not see, check tax settings in Shopify.
 -  You can customize how we are categorizing the Shopify data in your Books. Under Setup > Connections > Shopify > 'Update Categorization rules'
 - Watch video Tutorial to setup Shopify: [How to Sync Shopify Sales Data](https://assets.bookeeping.ai/help/videos-v2/how-to-sync-shopify-sales-data.mp4)
@@ -185,6 +189,8 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 5. **Commit Transactions**  
    - Click **Save transactions** to finalize in the ledger.
+
+### Airbnb related information. 
 
 -  You can customize how we are categorizing the Airbnb data in your Books. Under Setup > Connections > Airbnb > 'Update Categorization rules'.
 - Watch video tutorial: - [How to Reconcile Airbnb Transactions Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-reconcile-airbnb-transactions-automatically.mp4)
