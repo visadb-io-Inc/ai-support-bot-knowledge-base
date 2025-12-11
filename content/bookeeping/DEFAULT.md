@@ -22,7 +22,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 ### Plan info: Start Plan $29/mo (for US, lower for other countries)
 
-- All AI Accounting features (Listed below)
+- 25 AI Accounting features (Listed below)
 - Unlimited Transactions
 - Unlimited invoices
 - 2 Bank Connections
@@ -34,7 +34,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 ### Plan info: Pro Plan $49/mo (for US, lower for other countries)
 
-- All AI Accounting features (Listed below)
+- 25 AI Accounting features (Listed below)
 - Unlimited Transactions
 - Unlimited Inovices
 - 4 Bank Connections
@@ -47,7 +47,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 ### Plan info: Scale Plan
 
-- All AI Accounting features (Listed below)
+- 25 AI Accounting features (Listed below)
 - Unlimited Transactions
 - 6 Bank Connections
 - Catchup: Last 5 years of Bookkeeping
@@ -59,8 +59,8 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 ## Features comes with all the plans
 
 - **AI General Ledger:** Automatic preparation of general ledger, profit & loss statements, and balance sheet from bank transactions synced from Live bank connection via Plaid or User can upload the CSV as well.
-- **AI Receipts:** Auto Scan receipts and invoices from inbox email and match with transactions.
-- **AI Tax Info:** Chat with IRS, CRA, and HMRC, so you find information in seconds
+- **AI Receipts:** Auto Scan receipts and invoices from email and matched with transactions.
+- **AI Tax Info:** Chat with IRS, CRA, and HMRC website information so you find information in seconds
 - **AI Invoices:** Generate invoices and send emails with a simple prompt
 - **AI Sheets:** Generate spreadsheets from text prompts and then chat with them to update. Includes formula, analysis and formatting.
 - **AI Accounting:** Real-time accounting and advice to grow your business
@@ -77,7 +77,12 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 - To customize the Ledger view. On the General tab, top right click on 'Columns'. Select or deselect the items you wanna hide or see. 
 - We are working on White label option so you can host the whole software on your own domain.
   
-
+## Reports related information 
+- Bookeeping.ai offers P&L, Balance Sheet, Cash Flow Detailed, Trial Balance, Liability and Counterparty reports
+- If Stripe or Shopify is connected we also show you their reports
+- If Airbnb is imported, we show property wise reports.
+- Custom Reports: You can select any time frame, apply filters and Export them in PDF as well as Excelsheet.
+  
 
 ## How to extract VAT/GST or Sales tax automatically
 - User can connect with their Stripe or Shopify accounts, we will automatically read sales orders and receipts and extract tax items. You can then go Under left Menu item -Taxes > Tax Report. To see all sales tax you collected from sales and payable to Govt.
