@@ -16,7 +16,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ## Pricing & Plans
 
-**Base Pricing**: https://ddevi.com/pricing
+### Base Pricing: https://ddevi.com/pricing
 
 - Geo Based pricing depending on a country, best to check the pricing page from your location.
 - Facebook monitoring: $49/month for 25 groups (For US & UK, cheaper for others)
@@ -27,7 +27,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - We offer special discounts, talk to our team.
 - **Free Trial**: We offer $1 for 10 days trial with full access to features and AI capabalities.
 
-**Billing Management**:
+### Billing Management 
 
 - To cancel or change subscription go here https://ddevi.com/dashboard/billing
 - We offer refunds for the recent charge and the current month only. No past months.
@@ -45,11 +45,10 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 1. Visit https://ddevi.com and create account
 2. Install Chrome extension: https://chromewebstore.google.com/detail/devi/obofmdbkmindkbmdjkfdmehmddjfnhad
-3. Log into social media accounts in Chrome.
-4. Connect Social accounts to Devi with a click.
-5. Add keywords (up to 50)
-6. Select groups/platforms to monitor
-7. Configure scanning frequency and notifications
+3. Connect existing logged in session of Social accounts to Devi. 
+4. Add keywords (ideal 5-8)
+5. Select groups/platforms to monitor
+6. Start getting leads. (give atleast 24 hours)
 
 **Setup Video**: https://www.youtube.com/watch?v=e7tw0-HL_Zo
 
@@ -58,6 +57,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Uses magic link authentication (no username/password)
 - Enter email → receive magic link → click to login
 - Check spam folder for login access email
+
 
 ## Platform-Specific Features
 
@@ -101,7 +101,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Reddit
 
-- Monitor global posts or choose specific subreddits (up to 10). Additional subreddits for extra cost
+- Monitor global posts or choose specific subreddits (up to 15). Additional subreddits for extra cost
 - Must join subreddit before monitoring
 - Monitors post titles only, click to view the content available on devi
 - AI generated responses from within Devi. No auto dms to protect your account. 
@@ -122,6 +122,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Monitor WhatsApp groups
 - Must be a member
 - One account connection at a time
+- Allow to monitor 15 groups. Add additional groups for extra cost.
 - For whatsApp only pricing visit https://ddevi.com/pricing page and select WhatsApp.
 - Fully automated runs 12 times a day by default. You can increase the frequency. 
 
@@ -130,6 +131,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Monitor groups & Channels for keywords.
 - Must be a member
+- Allow 15 groups to monitor. Add extra for additional cost. 
 - One account connection at a time
 - Fully automated runs 12 times a day by default. You can increase the frequency. 
 
@@ -153,7 +155,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Keywords
 
-- Up to 50 keywords supported
+- Up to 50 keywords supported. Ideal to 8-10 keywords
 - Supports 3-word phrases maximum
 - each keyword must be 3 or more characters
 - **Optimization Tips**:
@@ -208,7 +210,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Get notifivation on the go via mobile app availble in ios and android [download here] (https://ddevi.com/app)
 
 ### Mobile Apps to get Alerts and Notifications. 
-- This is just an Lead Alert app, does not show the full post/lead content due to compliance. User need to click to see the full post on the platform. Ideal for people who do not work on computers. 
+- This is just a Lead Alert app, does not show the full post/lead content due to compliance. User need to click to see the full post on the platform. Ideal for people who do not work on computers. 
 - Download [for IOS](https://apps.apple.com/us/app/devi-ai/id6748566297)
 - Download [for Android](https://play.google.com/store/apps/details?id=com.ddevi.com)
 
@@ -239,11 +241,9 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Once you cancel your subscription we will also remove your billing account and details.
 
   
-## Troubleshooting
+## Troubleshooting Common Issues 
 
-### Common Issues
-
-**No Leads Found**:
+### No Leads Found
 
 1. Ensure keywords set to "ALL" (not specific keyword)
 2. Verify platform connections
@@ -251,29 +251,35 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 4. Confirm appropriate scan interval
 5. Give atleast 72 hours of monitoring
 
-**Connection Issues**:
+### Connection Issues 
 
 1. Update browser
 2. Log out/in to social media accounts
 3. Reconnect accounts to Devi
 4. Reload extension: Settings > Debug and Data Control > Click to Reload
 
-**login Issues**:
+### login Issues 
 
-- Check Spam folders for magic link
+- Check Spam folders for magic link.
+- Check if you enter the correct email during Signup. 
 - Click the magic link from the same device where login was requested
 - Wait a few minutes to receive the email
 
-**Facebook Account Warnings**:
+### Facebook Account Warnings
 
 - Increase time between scanning intervals from 30 minutes to 2 hours
 - Maintain regular Facebook activity outside Devi
+- New Social profile needs to warm up. 
 - Do not comment alot, slowly increase your comment activity
 - If you monitoring alot of groups, try to reduce them and increase gradually
 
+### Wrong Profile
+
+Devi AI uses already logged in session of your social media profile. Just go to respective platform, connect with the correct profile, come back to Devi and refresh the page, Devi will pick the correct account. 
+
 ### Debug Connection Tools
 
-**Path**: Settings > Business Info & Account Management > Debug & Data Control
+Go to Settings > Business Info & Account Management > Debug & Data Control
 
 - Platform-specific debugging
 - Individual data cleaner
@@ -283,6 +289,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Chrome, Edge, or Chromium-based browser
 - PC must remain on and connected for scanning
+- No need to be on Devi page opened or on it for monitor 
 - Stable internet connection
 - Mobile apps only for Alerts (Devi AI extension works only in desktop browsers)
 - Cannot connect multiple accounts per platform simultaneously, you need to create seprate chrome profiles and additional subscription to monitor more accounts.
@@ -304,7 +311,6 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - No geo-targeting posts for Facebook. Join the location based groups instead. Twitter does nearby and other platforms have their own location settings.
 - No team/multi-user access to same account unless you share the passwords (not recommended)
 - No historical data search (current/future posts only)
-- Limited reporting/export capabilities
 - One Devi account per set of social profiles. Use chrome profiles and additional Devi subscription to monitor with multiple social media accounts.
 
 ## Support Resources
@@ -321,12 +327,6 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - In-app chat support
 - Email: support@ddevi.com
 - **Refund Policy**: https://ddevi.com/en/legal/cancellation-policy
-
-### Subscription Management
-
-- **Cancellation**: https://ddevi.com/dashboard/billing
-- Upgrades/downgrades available in Profile > Billing
-- Refunds subject to company policy
 
 ## White Label Program
 
