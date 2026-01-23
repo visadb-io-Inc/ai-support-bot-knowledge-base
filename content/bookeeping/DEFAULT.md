@@ -1,7 +1,7 @@
-
+<img width="872" height="545" alt="image" src="https://github.com/user-attachments/assets/fd2e52d4-9925-4f04-9b5d-c22c99b4e4b1" />
 ## What is Bookeeping.ai
 
-Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
+Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system (Acrruel coming soon). Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
 
 ### 30-minute setup & done Bookkeeping Tutorials
 - [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
@@ -71,11 +71,11 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 
 
 ## How to Customize the software
-- User can customize the software logo, dashboard items, Ledger View, Left Menu/Navigation items.
+- User can customize the software logo, dashboard items, Ledger View, Left Menu/Navigation items, Invoice Templates and item customization and more under Settings > Customization. make sure you have uploaded the Logo in your Company Profile page under settings to replace the software logo with your own.
 - For Dashboard customization, Go to Dashboard and top right click on 'Customize'. Turn on/off items or drag to change position. Once done save it.
-- For Navigation or Left Menu customization. Go to Settings > Customization. Here you can customize Nav items, Brand Logo, and a few advanced details. make sure you have uploaded the Logo in your Company Profile page under settings to replace the software logo with your own.
 - To customize the Ledger view. On the General tab, top right click on 'Columns'. Select or deselect the items you wanna hide or see. 
 - We are working on White label option so you can host the whole software on your own domain.
+- To customize the categorize we assign to Stripe, Shopify sync transactions, go to Categories & Rules > App Categorization Rules
   
 ## Reports related information 
 - Bookeeping.ai offers P&L, Balance Sheet, Cash Flow Detailed, Trial Balance, Liability and Counterparty reports
@@ -95,7 +95,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of accounting 
 ## Misc. important Information about the software
 - We are cash based accounting system and offer both double entry/single entry views following GAAP Principle
 - User can set the fiscal year under Settings > Company Settings
-- Paula AI automatically do Books Review every hour to find problems such as duplicates, incorrect double entries, possible refunds, transfers between your own accounts, credit payment transactions so user can mark confirm. She will show a Yellow button and alert on Dashboard and on the General Ledger Page.
+- Paula AI automatically do Books Review every hour to find problems such as duplicates, possible refunds, transfers between your own accounts, credit payment transactions so user can mark confirm. She will show a Yellow button and alert on Dashboard and on the General Ledger Page.
 - User can upload their documents to AI Drive or to Paula AI and then Chat with them. They first need to click on Paula Chat With down and at the bottom, you will see a Doc storage icon. Once you click on it, you will be in the 'Chat with Files' mode.
 - We are not a tax software however, we help you to share or send 1099, W-2 or W8BEN forms. Go to Taxes > Contractors & Employees. We show you the total you paid to each party in each year as well as total forms collected or shared.
 - You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings. 
@@ -292,7 +292,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 
 - It is important to handle refund transactions, otherwise they could be misclassified. 
 - Mouseover on any transaction and you will see a pink menu options appear, click on the thrid icon for Refund. You can handle both Refund issues or Refund Received here.
-- Paula also monitor Refund transactions and show you in the 'Review' Transactions page. 
+- Paula also monitor Refund transactions and show you in the 'Review' Transactions page, You can mark the original & Refund transaction in Review. 
 
 ### How to Change the VIEW of ledger to see less Columns
 
@@ -353,9 +353,10 @@ Balancesheet are automatically generated and are real-time from your General Led
 - We do not take any fees  from your invoice payments; however, Stripe will take their fees. 
 - You can only delete draft invoices; you cannot delete the sent invoices. 
 - You can turn on the recurring invoice toggle on the right left, this will autogenerate invoice every month on the same date for the same amount, it will change the invoice number, date accordingly and send to the party automatically. 
-- Auto reminders for invoice payment are sent 1 day before the due date and after 5 and 10 days of the due date. The system will not send the reminders if the invoice status change to Paid. You cannot customize the template of reminder invoice. Reminders email will be sent from your private email given to you by us e.g. user@my.bookeeping.ai
+- Auto reminders for invoice payment are sent 1 day before the due date and after 5 and 10 days of the due date. The system will not send the reminders if the invoice status change to Paid. You can customize the reminder invoice email under Settings > Customization > Invoice. Reminders email will be sent from your private email given to you by us e.g. user@my.bookeeping.ai
 - You can export the invoice in pdf and send it by yourself however, in this auto reminders and recurring invoice function would not work. 
 Input your invoice description
+- You can hide or show items on invoices e.g. hide Discount. Change label e.g. Quantity -> Hours. To customise your invoice. Go to Settings > Customisation > Invoice
 - Create invoice Screenshots: ![Create invoice](https://github.com/user-attachments/assets/d8e30d4a-3360-472b-a3d0-0f238a1821f6)
 - Invoice description screenshot: ![Invoice description](https://github.com/user-attachments/assets/6666edc7-56fd-4b80-aa75-0aa09055deac)
 
@@ -389,11 +390,11 @@ Input your invoice description
 ## How To Upload and Match Receipts using AI
 
 - You have 4 ways to use AI to find, scan and attach receipts.
-- [ONE] You can manually attach receipts images and pdf in bulk by going to 'Invoices' and then click Upload Invocies button. Paula will automaticallly match with transaction and capture amount, tax, shipping and update your ledger entry. 
+- [ONE] You can manually attach receipts images and pdf in bulk by going to 'Invoices' and then click Upload Invocies button. Paula will automaticallly match with transaction and capture amount, tax, shipping and update your ledger entry accordingly. 
 - [TWO]You can also Connect your existing email account to find all the receipts, extract and match. Only pdf receipts. Please note You have to generate app passwords to connect your email to our system. You real email password would not work. We give you instructions link to generate app password from your email service provider below password input field.
-- [THREE] You can forward the receipts to the personalised AI email address Bookeeping.ai gives you which looks like user@my.bookeeping.ai. You can find users on the screen in the scan invoices area.
+- [THREE] You can forward the receipts to the personalised AI email address Bookeeping.ai gives you which looks like user@my.bookeeping.ai. You can find your email on the screen in the scan invoices area.
+- [Four] You can use our mobile apps. So you can scan the receipts on the go.
 - In all methods, AI will extract the subtotal, tax, shipping fees and adjust (split) your double entries automatically.
-- [Four] You can use our mobile apps. So you can scan the receipts on the go. 
 - Scan receipt Screenshot: ![Create Receipts](https://github.com/user-attachments/assets/3d7f4edd-08b3-405c-bbd2-83dc3f302c9b)
 - Connect email screenshot: ![Connect email](https://github.com/user-attachments/assets/9b5d1a4f-bfb1-4b4d-be12-59775172a831)
 
@@ -418,7 +419,8 @@ Input your invoice description
 
 ## AI Email
 - We give you one personalized AI Email address looks like user@my.bookeeping.ai
-- All the emails you ask Paula via Chat commands e.g. invoice reminders or any email you draft and send using Paula AI are sent from this email address. 
+- All the emails you ask Paula via Chat commands e.g. invoice reminders or any email you draft and send using Paula AI are sent from this email address.
+- You can visit AI Inbox under Menu item: Docs & e-Sign > AI Inbox
 
 ## Counterparty
 
@@ -434,9 +436,9 @@ Input your invoice description
 ## Add Auto-categorization Rule
 
 - We offer four methods of Auto Categorizations based on Vendor/CounterParty, Transaction Note, Amount and Bank Account. You can set any condition to match then select the category to auto-apply. 
-- Vendor match auto categorization where we exact match the vendor name. These rules are auto created when you are categorizing your transactions a modal appears to ask to apply this category in the future if you 'yes' it creates the rule and if you skip, it does not create the rule but do apply the category on that one time. You can also review existing rules or create new by 'Add items' > Auto-Categorization rule or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/transactions/categorization-memory)
-- Note match auto categorization where we find your added keyword in trnsaction text and if match then we apply the choosen categry, ideal for PayPal, Zelle, Venmo type merchants who appear to have same merchant name but payment could be made to different parties and purposes.
-- To create a new auto categorization rule just Click on Create Memory, select the type of rule 'Note based' or 'CounterParty' or 'Account' or 'amount'. Then Select the category to apply 
+- Vendor match auto categorization where we exact match the vendor name. These rules are auto created when you are categorizing your transactions a modal appears to ask to apply this category in the future if you 'yes' it creates the rule and if you skip, it does not create the rule but do apply the category on that one transaction only. You can also review existing rules or create new by Going to 'Add items' > Auto-Categorization rule or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/transactions/categorization-memory)
+- Note match auto categorization rule where we find your added keyword in transactions text and if matched then we apply the choosen categry, ideal for PayPal, Zelle, Venmo type merchants who appear to have same merchant name but payment could be made to different parties and purposes.
+- To create a new auto categorization rule just click on Setup > Categories & Rules > Add Rule, select the type of rule 'Note based' or 'CounterParty' or 'Account' or 'amount'. Then Select the category to apply 
 - Select the countryparty or keyword to find in the note. Then select the category you want Paula to apply to on match. Save the rule.
 - screenshot: ![Auto-categorization Rule](https://github.com/user-attachments/assets/917ac2d0-44a2-49ea-bd64-89eab9bfbca3)
 - Screenshot update: ![Update or create new rule](https://github.com/user-attachments/assets/6ab4d3cf-55b8-4bf9-adb1-d7b7c142b8e3)
@@ -455,21 +457,20 @@ Input your invoice description
 
 ## Reset Data
 
-Becareful to run this option as it will remove each and every transactions, rule, counterparties and vendors from your account. Here is how you can reset data in bookeeping.ai
+Becareful to run this option as it will remove each and every transactions, rule, counterparties and vendors from your account. If your acount or transactions are 3-months old may have to contact Support to Reset your data, this is to protect your financial records from accidental deletion. 
 
-- Click on Settings > Select Company Settings >  Click on "Reset All Data" or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
+- To Reset Data Click on Settings > Select Company Settings >  Click on "Reset All Data" or [Direct link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
 - See screenshot![here](https://github.com/user-attachments/assets/74edb022-c341-40ab-8412-ee17ac46896c)
 
 ## Delete Company and All data
 
-Use this option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. 
+It is user responsibility to dowload their data first and then use this option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. 
 
 - Click on Settings > Select Company Settings > Click on "Delete This Company and All Data" or [Direct Link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
 - See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
 
-## Export Data
-Use this option when you want to export your data.  Export will include Transactions, Accounts, Counterparties, Invoices, Categories, Attachments, Receipt, Emails, Classes, Docs, Sheets. Export will be ready within a day. You can come back here to download the Zip file. 
-
+## How to Export Data
+Go to Settings > Company Settings> to export your data.  Export will include Transactions, Accounts, Counterparties, Invoices, Categories, Attachments, Receipt, Emails, Classes, Docs, Sheets. Export will be ready within a day. You can come back here to download the Zip file. 
 
 
 ## Settings Menu Items
