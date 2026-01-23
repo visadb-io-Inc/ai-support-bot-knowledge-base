@@ -1,4 +1,3 @@
-<img width="872" height="545" alt="image" src="https://github.com/user-attachments/assets/fd2e52d4-9925-4f04-9b5d-c22c99b4e4b1" />
 ## What is Bookeeping.ai
 
 Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system (Acrruel coming soon). Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
