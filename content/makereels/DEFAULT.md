@@ -50,30 +50,36 @@ MakeReels automatically creates viral short-form video content for any topic, co
 
 ## Free Plan
 
-- **5 Automated Reels**
+- 5 Automated Reels
 
-  - Type any text prompt and AI generates a complete reel—up to 5 per month
+- 1M+ Free Image & Video Library
 
-- **1M+ Free Image & Video Library**
+- Basic AI Voices
+- 50 AI Image Generations
 
-  - Browse and use thousands of royalty-free photos and clips directly inside the app
+- No Support 
 
-- **Basic AI Voices**
+## Creator Plan
 
-  - Choose from basic synthetic voices speaking multiple languages to narrate your reels
+- 100 Automated Reels
 
-- **50 AI Image Generations**
+- No Watermark
 
-  - Create up to fifty unique images using our AI model every month for Reel backgrounds
+- Publish on 2 Platforms
 
-- **Email/Chat Support**
-  - Access customer service through in-app chat or email; typical response time is within 24–48 hours
+- 1 Auto-Pilot Workflow
 
----
+- 50+ HQ AI Voices
+
+- 250 AI Images/month
+
+- 1M+ Media Library
+
+- No Voice Cloning
 
 ## Automated Reels Plan
 
-- **Everything from Free plan**
+- **Everything in Creator plan**
 
 - **Unlimited Automated Reels**
 
