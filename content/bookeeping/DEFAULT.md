@@ -10,7 +10,7 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping
 
 ## Pricing
 
-- We have geo-based pricing for the United States lowest plan starts from $29/month and $15 for other countries. User can visit the pricing page to see the bookeeping.com/pricing for their region. We also have special discounts if you have multiple businesses
+- We have geo-based pricing for the United States lowest plan starts from $35/month and $20 for other countries. User can visit the pricing page to see the bookeeping.com/pricing for their region. We also have special discounts if you have multiple businesses
 - For a product demo please users to book a call on this link https://calendly.com/meeto/bookeeping-ai
 
 ### Free accounts for qualified Bookkeepers and Accounting Firms.
@@ -19,55 +19,48 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping
 - Qualify for free accounts: Firm must have 10 or more clients to qualify. They need to drop their email and website and our team will reach out with with details to access free account.
 - For a product demo please book a call on this link https://calendly.com/meeto/bookeeping-ai-demo
 
-### Plan info: Start Plan $29/mo (for US, lower for other countries)
+## Start Plan after 30-day free trial $35/month for US and lower for other countries
 
-- 25 AI Accounting features (Listed below)
-- Unlimited Transactions
-- Unlimited invoices
-- 2 Bank Connections
-- Catchup: 2024 Bookkeeping
-- 1 year report access.
-- 2 Team Members
-- AI Support
-- ChatGPT & Gemini included
+- 10 AI Accounting Features
+- AI Ledger, P&L and Balance Sheet
+- Sync 2 Banks (Unlimited Accounts)
+- Receipt Scan & Match
+- AI Business Health Monitoring
+- ChatGPT basic included
+- Catchup: Past & current year Bookkeeping
+- 1 team member
+- $29/month for annual billing
 
-### Plan info: Pro Plan $49/mo (for US, lower for other countries)
+## Pro Plan after 30 day free trial $59 (for US, lower for other countries)
 
-- 25 AI Accounting features (Listed below)
-- Unlimited Transactions
-- Unlimited Inovices
-- 4 Bank Connections
+Everything in Starter, plus:
+
+- 15 AI Accounting Features
+- Sync 4 Banks (Unlimited Accounts)
+- AI Advanced report & analysis
+- Stripe & Shopify integrations
+- Receipt scanning from email
+- eSign & AI Docs
+- Claude & ChatGPT included
 - Catchup: Last 3 years Bookkeeping
-- 3-year Report Access
-- Stripe, Shopify, Airbnb Integration. 
-- 5 Team Members
-- AI + Human Support
-- ChatGPT, Gemini & Claude Included
+- Onboarding Support
+- 5 team members
+- $49/month for annual billing. 
 
-### Plan info: Scale Plan
+## Scale 30 day free trial after $99/month (for US, lower for other countries)
 
-- 25 AI Accounting features (Listed below)
-- Unlimited Transactions
-- 6 Bank Connections
-- Catchup: Last 5 years of Bookkeeping
-- Unlimited Report Access
-- 10 Team Members
-- AI + Human Support (Priority)
-- ChatGPT, Gemini & Claude Unlimited
+Everything in Pro, plus:
 
-## Features comes with all the plans
-
-- **AI General Ledger:** Automatic preparation of general ledger, profit & loss statements, and balance sheet from bank transactions synced from Live bank connection via Plaid or User can upload the CSV as well.
-- **AI Receipts:** Auto Scan receipts and invoices from email and matched with transactions.
-- **AI Tax Info:** Chat with IRS, CRA, and HMRC website information so you find information in seconds
-- **AI Invoices:** Generate invoices and send emails with a simple prompt
-- **AI Sheets:** Generate spreadsheets from text prompts and then chat with them to update. Includes formula, analysis and formatting.
-- **AI Accounting:** Real-time accounting and advice to grow your business
-- **AI Drive:** Chat with uploaded files. Create, save and edit your documents on a single application
-- **AI Audit:** Measure the accuracy, completeness, and consistency of your financial records and processes.
-- **AI Reconciliation:** Seamlessly reconcile bank and credit card transactions with AI.
-- **eSign**: Replace DocuSign. We offer simple eSign. Use AI to create docs and then send to get e-Sign
-
+- 20 AI Accounting Features
+- Sync 6 Banks (Unlimited Accounts)
+- AI Review & Anomaly Detection
+- Airbnb Accounting
+- Advanced security
+- Gemini, Claude & ChatGPT included
+- Catchup: Last 5 years Bookkeeping
+- 10 team members
+- human Technical Support
+- $79 for annual billing (for US, $49 for other countries)
 
 ## How to Customize the software
 - User can customize the software logo, dashboard items, Ledger View, Left Menu/Navigation items, Invoice Templates and item customization and more under Settings > Customization. make sure you have uploaded the Logo in your Company Profile page under settings to replace the software logo with your own.
@@ -202,12 +195,13 @@ Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping
 
 ## Import from QuickBooks
 1. **Download our migration extension** [link here](https://chromewebstore.google.com/detail/quickbooks-to-bookeepinga/bflpnjllhjikcgbnagkkmkclfkdlbfoi)
-2. **Login to QuickBooks Online** → Select your business.  
-3. **Click "Import to Bookeeping.ai"** button.  
-4. **Wait for process completion** and follow on-screen guide.  
-5. **Watch tutorial video** for better guidance. [How to Migrate Data from QuickBooks](https://assets.bookeeping.ai/help/videos-v2/how-to-migrate-data-from-quickbooks.mp4)
-6. Very important to adjust/move the opening Balance entry specially if you migrated the same account which is also connected with Bookeeping.ai already. 
-7. We will import Journal entries, Customers and Vendors, Categories for the past. Rules are not created as our rules are AI Based. 
+2. **Click on Extension icon in your brower, it will reddirect you to Login to QuickBooks Online**
+3. **Select your business to import**. Then Click "Import to Bookeeping.ai"** floating button appear on Quickbooks website through our Extension
+5. **Choose wheather to import all transactions or closing balances. We recommended import closing balances only to keep things simple. This way we will only import one summed up transaction for each of your asset, liabilitys as such.**
+6. **Wait for process completion** and follow on-screen guide.  
+7. **Watch tutorial video** for better guidance. [How to Migrate Data from QuickBooks](https://assets.bookeeping.ai/help/videos-v2/how-to-migrate-data-from-quickbooks.mp4)
+8. Important: If you import data from Quickbooks for 2025, then connect your bank accounts and select the import transactions data January 1st 2026. So you do not duplicated the transaction coming from QuickBooks and Your bank. Also do not add the opening Balance entry if you are conneting the same account which you imported from QuickBooks as those balances already recorded in your ledger, 
+9. We will import Journal entries, Customers and Vendors, Categories for the past. Rules are not created as our rules are AI Based. 
 
 
 ## Import from CSV, MT940, CAMT Files
