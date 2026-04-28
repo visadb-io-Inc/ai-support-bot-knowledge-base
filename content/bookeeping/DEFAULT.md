@@ -170,7 +170,7 @@ Everything in Pro, plus:
 - Watch video Tutorial to setup Shopify: [How to Sync Shopify Sales Data](https://assets.bookeeping.ai/help/videos-v2/how-to-sync-shopify-sales-data.mp4)
 
 
-## Import from Airbnb (Pro Plans Only)
+## Import from Airbnb (Scale Plans Only)
 1. **Navigate to Transactions Page**  
    - Go to **Dashboard** → **Transactions** → **Add Items** → **Airbnb Data**. Or [Click here](https://bookeeping.ai/en/account/:account/dashboard/transactions)
 
