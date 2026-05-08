@@ -1,6 +1,6 @@
 ## What is Bookeeping.ai
 
-Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system (Acrruel coming soon). Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
+Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system. With 1-click export to PDF, Excel and Drake Tax Softare option. Human review, fixes and migration help is possible from $30/hr. Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
 
 ### 30-minute setup & done Bookkeeping Tutorials
 - [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
@@ -70,27 +70,30 @@ Everything in Pro, plus:
 - To customize the categorize we assign to Stripe, Shopify sync transactions, go to Categories & Rules > App Categorization Rules
   
 ## Reports related information 
-- Bookeeping.ai offers P&L, Balance Sheet, Cash Flow Detailed, Trial Balance, Liability and Counterparty reports
+- Bookeeping.ai offers Profile and loss, Balance Sheet, Cash Flow Detailed, Trial Balance, Liability and Counterparty reports
 - If Stripe or Shopify is connected we also show you their reports
 - If Airbnb is imported, we show property wise reports.
 - Custom Reports: You can select any time frame, apply filters and Export them in PDF as well as Excelsheet.
   
 
 ## How to extract VAT/GST or Sales tax automatically
-- User can connect with their Stripe or Shopify accounts, we will automatically read sales orders and receipts and extract tax items. You can then go Under left Menu item -Taxes > Tax Report. To see all sales tax you collected from sales and payable to Govt.
-- User can also connect their email account where all the receipts/inoices are, our system can scan PDFs, read tax item, and then find the relevant transaction, update it to record the tax. Which then can be seen in Tax Report. 
+- User can connect with their Stripe or Shopify accounts, we will automatically read sales orders and receipts and extract tax items and update entries in the ledger. You can then go Under left Menu item -Taxes > Tax Report. To see all sales tax you collected from sales and payable to Govt.
+- User can also connect their email account where all the receipts/invoices are, our system can scan PDFs, read tax item, and then find the relevant transaction, update it to record the tax amounts. Which then can be seen in Tax Report. 
 - User can also upload receipts and invoices files so we can extract both sales tax paid on expenses and sales tax received from sales.
 - In many countries VAT paid minus VAT received and balance goes to Government. We do help this calculation automatically. If you do not see this, click on 'Customize Report' top right on the same page and turn on this setting on/off.
 - User can also upload Airbnb Data and we can take out all the tax recceived on your bookeepings and show you in the tax report.
 - Watch the video tutorial: - [How to Capture GST/VAT Automatically](https://assets.bookeeping.ai/help/videos-v2/how-to-capture-sales-tax-or-vat-automatically.mp4)
 
-## Misc. important Information about the software
-- We are cash based accounting system and offer both double entry/single entry views following GAAP Principle
+## Important Information about the software
+- We are cash based accounting system and offer both double entry/single entry views following standard accounting Principle
 - User can set the fiscal year under Settings > Company Settings
-- Paula AI automatically do Books Review every hour to find problems such as duplicates, possible refunds, transfers between your own accounts, credit payment transactions so user can mark confirm. She will show a Yellow button and alert on Dashboard and on the General Ledger Page.
+- Paula AI automatically do Books Review every hour to find problems such as duplicates, possible refunds, transfers between your own accounts, credit payment transactions so user can mark confirm. If its none of these, then user can mark Something Else so they are taken as original income or expenses. She will show a Yellow button and alert on Dashboard and on the General Ledger Page. 
 - User can upload their documents to AI Drive or to Paula AI and then Chat with them. They first need to click on Paula Chat With down and at the bottom, you will see a Doc storage icon. Once you click on it, you will be in the 'Chat with Files' mode.
 - We are not a tax software however, we help you to share or send 1099, W-2 or W8BEN forms. Go to Taxes > Contractors & Employees. We show you the total you paid to each party in each year as well as total forms collected or shared.
-- You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings. 
+- You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings.
+- We are not payroll software but we offer easy Automated payroll recording feature. Where you will use an external payroll software, and copy the deductions, which then you set those as a rule in bookeeping.ai so wheneer you detect a payroll transaction in your bank we will automatically create an split ledger entry with all the deductionas to record all the taxes and items in your books. Go to Setup > Categories & Rules > Payroll & Split Entry Rules > Select a counterparty (a person you made payment) paste the items you received from your payroll tool and then save. 
+- We are not a tax filing software but we offer 1-click export to Drake Tax software file for your CPA, as well as PDF and Excel format
+- We offer human review, data migration, or general overview help from our team member will cost you $30/hr. 
 
 ## Bank Connections Information
 
@@ -116,11 +119,12 @@ Everything in Pro, plus:
    - The connection is processed securely via **Plaid** (we never see your credentials).  
 
 3. **Select Accounts & Sync**  
-   - After connecting, choose which accounts to sync and click **Connect**.  
+   - After connecting, choose which accounts to sync and click **Connect**.
    - Allow a few minutes for synchronization to finish.
     
 4. **Review & Save Transactions**  
-   - You’ll be redirected to the imported transactions page.  
+   - You’ll be redirected to the imported transactions page.
+   - Select the time period of data import. Default is 24 months.
    - You must Click **Save transactions** at the bottom to record them in the ledger.  
    - Direct link to connect your bank account, visit [here](https://bookeeping.ai/en/account/:account/upload/transaction)
 
@@ -146,7 +150,7 @@ Everything in Pro, plus:
 ### Stripe connection related information 
 
 - Taxes are calculated by referencing invoices linked to payouts and extracting from individual line items.
-- If your bank account is connected and you are only syncing fees and taxes from Stripe, then transactions you will see as income or positive, this is because stripe took the fees from your sales or income, so we need to record that first on your books and then deduct them as Stripe fees in the same transaction. Just click View icon so you can see the double entry where it shows the Stripe Fees. Or got to Profit and Loss and see the total Stripe Fees as an expense.
+- If your bank account is connected and you are only syncing fees and taxes from Stripe, then transactions you will see as income or positive, this is because stripe took the fees from your sales or income, so we need to record that first on your books and then deduct them as Stripe fees in the same transaction. Just click View icon so you can see the double entry where it shows the Stripe Fees. Or go to Profit and Loss statement and see the total Stripe Fees as an expense.
 - Stripe sync happens twice a day so please be patient if you do not see your data instantly.
 - If your key is not working, please check the permissions for the key. If you click from bookeeping.ai it will have set requried permissions.
 - You can customize how we are categorizing the Stripe data in your Books. Under Setup > Connections > Stripe > 'Update Categorization rules'. 
@@ -201,7 +205,8 @@ Everything in Pro, plus:
 6. **Wait for process completion** and follow on-screen guide.  
 7. **Watch tutorial video** for better guidance. [How to Migrate Data from QuickBooks](https://assets.bookeeping.ai/help/videos-v2/how-to-migrate-data-from-quickbooks.mp4)
 8. Important: If you import data from Quickbooks for 2025, then connect your bank accounts and select the import transactions data January 1st 2026. So you do not duplicated the transaction coming from QuickBooks and Your bank. Also do not add the opening Balance entry if you are conneting the same account which you imported from QuickBooks as those balances already recorded in your ledger, 
-9. We will import Journal entries, Customers and Vendors, Categories for the past. Rules are not created as our rules are AI Based. 
+9. We will import Journal entries, Customers and Vendors, Categories for the past. Rules are not created as our rules are AI Based.
+10. We offer human migration help start with $30/hr.
 
 
 ## Import from CSV, MT940, CAMT Files
@@ -236,7 +241,7 @@ Bookeeping.ai automatically detects duplicate transactions during import. You ha
 
 - Format supported: CSV, PDF, XLSX, XLS, MT940, CAMT. CSV is recommended. PDF is less reliable for reading line-by-line transactions.
 - On your dashboard > Click "Add Items" > Click "Import Bank Statement" Or [Click here](https://bookeeping.ai/en/account/:account/upload/transaction) to upload your bank statements.
-- Dialogue will preview you file content, you need to Click on the header first and then last entry row of the file so we know where to start reading the transactions and where to end for maximum accuracy. This is because many CSVs do not start from column 1. 
+- Dialogue will preview you file content, you need to Click on the header first and then last entry row of the file so we know where to start reading the transactions and where to end for maximum accuracy. This is because many CSVs do not start from column 1 and have additional information in the file. 
 
 - Screenshot: ![Help](https://github.com/user-attachments/assets/ef7f4157-22e8-49cd-90f8-3d02f392f5e1)
 
@@ -307,7 +312,7 @@ This feature is ideal for accountants and CPAs who want to see work with double-
 Profit and Loss are automatically generated and are real-time from your General Ledger. So it is important to categorized the transactions correctly. If you find any issues you can click the item directly from P&L and it will take you the relevant trnsactions on your ledger. 
 
 
-### Export P&L
+### Export Profit and Loss Statement
 
 - You can export any duration P&L. Please selec the duration by Click on Filter, Date and selec the year or quater. Then Click on Export button on the top right. You can export as PDF and Excel formats.
 
