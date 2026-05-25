@@ -36,8 +36,15 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### Team Plans
 
 - You can buy subscription for your Team members: https://ddevi.com/dashboard/team
-- Social media posts across teams are not shared, due to compliance of social media platforms. Team plan is for billing purposes only. 
+- Social media posts across teams are not shared as all data is stored in local browser storage, due to compliance of social media platforms. Team plan is for billing purposes only. 
 - Tutorial: https://www.youtube.com/watch?v=2YziC_ySFuQ
+
+## New White label Offer Agencies
+- Offer Devi under your own brand and pricing with white Label. You pay us one fixed price 499$ for annual billing and $699 for monthly for unlimited clients and unlimited platforms. You can approaximately earn 3000-5000$/m passive income. If you do agressive ads then 10K/month passively. It is a software which runs automatically
+- You can charge your clients per platform and/or additional bundles e.g. 20+ FB groups pack. if you go to Devi Pricing you see we offer 25 groups and sell additional groups monitoring. We also charge for each platform to maximize revenue from each client. This strategy works incredible.
+- How does it work? We give you an Agency portal, where you upload your logo, contact details, and LLM API key. You will create user add the platforms you like to allow for your client and generate a licence key. Copy the license key and share with your client.
+- For Billing, you can just use Stripe subscription billing by creating subscription with email and amount, or Wise or ask user to deposit money directly to you. You have full control when to pause or cancel user access to the software.
+- 
 
 ## Setup Guide
 
@@ -275,7 +282,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Wrong Profile
 
-Devi AI uses already logged in session of your social media profile. Just go to respective platform, connect with the correct profile, come back to Devi and refresh the page, Devi will pick the correct account. 
+Devi AI uses already logged session in your browser of your social media profile. Just go to respective platform, connect with the correct profile, come back to Devi and refresh the page, Devi will pick the correct account. 
 
 ### Debug Connection Tools
 
