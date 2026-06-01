@@ -40,11 +40,12 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Tutorial: https://www.youtube.com/watch?v=2YziC_ySFuQ
 
 ## New White label Offer Agencies
-- Offer Devi under your own brand and pricing with white Label. You pay us one fixed price 499$ for annual billing and $699 for monthly for unlimited clients and unlimited platforms. You can approaximately earn 3000-5000$/m passive income. If you do agressive ads then 10K/month passively. It is a software which runs automatically
-- You can charge your clients per platform and/or additional bundles e.g. 20+ FB groups pack. if you go to Devi Pricing you see we offer 25 groups and sell additional groups monitoring. We also charge for each platform to maximize revenue from each client. This strategy works incredible.
+- Offer Devi under your own brand and pricing with white Label. You pay us one fixed price 499$ for annual billing and $499 for monthly for upto 100 clients and unlimited platforms. You can approaximately earn 3000-5000$/m passive income. If you do agressive ads then you can earn 10K/month passively. It is a software which runs automatically and no work is required from you or your clients. 
+- You can charge your clients per platform and/or additional bundles e.g. 20+ FB groups pack. if you go to Devi Pricing you see we offer 25 groups and sell additional groups monitoring. We also charge for each platform to maximize revenue from each client. This strategy works incredible. You can also charge for additional keywords monitoring. 
 - How does it work? We give you an Agency portal, where you upload your logo, contact details, and LLM API key. You will create user add the platforms you like to allow for your client and generate a licence key. Copy the license key and share with your client.
 - For Billing, you can just use Stripe subscription billing by creating subscription with email and amount, or Wise or ask user to deposit money directly to you. You have full control when to pause or cancel user access to the software.
-- 
+- For more details visit our whitelabel page  @ https://agency.ddevi.com 
+  
 
 ## Setup Guide
 
