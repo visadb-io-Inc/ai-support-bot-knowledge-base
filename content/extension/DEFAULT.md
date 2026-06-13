@@ -54,7 +54,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 1. Visit https://ddevi.com and create account
 2. Install Chrome extension: https://chromewebstore.google.com/detail/devi/obofmdbkmindkbmdjkfdmehmddjfnhad
 3. Connect existing logged in session of Social accounts to Devi. 
-4. Add keywords (ideal 5-8)
+4. Add keywords (ideal 5-8 keywords, mix of single word and 2-worded keywords)
 5. Select groups/platforms to monitor
 6. Start getting leads. (give atleast 24 hours)
 
@@ -163,12 +163,14 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Keywords
 
-- Up to 50 keywords supported. Ideal to 8-10 keywords
+- Add only 5-8 keywords for best quality detection. Upto 20 keyword supported, if you need more contact us with a reason. 
 - Supports 3-word phrases maximum
 - each keyword must be 3 or more characters
 - **Optimization Tips**:
   - Use variations (e.g., "senior developer", "senior", "developer")
   - Include singular/plural forms
+  - Mix of single and 2-worded keywords. No sentences.
+  - Dont add 'need', 'looking' as AI automatically find those in buyers intent. 
   - Add industry jargon and common misspellings
   - Regular review and updates
   - Keyword Optimization Video: https://youtu.be/bFX9FpssXkY
