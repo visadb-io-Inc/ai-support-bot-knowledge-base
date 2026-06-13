@@ -93,7 +93,8 @@ Everything in Pro, plus:
 - You can Switch AI models used by Paula AI Assistant. Simple open the Paula Chat Window. At the top you will see a small wheel icon: Settings. Here you can swtich models, remove or add memory for Paula, update System prompts for all the Tasks Paula perform as well as AI Privacy settings.
 - We are not payroll software but we offer easy Automated payroll recording feature. Where you will use an external payroll software, and copy the deductions, which then you set those as a rule in bookeeping.ai so wheneer you detect a payroll transaction in your bank we will automatically create an split ledger entry with all the deductionas to record all the taxes and items in your books. Go to Setup > Categories & Rules > Payroll & Split Entry Rules > Select a counterparty (a person you made payment) paste the items you received from your payroll tool and then save. 
 - We are not a tax filing software but we offer 1-click export to Drake Tax software file for your CPA, as well as PDF and Excel format
-- We offer human review, data migration, or general overview help from our team member will cost you $30/hr. 
+- We offer human review, data migration, or general overview help from our team member will cost you $30/hr.
+- Bookeeping.ai is a passwordless login. You get a code on your email to login, if you are not getting it check the spam folder. Please do setup Passkey login so you do not have to get code everytime. 
 
 ## Bank Connections Information
 
