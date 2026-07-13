@@ -1,6 +1,6 @@
 ## About MakeReels
 
-MakeReels automatically creates viral short-form video content for any topic, converts blogs and news RSS to highly engaging reels in your own voice. You can publish these on social media, your website or any other platform. Perfect for generating hundreds of faceless reels using your own cloned voice.
+MakeReels automatically creates viral short-form video content for any topic, converts blogs and news RSS to highly engaging reels in your own cloned face and voice. You can publish these on TikTok, Instagram, YouTube and LinkedIn or Download for your website or any other platform. Perfect for generating hundreds of AI Face Reels Or faceless text reels using your own cloned Face and voice. MakeReels.ai generates and publishes short-form vertical videos (reels) automatically. There are three reel types: **Text Reels** (AI script + background video + AI voice, AI Editing), **News Reels** (Find latest news, AI narration of the latest news), and **Face Reels** (AI avatar, lipsync only upon download not preview).
 
 **YouTube Channel:** https://www.youtube.com/@ai_marketing_secret
 
@@ -10,9 +10,10 @@ MakeReels automatically creates viral short-form video content for any topic, co
 
 1. Go to https://makereels.ai/
 2. Choose a topic or use custom prompt
-3. Customize content, images, and voice
-4. Preview and edit as needed
-5. Download or publish directly to social media (paid plans)
+3. Choose a face (clone your face or use AI Faces) or no face (text overlay with bg videos
+4. Preview and edit as needed (Note: LipSync will generate when you download or publish the video. Preview will just show AI Face and voice but it wont be synced)
+6. Download or publish directly to social media (paid plans)
+7. Create Automation: AI will create and publish to your selected social media. (paid plans)
 
 **Tutorial Videos:**
 
@@ -24,7 +25,9 @@ MakeReels automatically creates viral short-form video content for any topic, co
 
 - Go to https://makereels.ai/news-reels
 - Enter topic to find latest news.
-- Click on any item to generate reels
+- Click on any news headline item to generate reels
+- Choose a newscaster face or upload yours or just select No Face for text based news reels. LipSync will only generate when you download or publish the video. Preview will just show AI Face and Voice but it wont be lipSynced. 
+- Customize font, text, bg vidoes then Download or Publish directly
 - Optional: Add RSS Links to create automation worflow for automatic news reels creation and publishing.
 
 **Tutorial Videos:**
@@ -42,119 +45,116 @@ MakeReels automatically creates viral short-form video content for any topic, co
 - Prices may be shown in local currency but charges in USD.
 - Geo-based discounted pricing for countries like India and parts of Africa
 - Annual plans offer discounts compared to monthly plans
-- Pricing page with auto-location detection: https://makereels.ai/en/pricing
+- See your local pricing and country based discounts on https://makereels.ai/en/pricing
 
-### Plan Options
 
-# MakeReels.ai Pricing Plans
+There are four plans: **Free**, **Creator**, **Automated Reels**, and **Automated Reels Pro**.
 
-## Free Plan
+### Free Plan
 
-- 5 Automated Reels
+**Price:** $0/month
 
-- 1M+ Free Image & Video Library
+The Free plan lets you try MakeReels with a limited monthly allowance. Reels exported on the Free plan include MakeReels.ai branding (watermark).
 
-- Basic AI Voices
-- 50 AI Image Generations
+- **5 Automated Reels per month.** Type any text prompt and AI generates a complete reel — up to 5 per month.
+- **10,000 free image & video library.** Browse and use thousands of royalty-free photos and clips directly inside the app.
+- **50 AI image generations per month.** Create up to fifty unique AI images per month for reel backgrounds.
 
-- No Support 
 
-## Creator Plan
+### Creator Plan
 
-- 100 Automated Reels
+**Price:** $19/month for US, cheaper for other countries. 
 
-- No Watermark
+- **100 Text & News Reels per month.** Create up to 100 automated reels on demand each month.
+- **10 Face Reels per month.** Export up to 10 AI face (talking-head) reels every month.
+- **No watermark.** Export and publish reels without any MakeReels.ai branding.
+- **Publish on 2 platforms.** Connect and publish to up to 2 social media platforms (for example, Instagram + TikTok).
+- **1 Auto-Pilot workflow.** AI writes, creates, and publishes reels for you automatically. One workflow included.
+- **200+ AI faces.** Pick from over 200 ready-made talking-head faces to narrate your face reels.
+- **50+ HQ AI voices.** Access 50+ premium AI voices in multiple languages and accents.
+- **250 AI image generations per month.** Generate up to 250 AI-created images per month for your reels.
+- **1M+ media library.** Access over 1 million royalty-free images and videos.
 
-- Publish on 2 Platforms
 
-- 1 Auto-Pilot Workflow
+### Automated Reels Plan
 
-- 50+ HQ AI Voices
+**Price:** $34/month for the US, cheaper for other countries. 
 
-- 250 AI Images/month
+- Everything in the **Creator** plan, plus:
+- **Unlimited Text & News Reels.** Type any text prompt and AI generates a complete reel. All templates, no monthly cap.
+- **30 Face Reels per month.** Export up to 30 AI face (talking-head) reels every month.
+- **7 Auto-Pilot workflows.** Set up 7 automation templates. AI creates up to 30 reels per month and automatically schedules and publishes them without anyone entering a prompt. Review before publishing is possible.
+- **1M+ free videos & images.** Access 1 million+ HD-quality videos and images to use as backgrounds. Royalty-free, commercial use allowed.
+- **Upload your own videos & images.** Use your own media as backgrounds for your reels.
+- **News RSS → Reels automation.** Add keywords or an RSS feed. AI finds or fetches the latest news, generates a timely reel, and publishes it automatically.
+- **Multi-platform publishing.** Connect your Instagram, TikTok, and YouTube accounts. Finished reels post themselves at scheduled times or immediately after creation.
+- **Clone your voice.** Record a sample of your voice once. AI uses your voice and style to narrate any reel you create.
+- **Clone up to 3 faces.** Clone your own face and reuse it as a talking head across your reels — up to 3 faces.
+- **High-quality AI voices.** Choose from premium synthetic voices speaking all supported languages.
+- **500 AI image generations per month.** Generate up to 500 unique AI images per month for reel backgrounds.
+- **Human chat support.** Access support via chat with priority response, Monday–Friday 8AM–4PM New York time.
+- **1 team member.** Invite one collaborator to work on your account.
 
-- 1M+ Media Library
+Also carried over from Creator: no watermark, 200+ AI faces, 50+ HQ AI voices.
 
-- No Voice Cloning
 
-## Automated Reels Plan
+### Automated Reels Pro Plan
 
-- **Everything in Creator plan**
+**Price:** $54/month
 
-- **Unlimited Automated Reels**
+- Everything in the **Automated Reels** plan, plus:
+- **Unlimited Text & News Reels.** All templates, branding, no monthly cap.
+- **60 Face Reels per month.** Export up to 60 AI face (talking-head) reels every month.
+- **20 Auto-Pilot workflows.** Set up 20 automation workflows. AI creates up to 80 reels per month and automatically schedules and publishes them with no human prompt or effort. Review before publishing is possible.
+- **10M+ free videos & images.** Access 10 million+ HD-quality videos and images to use as backgrounds. Royalty-free, commercial use allowed.
+- **News RSS → Reels automation.** Add keywords or an RSS feed. AI finds or fetches the latest news, generates a timely reel, and publishes it automatically.
+- **Clone your voice.** Record samples of your voice and accent. AI narrates in your cloned voice across all supported languages.
+- **Clone up to 10 faces.** Clone your own face and reuse it as a talking head across your reels — up to 10 faces.
+- **1,000 AI image generations per month.** Create up to 1,000 unique AI-generated visuals monthly.
+- **Human chat & phone support.** Call our support hotline for real-time assistance, 9AM–6PM New York time.
+- **2 team members.** Add two additional active users who can create, edit, or publish reels under the same subscription.
 
-  - Type any text prompt and AI generates a complete reel. All templates. no monthly cap
+Also carried over: no watermark, upload your own media, multi-platform publishing, 200+ AI faces.
 
-- **7 Auto-Pilot Workflows**
 
-  - Setup 7 automation templates; AI creates up to 30 reels/month and automatically schedules & publishes them without any human entering prompt. Review before publishing possible
+### Quick Comparison
 
-- **News RSS → Reels Automation**
+| Feature | Free | Creator | Automated Reels | Automated Reels Pro |
+|---|---|---|---|---|
+| Price/month | $0 | $19 | $34 | $54 |
+| Text & News Reels | 5 | 100 | Unlimited | Unlimited |
+| Face Reels | None | 10 | 30 | 60 |
+| Auto-Pilot Workflows | None | 1 | 7 | 20 |
+| Watermark | Yes | No | No | No |
+| Publishing Platforms | — | 2 | Multi-platform | Multi-platform |
+| AI Image Generations | 50 | 250 | 500 | 1,000 |
+| Media Library | 10,000 | 1M+ | 1M+ | 10M+ |
+| Upload Own Media | No | No | Yes | Yes |
+| Voice Cloning | No | No | Yes | Yes |
+| Face Cloning | No | No | Up to 3 | Up to 10 |
+| News RSS Automation | No | No | Yes | Yes |
+| Support | — | — | Human chat | Chat & phone |
+| Team Members | — | 0 | 1 | 2
 
-  - Add keywords or RSS feed; AI finds or fetches the latest news and generates a timely reel and publishes automatically
 
-- **Multi-Platform Publishing**
+### Auto-Pilot Workflow Limits
 
-  - Connect your Instagram, TikTok, and YouTube accounts; finished reels post themselves at scheduled times or immediately after creation
+Auto-Pilot workflows generate and publish reels automatically on a schedule, with no manual prompting required. Review before publishing is available.
 
-- **High Quality AI Voices (All accents)**
+- **Creator:** 1 workflow.
+- **Automated Reels:** 7 workflows, generating up to 30 reels per month via Auto-Pilot.
+- **Automated Reels Pro:** 20 workflows, generating up to 80 reels per month via Auto-Pilot.
 
-  - Choose from Premium synthetic voices speaking all languages to narrate your reels
+Note: "Unlimited Text & News Reels" refers to reels you create on demand. Reels generated automatically through Auto-Pilot workflows are subject to the per-plan Auto-Pilot limits above.
 
-- **Clone Your Voice (ElevenLabs)**
 
-  - Record a sample of your voice once; AI uses your voice and style to narrate any reel you create. Uses ElevenLabs AI Model
-
-- **500 AI Image Generations**
-
-  - Generate up to 500 unique AI images per month for reel backgrounds
-
-- **1 Team Member & Email/Chat Support**
-  - Invite one collaborator to work on your account; access support via email or chat with priority response
-
----
-
-## Automated Reels Pro Plan
-
-- **Everything from All plans**
-
-- **Unlimited Automated Reels**
-
-  - Type any text prompt and AI generates a complete reel—All templates, Branding, no monthly cap
-
-- **20 Auto-Pilot Workflows**
-
-  - Setup 20 automation workflows; AI creates up to 80 reels/month and automatically schedules & publishes them without any human prompt and effort. Review before publishing option possible
-
-- **Multi-Platform Publishing**
-
-  - Connect your Instagram, TikTok, and YouTube accounts; finished reels post themselves at scheduled times or immediately after creation
-
-- **HD-Quality Reels**
-
-  - Download or publish 1080p+ reels without any watermark overlay
-
-- **Clone Your Voice (Elevenlabs)**
-
-  - Record samples of you voice and accent. AI will narrate in your cloned voice across all supported languages. Uses ElevenLabs AI model
-
-- **News RSS → Reels Automation**
-
-  - Add keywords or RSS feed; AI finds or fetches the latest news and generates a timely reel and publishes automatically
-
-- **1000 AI Image Generations**
-
-  - Create up to 1 000 unique AI-generated visuals monthly for any project or reel
-
-- **Phone Support**
-  - Call our support
 
 #### Credits System
 
 - One-time purchase option without subscription, never expired.
 - One credit for 1 reel generation
 - Remove watermarks and HD quality video
-- Schedule reels on TikTok, YouTube, and Instagram
+- Schedule reels on TikTok, YouTube, Instagram and LinkedIn
 - Does not include voice cloning or automations
 - Credits are not refundable
 - Purchase credits: https://makereels.ai/api/stripe/purchase-credit?credits=10
@@ -172,8 +172,8 @@ MakeReels automatically creates viral short-form video content for any topic, co
 - Custom prompts for specific topics
 - Business promotion & industry insights
 - News reels generation from RSS or Topic
-- Top 5 lists and quizzes
-- Educational content and product promotions
+- Viral Top 5 lists and Rankings
+- UGC & Ads with AI Influencers
 - Motivational content
 - Blog link conversion to reels
 - Generate quiz, statistics, jokes, insights, daily tips, famous quotes, testimonials
@@ -184,16 +184,17 @@ MakeReels automatically creates viral short-form video content for any topic, co
 - Various transition options and text animation styles
 - Option to add captions, stickers, and hashtags
 - All content is royalty-free including videos, sound, voice-over, and effects
+- AI Faces & Voices are not real humans. No Copyrights. Free to use however you like. 
+  
 
 ### AI Voice & Voice CLoning Features
 
-- AI-generated voice narrations in 30+ languages, accents and styles
+- AI-generated Face lipsync and voice narrations in 30+ languages, accents and styles
 - Voice cloning for multiple languages and accents (paid feature)
 - Test voice cloning for free before signing up: https://makereels.ai/en/voice-cloning
 - Paid version use advance Voice Cloning from ElevenLabs
-- User have full control of their cloned voice. Incl. deleting permanantly.
+- User have full control of their cloned face & voice. Incl. deleting permanantly.
 - Same language required for both voice narration and text
-- Cloned voice can be used in unlimited reels automatically
 
 ### Customization Options
 
@@ -201,6 +202,7 @@ MakeReels automatically creates viral short-form video content for any topic, co
 - Adjust text and font size
 - Add logos and branding
 - Change background music and adjust volume
+- Change the location of AI Avatar in the scene. 
 - Multiple video styles and effects
 
 ## Product Guide & How To's
@@ -389,14 +391,13 @@ You can create automations workflow to forget about all the manual work. You can
 #### Subscription Issues
 
 - Confirm which project has the subscription (check top left)
-- Select the correct project with active subscription
+- Select the correct project with active subscription says 'PAID' in front of the project name. 
 
 #### Known Limitations
 
 - Arabic text alignment issues (being worked on)
 - Cannot remove source attribution from news reels
 - Limited to one connected social media account per platform. Add a new project to connect a separate account.
-- No built-in video editing for uploaded content
 
 ## Best Practices
 
@@ -407,9 +408,9 @@ You can create automations workflow to forget about all the manual work. You can
 - Engage with comments and share in stories
 - Mix faceless reels with occasional face-to-camera content (monthly)
 
-### Voice & Language
+### AI Face, Voice & Language
 
-- Clone only your own voice (not others)
+- Clone only your own face and voice (not others)
 - Record multiple samples for high accuracy of cloned voice
 - Use same language for both voice and text
 - Listen to your clone voice samle before saving. If not correct, record your sample again.
