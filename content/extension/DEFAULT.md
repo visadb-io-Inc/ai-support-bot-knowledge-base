@@ -2,7 +2,7 @@
 
 ## What is Devi AI?
 
-Devi AI is a Chrome extension that helps businesses monitor social media platforms for keywords automatically. Ideal to find leads and opportunities. The tool monitors private and public Facebook groups, Twitter/X, Reddit, LinkedIn, NextDoor, Telegram, BlueSky, Threads and WhatsApp groups for specified keywords, then uses AI to read every post and detect buyer intent. Devi AI also generates personalized responses/comments and content.
+Devi AI is a Chrome extension that helps businesses monitor social media platforms for keywords automatically. Ideal to find leads and opportunities. The tool monitors private and public Facebook groups, Twitter/X, Reddit, LinkedIn, NextDoor, Telegram, BlueSky, Quora, Threads and WhatsApp groups for specified keywords, then uses AI to read every post and detect buyer intent. Devi AI also generates personalized responses/comments and content.
 
 ### Devi AI Software Key Features
 
@@ -156,7 +156,16 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Monitor Posts for keywords.
 - One account connection at a time
+- Fully automated runs 12 times a day by default. You can increase the frequency.
+
+### Quora
+- Monitor Quoira posts for keywords
+- Monitor Quora Questions for keywords
+- No we do not monitor comments, answers only Questions and Posts.
+- There is no location filter Quora offers, so we search recent global posts and questions for your keywords and store them for you with links so you can engage.
+- Quora only pricing, go to pricing page and select Quora only.
 - Fully automated runs 12 times a day by default. You can increase the frequency. 
+
 
 
 ## Monitoring Configuration
