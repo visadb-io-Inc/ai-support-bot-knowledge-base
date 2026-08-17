@@ -6,7 +6,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 ### Devi AI Software Key Features
 
-- **Social Media Monitoring**: Track keywords across multiple platforms fully automated
+- **Social Media Monitoring**: Track keywords across multiple platforms fully automated. Posts and Comments monitoring possible. 
 - **AI Lead Detection**: ChatGPT analyzes each post for intent and purpose
 - **AI Content Creation**: AI generates posts, visual content, and draft comments and responses
 - **Post Scheduling**: Schedule content across connected social media accounts
@@ -183,7 +183,13 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
   - Add industry jargon and common misspellings
   - Regular review and updates
   - Keyword Optimization Video: https://youtu.be/bFX9FpssXkY
-  - By default we do exact match of the keyword(s) or phrase, however, user can turn this on and use contains so if a word match their keyword it will also show. 
+  - By default we do exact match of the keyword(s) or phrase, however, user can turn this on and use contains so if a word match their keyword it will also show.
+
+### Posts & Comments Monitoring
+- Devi automatically Monitor all posts on all platform for your keywords however, To track Comment, simply click on 'Track Comments' button appear when you hover on any post found by Devi. Devi will monitor all the comments on ths post for your keywords and show you under 'Comments' tab next to/after 'New Leads', 'Seen Leads' tab.
+
+- You can track comments for 30-posts at one giving time, this is due to limitation of social media platforms. Deselect the existing comment tracking on any post. You can see the list of currently comment tracking post by click on 'Track Comment 30/30' appear next to AI filters e.g. 'Buy Intent' Spam' as such. 
+
 
 ### Scanning Settings
 
@@ -209,13 +215,13 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### AI Response Generation
 
 - AI generates ideal personalized responses
-- Use custom Custom Prompts to set the tone, style of responses under Settings > Reply Prompt
+- Use custom Custom Prompts to set the tone, style of responses. Hover on any Post. 'Comment' Button will appear. click on it. See at the bottom 'PROMPTS' > then Click on 'Reply Prompts'. Make sure you follow the instructions mentioned there. 
 - Manual approval required before publishing comments.
 
 ### ChatGPT AI Leads Filter
 
 - Every posts is read by ChatGPT which Categorizes leads by intent such as buying intent, information, complains, spam.
-- Custom filters can be setup for ChatGPT to read and categorize.
+- Custom filters can be setup for ChatGPT to read and categorize. You can here to add more filters and edit the prompts of current filter. You can click on 'AI Settings' middle right of the screen or click here for direct link chrome-extension://obofmdbkmindkbmdjkfdmehmddjfnhad/index.html?path=settings/ai-lead-filter. 
 
 ## Notifications & Alerts
 
