@@ -199,7 +199,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
   - By default we do exact match of the keyword(s) or phrase, however, user can turn this on and use contains so if a word match their keyword it will also show.
 
 ### Posts & Comments Monitoring
-- Devi automatically Monitor all posts on all platform for your keywords however, To track Comment, simply click on 'Track Comments' button appear when you hover on any post found by Devi. Devi will monitor all the comments on ths post for your keywords and show you under 'Comments' tab next to/after 'New Leads', 'Seen Leads' tab.
+- Devi automatically Monitor all posts on all platform for your keywords however, To track Comment, simply click on 'Tracking Comments' button appear when you hover on any post found by Devi. Devi will monitor all the comments on ths post for your keywords and show you under 'Comments' tab next to/after 'New Leads', 'Seen Leads' tab.
 
 - You can track comments for 30-posts at one giving time, this is due to limitation of social media platforms. Deselect the existing comment tracking on any post. You can see the list of currently comment tracking post by click on 'Track Comment 30/30' appear next to AI filters e.g. 'Buy Intent' Spam' as such. 
 
