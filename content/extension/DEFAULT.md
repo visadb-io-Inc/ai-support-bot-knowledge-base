@@ -2,7 +2,7 @@
 
 ## What is Devi AI?
 
-Devi AI is a Chrome extension that helps businesses monitor social media platforms for keywords automatically. Ideal to find leads and opportunities. The tool monitors private and public Facebook groups, Twitter/X, Reddit, LinkedIn, NextDoor, Telegram, BlueSky, Quora, Threads and WhatsApp groups for specified keywords, then uses AI to read every post and detect buyer intent. Devi AI also generates personalized responses/comments and content.
+Devi AI is a Chrome extension that helps businesses monitor social media platforms for keywords automatically. Ideal to find leads and opportunities. The tool monitors private and public Facebook groups, Twitter/X, Reddit, LinkedIn, NextDoor, Telegram, BlueSky, Quora, Youtube, Threads and WhatsApp groups for specified keywords, then uses AI to read every post and detect buyer intent. Devi AI also generates personalized responses/comments and content.
 
 ### Devi AI Software Key Features
 
@@ -74,6 +74,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - Monitors public and private groups (must be member, no need to be an admin)
 - Up to 25 groups with basic subscription. Additional groups $20 for each 10 groups pack. Cheaper depending on the country. Go to billing page to find out. 
 - Scan interval available 30 minutes to 8 hours. Recommended 2+ hours
+- Monitor comments on Selected Post only (30 limit). Go to Facebook Tab, Click 'Track Comments'. Button appear when you hover on a desired post. 
 - AI Lead Detection: ChatGPT analyzes each post for intent and purpose
 - AI Responses: AI will write a personalize comment/response. No Auto commenting. Human click is required to send. 
 - AI Content Creation: AI generates posts, visual content, and News Headlines
@@ -85,7 +86,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Monitors posts from within and outside network (up to 3+ degree connections)
 - Company pages and personal profiles (including Top Voices)
-- Does not monitor comments
+- Monitor comments on Selected Post only (30 limit). Go to LinkedIn Tab, Click 'Track Comments'. Button appear when you hover on a desired post. 
 - AI generated responses from within Devi
 - Faster scan intervals possible (30+ minutes).
 - Scrap more posts by changing the settings. Ideal to use default settings.
@@ -94,12 +95,22 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 - For LinkedIn only pricing visit https://ddevi.com/pricing page and select LinkedIn.
 - WebHook Data export is supported.
 
+### YouTube
+
+- Monitors videos & shorts within last 30 days first time, then latest every 2 last two hours.
+- You can monitor comments on selected videos / Shorts as well. Track Comments on 30 videos or shorts. 
+- Whatever profile you are Logged in with, Devi will use that to search videos and shorts. You can check by going to Youtube.com
+- Faster scan intervals possible (30+ minutes).
+- For YouTube only pricing visit https://ddevi.com/pricing page and select Youtube.
+- WebHook Data export is supported.
+
 
 ### Twitter/X
 
 - Location options: Scan posts "Near Me" or "Global"
 - Faster scan intervals possible (30+ minutes)
 - Detect posts by influencers for your keywords
+- Monitor comments on Selected Post only (30 limit). Go to X Tab, Click 'Track Comments'. Button appear when you hover on a desired post. 
 - AI generated responses from within Devi. No auto DMs to protect your account. 
 - For X/Twitter only pricing visit https://ddevi.com/pricing page and select Twitter/X
 - Webhook data export is supported
@@ -111,7 +122,8 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 
 - Monitor global posts or choose specific subreddits (up to 15). Additional subreddits for extra cost
 - Must join subreddit before monitoring
-- Monitors post titles only, click to view the content available on devi
+- Monitor comments on Selected Post only ((30 limit)). Go to Reddit Tab, Click 'Track Comments'. Button appear when you hover on a desired post. 
+- Monitors post titles & description if available, click to view the content available on devi
 - AI generated responses from within Devi. No auto dms to protect your account. 
 - For Reddit only pricing visit https://ddevi.com/pricing page and select Reddit.
 - Fully automated runs 12 times a day by default. You can increase the frequency. 
@@ -161,6 +173,7 @@ Devi AI is a Chrome extension that helps businesses monitor social media platfor
 ### Quora
 - Monitor Quoira posts for keywords
 - Monitor Quora Questions for keywords
+- Monitor comments on Selected Post only (30 limit). Go to Quora Tab, Click 'Track Comments'. Button appear when you hover on a desired post. 
 - No we do not monitor comments, answers only Questions and Posts.
 - There is no location filter Quora offers, so we search recent global posts and questions for your keywords and store them for you with links so you can engage.
 - Quora only pricing, go to pricing page and select Quora only.
