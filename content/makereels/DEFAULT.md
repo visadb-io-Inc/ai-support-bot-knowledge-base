@@ -432,6 +432,7 @@ You can create automations workflow to forget about all the manual work. You can
 - Direct access: https://makereels.ai/account/settings#advanced
 - Options: Delete project OR Delete all data (not receoverable)
 - 3-day deletion period to avoid error deletion, after that permanantly delete.
+- Only user can and is responsible to perform this action, our team do not have access to this. 
 
 ## Support & Resources
 
