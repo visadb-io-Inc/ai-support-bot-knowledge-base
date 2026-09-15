@@ -1,6 +1,6 @@
 ## What is Bookeeping.ai
 
-Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system. With 1-click export to PDF, Excel and Drake Tax Softare option. Human review, fixes and migration help is possible from $30/hr. Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
+Bookeeping.ai is the first AI Accountant Paula that automates 95% of Bookkeeping tasks for small businesses, freelancers, and accountants. Connect your Bank accounts with securely using Plaid and Paula will take care of Categorization, P&L, Balancesheet, receipt finding from email and matching. You can also CHAT with Paula and ask her to complete financial duties like creating statements, ledgers, invoicing, form filling, tax inquiries, and creating sheets. Replace multiple tools and expert skills with this AI Accountant. It is a cashbased full double entry system. With 1-click export to PDF, Excel and Drake Tax Softare option. Try this tool to save 50 hours a week. Bookeeping.ai is made by a US based company Devi AI LLC located in Sheridan, Wyoming, supported by MIT CEE, Nvdia and Google for Startups. 
 
 ### 30-minute setup & done Bookkeeping Tutorials
 - [Connect Bank Account](https://assets.bookeeping.ai/help/videos-v2/how-to-connect-bank-account.mp4)
@@ -463,7 +463,7 @@ Becareful to run this option as it will remove each and every transactions, rule
 
 ## Delete Company and All data
 
-It is user responsibility to dowload their data first and then use this option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. 
+It is user responsibility to dowload their data first and then use Delete Data option when you are closing your account with bookeeping.ai permananatly. Remember we will run the 7-days recovery window once you exerice this option so you can recover if it was a mistake, after 7 days the data will be removed parmanantly and cannot be recovered. Only user themselves can delete their data and account, our team do not have access to this feature
 
 - Click on Settings > Select Company Settings > Click on "Delete This Company and All Data" or [Direct Link](https://bookeeping.ai/en/account/:account/dashboard/settings/company)
 - See screenshot![here](https://github.com/user-attachments/assets/50c9a700-a84f-4565-a360-a0abc37ce11b)
